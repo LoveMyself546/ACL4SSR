@@ -1,8 +1,8 @@
 # 广告列表 adblock rules
 # 内容：EasyPrivacy列表，隐私保护，屏蔽隐私追踪
 # 来源：https://easylist-downloads.adblockplus.org/easyprivacy.txt
-# 更新：2020-05-31 11:43:30
-# 数量：2517条
+# 更新：2020-06-01 22:27:04
+# 数量：2525条
 
 DOMAIN-SUFFIX,0sbm.consobaby.co.uk
 DOMAIN-SUFFIX,0x1f4b0.com
@@ -513,6 +513,7 @@ DOMAIN-SUFFIX,collector-cdn.github.com
 DOMAIN-SUFFIX,collector-medium.lightstep.com
 DOMAIN-SUFFIX,collector-px0py5pczn.octopart.com
 DOMAIN-SUFFIX,collector.automote.co.nz
+DOMAIN-SUFFIX,collector.clareity.net
 DOMAIN-SUFFIX,collector.fiverr.com
 DOMAIN-SUFFIX,collector.githubapp.com
 DOMAIN-SUFFIX,collector.ksax.com
@@ -876,6 +877,7 @@ DOMAIN-SUFFIX,fuse.forbes.com
 DOMAIN-SUFFIX,fusion.bonniertidskrifter.se
 DOMAIN-SUFFIX,future-fie-assets.co.uk
 DOMAIN-SUFFIX,future-price.co.uk
+DOMAIN-SUFFIX,fyrsbckgi-c.global.ssl.fastly.net
 DOMAIN-SUFFIX,g-stats.openhost.es
 DOMAIN-SUFFIX,g.bit.pt
 DOMAIN-SUFFIX,g.bitmag.com.br
@@ -952,6 +954,7 @@ DOMAIN-SUFFIX,glogger.inspcloud.com
 DOMAIN-SUFFIX,gmonitor.aliimg.com
 DOMAIN-SUFFIX,gnar.grammarly.com
 DOMAIN-SUFFIX,go.optifuze.com
+DOMAIN-SUFFIX,go.trouter.skype.com
 DOMAIN-SUFFIX,gobba.myeffect.net
 DOMAIN-SUFFIX,google-analytics.com/batch
 DOMAIN-SUFFIX,google-analytics.com/internal/collect
@@ -1497,6 +1500,7 @@ DOMAIN-SUFFIX,rec.udn.com
 DOMAIN-SUFFIX,reco.hardsextube.com
 DOMAIN-SUFFIX,recommendation.24.com
 DOMAIN-SUFFIX,redeye.williamhill.com
+DOMAIN-SUFFIX,ref.dealerinspire.com
 DOMAIN-SUFFIX,referer.pixplug.in
 DOMAIN-SUFFIX,referrer.disqus.com
 DOMAIN-SUFFIX,rek.www.wp.pl
@@ -1521,6 +1525,7 @@ DOMAIN-SUFFIX,retcode.taobao.com
 DOMAIN-SUFFIX,retrack.q-divisioncdn.de
 DOMAIN-SUFFIX,revsci.tvguide.com
 DOMAIN-SUFFIX,rich-agent.s3.amazonaws.com
+DOMAIN-SUFFIX,risk.clearbit.com
 DOMAIN-SUFFIX,rl.heise.de
 DOMAIN-SUFFIX,rlinks.one.in
 DOMAIN-SUFFIX,rok.com.com
@@ -1542,6 +1547,7 @@ DOMAIN-SUFFIX,rum.minutemediaservices.com
 DOMAIN-SUFFIX,rum.nccgroup-webperf.com
 DOMAIN-SUFFIX,rv.modanisa.com
 DOMAIN-SUFFIX,rva.outbrain.com
+DOMAIN-SUFFIX,rvkcpqz.com
 DOMAIN-SUFFIX,s.360.cn
 DOMAIN-SUFFIX,s.agava.ru
 DOMAIN-SUFFIX,s.clickability.com
@@ -1885,6 +1891,7 @@ DOMAIN-SUFFIX,stats.slideshare.net
 DOMAIN-SUFFIX,stats.smartclip.net
 DOMAIN-SUFFIX,stats.someecards.com
 DOMAIN-SUFFIX,stats.splinder.com
+DOMAIN-SUFFIX,stats.tazeros.com
 DOMAIN-SUFFIX,stats.technopia.it
 DOMAIN-SUFFIX,stats.teledyski.info
 DOMAIN-SUFFIX,stats.tipser.com
@@ -2025,6 +2032,7 @@ DOMAIN-SUFFIX,target.smi2.net
 DOMAIN-SUFFIX,target.smi2.ru
 DOMAIN-SUFFIX,target.ukr.net
 DOMAIN-SUFFIX,targeting.perso.aws.arc.pub
+DOMAIN-SUFFIX,targeting.voxus.tv
 DOMAIN-SUFFIX,tbe.tom.ru
 DOMAIN-SUFFIX,tbskip.taobao.com
 DOMAIN-SUFFIX,tc.airfrance.com

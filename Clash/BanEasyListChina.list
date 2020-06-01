@@ -1,8 +1,8 @@
 # 广告列表 adblock rules
 # 内容：EasyListChina列表，只包含ABP中的 EasyListChina 内容
 # 来源：https://easylist-downloads.adblockplus.org/easylistchina.txt
-# 更新：2020-05-31 11:43:25
-# 数量：5207条
+# 更新：2020-06-01 22:26:58
+# 数量：5211条
 
 DOMAIN-SUFFIX,0024aaaa.com
 DOMAIN-SUFFIX,003store.com
@@ -528,6 +528,7 @@ DOMAIN-SUFFIX,8j24h.cn
 DOMAIN-SUFFIX,8jkx.com
 DOMAIN-SUFFIX,8ls3n.cn
 DOMAIN-SUFFIX,8mfty.com
+DOMAIN-SUFFIX,8mlb.cn
 DOMAIN-SUFFIX,8p30k.cn
 DOMAIN-SUFFIX,8t5vd.cn
 DOMAIN-SUFFIX,8ucdn.com
@@ -2030,6 +2031,7 @@ DOMAIN-SUFFIX,gp.zaiyunli.cn
 DOMAIN-SUFFIX,gqswg.com
 DOMAIN-SUFFIX,gralfusnzpo003.top
 DOMAIN-SUFFIX,gralfusnzpo004.top
+DOMAIN-SUFFIX,gralfusnzpo006.top
 DOMAIN-SUFFIX,greenbetterkids.com
 DOMAIN-SUFFIX,greenhouseglobal.cn
 DOMAIN-SUFFIX,gringrin.cn
@@ -2051,7 +2053,6 @@ DOMAIN-SUFFIX,gtiou.com
 DOMAIN-SUFFIX,gtmucs.cn
 DOMAIN-SUFFIX,gtnde.com
 DOMAIN-SUFFIX,guaas.com
-DOMAIN-SUFFIX,guang.lesports.com
 DOMAIN-SUFFIX,guang.sdsgwy.com
 DOMAIN-SUFFIX,guangsss1999.com
 DOMAIN-SUFFIX,guangtui1999.com
@@ -3895,6 +3896,7 @@ DOMAIN-SUFFIX,smxay.com
 DOMAIN-SUFFIX,smxsg.com
 DOMAIN-SUFFIX,snnnyy.com
 DOMAIN-SUFFIX,so9l.com
+DOMAIN-SUFFIX,sobolong.com
 DOMAIN-SUFFIX,socdm.com
 DOMAIN-SUFFIX,softtest.vip
 DOMAIN-SUFFIX,sohu999.com
@@ -4435,6 +4437,7 @@ DOMAIN-SUFFIX,wlkpa.cn
 DOMAIN-SUFFIX,wlshotel.cn
 DOMAIN-SUFFIX,wm.mipcdn.com
 DOMAIN-SUFFIX,wm.szdushi.com.cn
+DOMAIN-SUFFIX,wmeng.feihuadns.com
 DOMAIN-SUFFIX,wnbfw.com
 DOMAIN-SUFFIX,wndlkj.com
 DOMAIN-SUFFIX,wneia.iaskhot.com
@@ -4464,6 +4467,7 @@ DOMAIN-SUFFIX,ws7j.com
 DOMAIN-SUFFIX,wsgblw.com
 DOMAIN-SUFFIX,wsoue.com
 DOMAIN-SUFFIX,wstztt.com
+DOMAIN-SUFFIX,wsvike.cn
 DOMAIN-SUFFIX,wsxxu.com
 DOMAIN-SUFFIX,wszzb.top
 DOMAIN-SUFFIX,wu36n.cn
