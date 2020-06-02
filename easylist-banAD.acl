@@ -163,7 +163,7 @@
 (^|\.)push\.app\.autohome\.com\.cn$
 
 # Baidu
-(^|\.)(a|adm|adscdn|afd|als|anquan|appc|as|c|cb|cbjs|cbjslog|cjhq|cpro|cpro2|cpu|cpu-admin|crs|drmcmm|e|eclick|eiv|entry)\.baidu\.(com|cn)$
+(^|\.)(a|adm|adscdn|afd|als|anquan|appc|as|c|cb|cbjs|cbjslog|cjhq|cpro|cpro2|cpu-admin|crs|drmcmm|e|eclick|eiv|entry)\.baidu\.(com|cn)$
 (^|\.)(hc|hm|hmma|hpd|imageplus|ma|mobads-logs|mobads|mtj|nsclick)\.baidu\.(com|cn)$
 (^|\.)(pups|rj|rp|spcode|tk|tuisong|ucstat|ufosdk|union|utility|utk|videopush|wangmeng|wm|znsv)\.baidu\.(com|cn)$
 (^|\.)ad\.duapps\.com$
@@ -171,7 +171,6 @@
 (^|\.)adx\.xiaodutv\.com$
 (^|\.)ae\.bdstatic\.com$
 (^|\.)antivirus\.baidu\.com$
-(^|\.)api\.cpu\.baidu\.com$
 (^|\.)api\.mobula\.sdk\.duapps\.com$
 (^|\.)ashifen\.com$
 (^|\.)baichuan\.baidu\.com$
@@ -818,7 +817,6 @@
 (^|\.)adhouyi\.com$
 (^|\.)adinfuse\.com$
 (^|\.)adirects\.com$
-(^|\.)adjust\.com$
 (^|\.)adjust\.io$
 (^|\.)adkmob\.com$
 (^|\.)adlive\.cn$
@@ -1519,7 +1517,7 @@
 
 # Adblock Rules
 # 内容：EasyList + EasyListChina + EasyPrivacy列表
-# 数量：9823条
+# 数量：9830条
 (^|\.)0024aaaa\.com$
 (^|\.)003store\.com$
 (^|\.)00880808\.com$
@@ -1564,6 +1562,7 @@
 (^|\.)0592weixin\.com$
 (^|\.)05q9n\.cn$
 (^|\.)05xz0h2xo799\.com$
+(^|\.)0601chruopjsm\.xyz$
 (^|\.)0728w\.cn$
 (^|\.)0755man\.cn$
 (^|\.)0756sjlm\.com\.cn$
@@ -1594,6 +1593,7 @@
 (^|\.)0x1f4b0\.com$
 (^|\.)0xxd\.com$
 (^|\.)0z5jn\.cn$
+(^|\.)1-m\.xyz$
 (^|\.)1-vr\.xyz$
 (^|\.)1\.01fy\.cn$
 (^|\.)1\.1010pic\.com$
@@ -2045,6 +2045,7 @@
 (^|\.)7891655\.cn$
 (^|\.)7895983\.cn$
 (^|\.)7a096v\.cn$
+(^|\.)7b7by5utoney\.com$
 (^|\.)7car\.com\.cn$
 (^|\.)7dah8\.com$
 (^|\.)7ef4d\.cn$
@@ -2270,7 +2271,6 @@
 (^|\.)aa\.wenxue6\.com$
 (^|\.)aa\.xiangxiangmf\.com$
 (^|\.)aaa\.tumanyi\.com$
-(^|\.)aaaf\.info$
 (^|\.)aaan\.xyz$
 (^|\.)aaaw\.xyz$
 (^|\.)aabbccddeeffgg\.cn$
@@ -2845,8 +2845,6 @@
 (^|\.)apopgo\.com$
 (^|\.)apparentsav\.club$
 (^|\.)appimg\.0575bbs\.com$
-(^|\.)appl\.1-m\.xyz$
-(^|\.)appl\.1-vr\.xyz$
 (^|\.)apple\.www\.letv\.com$
 (^|\.)applequan\.com$
 (^|\.)appnext-a\.akamaihd\.net$
@@ -3481,6 +3479,7 @@
 (^|\.)casinohacksforyou\.com$
 (^|\.)caspionlog\.appspot\.com$
 (^|\.)cast\.ra\.icast\.cn$
+(^|\.)cathaycentury\.com$
 (^|\.)cauthuny\.net$
 (^|\.)cavcz\.com$
 (^|\.)cawsodpet\.club$
@@ -4923,6 +4922,7 @@
 (^|\.)filmoljupci\.com$
 (^|\.)fimg-resp\.seznam\.cz$
 (^|\.)findicaterperty\.site$
+(^|\.)findx2\.info$
 (^|\.)fingahvf\.top$
 (^|\.)finized\.co$
 (^|\.)fipipo\.cn$
@@ -5362,6 +5362,7 @@
 (^|\.)greatmentef\.club$
 (^|\.)greatvideos\.xyz$
 (^|\.)grebanise\.pw$
+(^|\.)greemeek\.net$
 (^|\.)green-griffin-860\.appspot\.com$
 (^|\.)greenbetterkids\.com$
 (^|\.)greenhouseglobal\.cn$
@@ -5512,6 +5513,7 @@
 (^|\.)hawbfa\.com$
 (^|\.)hawk\.pcgamer\.com$
 (^|\.)hawkeye-data-production\.sciencemag\.org\.s3-website-us-east-1\.amazonaws\.com$
+(^|\.)hawo\.cc$
 (^|\.)hayfatduh\.com$
 (^|\.)haypaydig\.club$
 (^|\.)hbalx\.cn$
@@ -6383,6 +6385,7 @@
 (^|\.)kniferasatte\.info$
 (^|\.)knnwdyou\.com$
 (^|\.)knottishhuntilc\.info$
+(^|\.)knutenegros\.pro$
 (^|\.)kod4pc293\.com$
 (^|\.)kofcq5\.cn$
 (^|\.)kofpag\.com$
@@ -6736,6 +6739,7 @@
 (^|\.)lopostone\.com$
 (^|\.)lore\.circulate\.com$
 (^|\.)loricalreach\.info$
+(^|\.)louchees\.net$
 (^|\.)louisan\.cn$
 (^|\.)lousivency\.com\.cn$
 (^|\.)loveconer\.com$
@@ -9120,6 +9124,7 @@
 (^|\.)striesastanov\.site$
 (^|\.)strikersucces\.site$
 (^|\.)stroublederaa\.club$
+(^|\.)stroublederel\.club$
 (^|\.)sts\.eccmp\.com$
 (^|\.)stsywl\.com$
 (^|\.)stunninglover\.com$

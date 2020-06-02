@@ -1,8 +1,8 @@
 # 广告列表 adblock rules
 # 内容：EasyListChina列表，只包含ABP中的 EasyListChina 内容
 # 来源：https://easylist-downloads.adblockplus.org/easylistchina.txt
-# 更新：2020-06-01 22:26:58
-# 数量：5211条
+# 更新：2020-06-02 22:25:58
+# 数量：5214条
 
 DOMAIN-SUFFIX,0024aaaa.com
 DOMAIN-SUFFIX,003store.com
@@ -46,6 +46,7 @@ DOMAIN-SUFFIX,0571hy.com
 DOMAIN-SUFFIX,0571yy.com
 DOMAIN-SUFFIX,0592weixin.com
 DOMAIN-SUFFIX,05q9n.cn
+DOMAIN-SUFFIX,0601chruopjsm.xyz
 DOMAIN-SUFFIX,0728w.cn
 DOMAIN-SUFFIX,0755man.cn
 DOMAIN-SUFFIX,0756sjlm.com.cn
@@ -661,7 +662,6 @@ DOMAIN-SUFFIX,aa.ninze.com
 DOMAIN-SUFFIX,aa.wenxue6.com
 DOMAIN-SUFFIX,aa.xiangxiangmf.com
 DOMAIN-SUFFIX,aaa.tumanyi.com
-DOMAIN-SUFFIX,aaaf.info
 DOMAIN-SUFFIX,aaan.xyz
 DOMAIN-SUFFIX,aaaw.xyz
 DOMAIN-SUFFIX,aabbccddeeffgg.cn
@@ -1163,6 +1163,7 @@ DOMAIN-SUFFIX,car156.net
 DOMAIN-SUFFIX,caredaily.me
 DOMAIN-SUFFIX,carpenterrprp.com
 DOMAIN-SUFFIX,casbanlly.com
+DOMAIN-SUFFIX,cathaycentury.com
 DOMAIN-SUFFIX,cavcz.com
 DOMAIN-SUFFIX,cayanfang.com
 DOMAIN-SUFFIX,cbdm.weathercn.com
@@ -1801,6 +1802,7 @@ DOMAIN-SUFFIX,fgaon.com
 DOMAIN-SUFFIX,fghlmiaoqrtyfl65ha0ss22k3dqi6lng.com
 DOMAIN-SUFFIX,fgzba.com
 DOMAIN-SUFFIX,fhbv.cn
+DOMAIN-SUFFIX,findx2.info
 DOMAIN-SUFFIX,fipipo.cn
 DOMAIN-SUFFIX,fj95560.com
 DOMAIN-SUFFIX,fjbzjc.com
@@ -2143,6 +2145,7 @@ DOMAIN-SUFFIX,hascosafety.com
 DOMAIN-SUFFIX,hasiad.cn
 DOMAIN-SUFFIX,hatbiz.cn
 DOMAIN-SUFFIX,hawbfa.com
+DOMAIN-SUFFIX,hawo.cc
 DOMAIN-SUFFIX,hbalx.cn
 DOMAIN-SUFFIX,hbaog.com
 DOMAIN-SUFFIX,hbbww.com
