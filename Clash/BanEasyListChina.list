@@ -1,8 +1,8 @@
 # 广告列表 adblock rules
 # 内容：EasyListChina列表，只包含ABP中的 EasyListChina 内容
 # 来源：https://easylist-downloads.adblockplus.org/easylistchina.txt
-# 更新：2020-06-02 22:25:58
-# 数量：5214条
+# 更新：2020-06-04 22:05:14
+# 数量：5219条
 
 DOMAIN-SUFFIX,0024aaaa.com
 DOMAIN-SUFFIX,003store.com
@@ -593,6 +593,7 @@ DOMAIN-SUFFIX,9yyg.cn
 DOMAIN-SUFFIX,a.4aqq.com
 DOMAIN-SUFFIX,a.52wubi.com
 DOMAIN-SUFFIX,a.52zxw.com
+DOMAIN-SUFFIX,a.91zhongkao.com
 DOMAIN-SUFFIX,a.armystar.com
 DOMAIN-SUFFIX,a.bake818.cn
 DOMAIN-SUFFIX,a.baomihua.com
@@ -849,6 +850,7 @@ DOMAIN-SUFFIX,anyysz.com
 DOMAIN-SUFFIX,anzhuocpm.com
 DOMAIN-SUFFIX,aodongjiaosu.com
 DOMAIN-SUFFIX,aomde.com
+DOMAIN-SUFFIX,aox7.xyz
 DOMAIN-SUFFIX,aoyinn.com
 DOMAIN-SUFFIX,aoyou2.top
 DOMAIN-SUFFIX,api.557400.com
@@ -3486,6 +3488,7 @@ DOMAIN-SUFFIX,pougg.com
 DOMAIN-SUFFIX,powergg.top
 DOMAIN-SUFFIX,poyang.com
 DOMAIN-SUFFIX,pp9kk.com
+DOMAIN-SUFFIX,ppee.xyz
 DOMAIN-SUFFIX,pptte.com
 DOMAIN-SUFFIX,pqnlorg.cn
 DOMAIN-SUFFIX,pqwtrq.xyz
@@ -4388,6 +4391,7 @@ DOMAIN-SUFFIX,weboser.com
 DOMAIN-SUFFIX,wechatpu.com
 DOMAIN-SUFFIX,weduoke.com
 DOMAIN-SUFFIX,weekslw.com
+DOMAIN-SUFFIX,wehoysp.cn
 DOMAIN-SUFFIX,weiguanwang888.com
 DOMAIN-SUFFIX,weihuiyungou.com
 DOMAIN-SUFFIX,weiiii.com
@@ -4948,6 +4952,7 @@ DOMAIN-SUFFIX,yybx.oss-cn-hangzhou.aliyuncs.com
 DOMAIN-SUFFIX,yyeks.com
 DOMAIN-SUFFIX,yyhqch.com
 DOMAIN-SUFFIX,yyjhf.com
+DOMAIN-SUFFIX,yyjj.xyz
 DOMAIN-SUFFIX,yymmsd.cn
 DOMAIN-SUFFIX,yyp17.com
 DOMAIN-SUFFIX,yyshow.top
