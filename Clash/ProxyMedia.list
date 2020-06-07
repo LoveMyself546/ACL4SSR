@@ -1,6 +1,6 @@
 # 内容：国外媒体列表
-# 更新：2020-05-31 11:43:37
-# 数量：271条
+# 更新：2020-06-07 21:07:07
+# 数量：273条
 
 # ABC
 DOMAIN-SUFFIX,edgedatg.com
@@ -348,10 +348,12 @@ USER-AGENT,YouTube*
 USER-AGENT,com.google.ios.youtube*
 DOMAIN-KEYWORD,youtube
 DOMAIN,youtubei.googleapis.com
+DOMAIN,yt3.ggpht.com
 DOMAIN-SUFFIX,googlevideo.com
 DOMAIN-SUFFIX,gvt2.com
 DOMAIN-SUFFIX,youtu.be
 DOMAIN-SUFFIX,youtube.com
+DOMAIN-SUFFIX,ytimg.com
 
 # YouTubeMusic
 USER-AGENT,*YouTubeMusic*
