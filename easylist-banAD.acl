@@ -1515,7 +1515,7 @@
 
 # Adblock Rules
 # 内容：EasyList + EasyListChina + EasyPrivacy列表
-# 数量：9906条
+# 数量：9915条
 (^|\.)0024aaaa\.com$
 (^|\.)003store\.com$
 (^|\.)00880808\.com$
@@ -2923,6 +2923,7 @@
 (^|\.)atelovesinothic\.info$
 (^|\.)atesbrothereso\.info$
 (^|\.)athenatmpbeacon\.theglobeandmail\.ca$
+(^|\.)ationdignifica\.fun$
 (^|\.)atiws\.aipai\.com$
 (^|\.)atlas\.astrology\.com$
 (^|\.)atoultou\.com$
@@ -4705,6 +4706,7 @@
 (^|\.)ercredici\.info$
 (^|\.)erdsyzb\.com$
 (^|\.)erecommerchh\.info$
+(^|\.)ereintroductc\.fun$
 (^|\.)erkhxw\.com$
 (^|\.)ermao\.sikabeila\.com$
 (^|\.)erocw\.com$
@@ -5384,6 +5386,7 @@
 (^|\.)gralfusnzpo003\.top$
 (^|\.)gralfusnzpo004\.top$
 (^|\.)gralfusnzpo006\.top$
+(^|\.)gralfusnzpo007\.top$
 (^|\.)gramombird\.com$
 (^|\.)grampouz\.net$
 (^|\.)granticaffodily\.club$
@@ -5613,6 +5616,7 @@
 (^|\.)henduoqian\.com$
 (^|\.)hengshui1\.com$
 (^|\.)heraldscotland-gb\.heraldscotland\.com$
+(^|\.)herbaijansob\.club$
 (^|\.)hermes\.theglobeandmail\.com$
 (^|\.)hesepd\.cn$
 (^|\.)heshunjituan\.com$
@@ -7577,6 +7581,7 @@
 (^|\.)on68xf\.cn$
 (^|\.)onalentressionw\.info$
 (^|\.)once88\.cn$
+(^|\.)oncersshartsh\.fun$
 (^|\.)onclickgenius\.com$
 (^|\.)onegalact\.com$
 (^|\.)oneid\.mmstat\.com$
@@ -7613,6 +7618,7 @@
 (^|\.)orbidder\.otto\.de$
 (^|\.)orchidscape\.net$
 (^|\.)orcjagpox\.com$
+(^|\.)ordinggrandt\.fun$
 (^|\.)origin-tracking\.trulia\.com$
 (^|\.)origin\.chron\.com$
 (^|\.)originedreting\.site$
@@ -8433,6 +8439,7 @@
 (^|\.)runiman\.com$
 (^|\.)runkao\.net$
 (^|\.)runmeethoomes\.info$
+(^|\.)russionsdeath\.fun$
 (^|\.)ruxianke\.com$
 (^|\.)ruxmc\.cn$
 (^|\.)ruyidk\.com$
@@ -8580,6 +8587,7 @@
 (^|\.)sdytsh\.com$
 (^|\.)seaboblit\.com$
 (^|\.)searchmulty\.com$
+(^|\.)seasonssna\.fun$
 (^|\.)seawayz\.com\.cn$
 (^|\.)sebadu\.com$
 (^|\.)sec-cloud\.cn$
@@ -8631,6 +8639,7 @@
 (^|\.)shandongkuntuo\.com$
 (^|\.)shanghuitianxia\.cn$
 (^|\.)shanglinli\.com$
+(^|\.)shangyingwm\.com$
 (^|\.)shanxiyizhao\.com$
 (^|\.)shaque\.vip$
 (^|\.)share\.gzdsw\.com$
