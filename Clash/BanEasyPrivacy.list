@@ -1,8 +1,8 @@
 # 广告列表 adblock rules
 # 内容：EasyPrivacy列表，隐私保护，屏蔽隐私追踪
 # 来源：https://easylist-downloads.adblockplus.org/easyprivacy.txt
-# 更新：2020-06-07 21:07:00
-# 数量：2525条
+# 更新：2020-06-13 22:08:44
+# 数量：2524条
 
 DOMAIN-SUFFIX,0sbm.consobaby.co.uk
 DOMAIN-SUFFIX,0x1f4b0.com
@@ -1538,7 +1538,6 @@ DOMAIN-SUFFIX,rss.tmgrup.com.tr
 DOMAIN-SUFFIX,rt.flix360.com
 DOMAIN-SUFFIX,rt.prnewswire.com
 DOMAIN-SUFFIX,rta2.metro.co.uk
-DOMAIN-SUFFIX,rtb.connatix.com
 DOMAIN-SUFFIX,rtn.thestar.com
 DOMAIN-SUFFIX,rtt.campanja.com
 DOMAIN-SUFFIX,rum.conde.io
@@ -2100,7 +2099,6 @@ DOMAIN-SUFFIX,tpa7.iahorro.com
 DOMAIN-SUFFIX,tpx.tesseradigital.com
 DOMAIN-SUFFIX,tr.bt.matrixspa.it
 DOMAIN-SUFFIX,tr.cloud-media.fr
-DOMAIN-SUFFIX,tr.connatix.com
 DOMAIN-SUFFIX,tr.discuss.com.hk
 DOMAIN-SUFFIX,tr.interlake.net
 DOMAIN-SUFFIX,tr.n2.hk
@@ -2362,7 +2360,6 @@ DOMAIN-SUFFIX,trk.absuite.com.br
 DOMAIN-SUFFIX,trk.adbutter.net
 DOMAIN-SUFFIX,trk.bhs4.com
 DOMAIN-SUFFIX,trk.cloudsna.com
-DOMAIN-SUFFIX,trk.connatix.com
 DOMAIN-SUFFIX,trk.email.dynect.net
 DOMAIN-SUFFIX,trk.flazio.com
 DOMAIN-SUFFIX,trk.freepik.com
@@ -2407,6 +2404,7 @@ DOMAIN-SUFFIX,useg.nextdigital.com.hk
 DOMAIN-SUFFIX,user-metrics.onthemarket.com
 DOMAIN-SUFFIX,userfly.com
 DOMAIN-SUFFIX,usersegment.wpdigital.net
+DOMAIN-SUFFIX,utle.tech426.com
 DOMAIN-SUFFIX,utrack.hexun.com
 DOMAIN-SUFFIX,uts.auction.co.kr
 DOMAIN-SUFFIX,uue2.destinia.ir
@@ -2473,6 +2471,7 @@ DOMAIN-SUFFIX,webcounter.goweb.de
 DOMAIN-SUFFIX,webhit.aftenposten.no
 DOMAIN-SUFFIX,webhit.snd.no
 DOMAIN-SUFFIX,weblog.eseoul.go.kr
+DOMAIN-SUFFIX,weblog.flyasiana.com
 DOMAIN-SUFFIX,weblog.livesport.eu
 DOMAIN-SUFFIX,weblog.strawberrynet.com
 DOMAIN-SUFFIX,weblog2.eseoul.go.kr
