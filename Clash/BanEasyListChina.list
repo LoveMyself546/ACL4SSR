@@ -1,8 +1,8 @@
 # 广告列表 adblock rules
 # 内容：EasyListChina列表，只包含ABP中的 EasyListChina 内容
 # 来源：https://easylist-downloads.adblockplus.org/easylistchina.txt
-# 更新：2020-06-13 22:08:38
-# 数量：4338条
+# 更新：2020-06-14 11:20:37
+# 数量：4342条
 
 DOMAIN-SUFFIX,0024aaaa.com
 DOMAIN-SUFFIX,003store.com
@@ -161,6 +161,7 @@ DOMAIN-SUFFIX,1d1px.net
 DOMAIN-SUFFIX,1fv3b.cn
 DOMAIN-SUFFIX,1haosuo.com
 DOMAIN-SUFFIX,1i580.com
+DOMAIN-SUFFIX,1jsskipuf8sd.com
 DOMAIN-SUFFIX,1kmb.cn
 DOMAIN-SUFFIX,1kzh.com
 DOMAIN-SUFFIX,1l1.cc
@@ -319,6 +320,7 @@ DOMAIN-SUFFIX,5x0f.cn
 DOMAIN-SUFFIX,5y9nfpes.52pk.com
 DOMAIN-SUFFIX,5zi2.top
 DOMAIN-SUFFIX,5zi3.top
+DOMAIN-SUFFIX,5zi5.top
 DOMAIN-SUFFIX,605296.com
 DOMAIN-SUFFIX,606w.cn
 DOMAIN-SUFFIX,609623.com
@@ -3837,6 +3839,7 @@ DOMAIN-SUFFIX,xmrepair.com
 DOMAIN-SUFFIX,xmseaside.com
 DOMAIN-SUFFIX,xmtsyg.com
 DOMAIN-SUFFIX,xmxxwl.com
+DOMAIN-SUFFIX,xn--2qu92fhtx4ff.club
 DOMAIN-SUFFIX,xn--2qu92fhtx4ff.icu
 DOMAIN-SUFFIX,xn--2qu92fhtx4ff.ink
 DOMAIN-SUFFIX,xn--2qu92fhtx4ff.ren
@@ -4004,6 +4007,7 @@ DOMAIN-SUFFIX,ykjmy.com
 DOMAIN-SUFFIX,ykxwn.com
 DOMAIN-SUFFIX,yljiaoluo.com
 DOMAIN-SUFFIX,yljmeishi.cn
+DOMAIN-SUFFIX,ylkqw.com
 DOMAIN-SUFFIX,ymcqb.com
 DOMAIN-SUFFIX,ymima360.com
 DOMAIN-SUFFIX,ymmdpk.cn
