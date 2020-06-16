@@ -1512,7 +1512,7 @@
 
 # Adblock Rules
 # 内容：EasyList + EasyListChina + EasyPrivacy列表
-# 数量：9162条
+# 数量：9163条
 (^|\.)0024aaaa\.com$
 (^|\.)003store\.com$
 (^|\.)00880808\.com$
@@ -7958,6 +7958,7 @@
 (^|\.)sarydrinkletr\.site$
 (^|\.)sat\.sanoma\.fi$
 (^|\.)saturalerdax\.site$
+(^|\.)saturalolk\.club$
 (^|\.)saumooly\.net$
 (^|\.)sayac\.hurriyettv\.com$
 (^|\.)sbbd1\.qulishi\.com$
@@ -18065,6 +18066,7 @@
 (^|\.)telegra\.ph$
 (^|\.)telegram\.me$
 (^|\.)telegram\.org$
+(^|\.)telesco\.pe$
 91.108.0.0/16
 109.239.140.0/24
 149.154.160.0/20
