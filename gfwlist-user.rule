@@ -5563,7 +5563,6 @@
 # Kugou
 .d.kugou.com reject
 .downmobile.kugou.com reject
-.fanxing.kugou.com reject
 .gad.kugou.com reject
 .game.kugou.com reject
 .gg.kugou.com reject

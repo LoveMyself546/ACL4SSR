@@ -1,8 +1,8 @@
 # 广告列表 adblock rules
 # 内容：EasyList列表，只包含ABP中的 EasyList 内容
 # 来源：https://easylist-downloads.adblockplus.org/easylist.txt
-# 更新：2020-06-15 21:36:28
-# 数量：2282条
+# 更新：2020-06-16 20:14:34
+# 数量：2292条
 
 DOMAIN-SUFFIX,01dbf3a452b6.com
 DOMAIN-SUFFIX,05xz0h2xo799.com
@@ -687,6 +687,7 @@ DOMAIN-SUFFIX,edcritessuspi.info
 DOMAIN-SUFFIX,edencourtbrita.info
 DOMAIN-SUFFIX,edhappearer.info
 DOMAIN-SUFFIX,edmarketts.fun
+DOMAIN-SUFFIX,edmotherew.fun
 DOMAIN-SUFFIX,edoutoam.net
 DOMAIN-SUFFIX,edspicuousind.site
 DOMAIN-SUFFIX,edvforeveretest.info
@@ -886,10 +887,12 @@ DOMAIN-SUFFIX,gdl5vtbbv0lj.com
 DOMAIN-SUFFIX,gdmconvtrck.com
 DOMAIN-SUFFIX,gebadu.com
 DOMAIN-SUFFIX,gebralefukim.site
+DOMAIN-SUFFIX,gedcompani.fun
 DOMAIN-SUFFIX,gedmhqqipuz6wfon.pro
 DOMAIN-SUFFIX,gedspecificano.info
 DOMAIN-SUFFIX,geepwnfly.club
 DOMAIN-SUFFIX,gen.etherscan.io
+DOMAIN-SUFFIX,gencehepatie.club
 DOMAIN-SUFFIX,geo.cliphunter.com
 DOMAIN-SUFFIX,geo.connexionsecure.com
 DOMAIN-SUFFIX,geo.frtya.com
@@ -964,6 +967,7 @@ DOMAIN-SUFFIX,halleyperson.pro
 DOMAIN-SUFFIX,hamadotax.site
 DOMAIN-SUFFIX,hapogzu9a19m5fhe56pb.pro
 DOMAIN-SUFFIX,happylifebab.com
+DOMAIN-SUFFIX,haracticdag.fun
 DOMAIN-SUFFIX,hariqavi.com
 DOMAIN-SUFFIX,harriscote.pro
 DOMAIN-SUFFIX,haviouseulom.club
@@ -1273,6 +1277,7 @@ DOMAIN-SUFFIX,mhj765.xyz
 DOMAIN-SUFFIX,miakalyn.pw
 DOMAIN-SUFFIX,miastina.pw
 DOMAIN-SUFFIX,mibsooks.net
+DOMAIN-SUFFIX,migatesbala.fun
 DOMAIN-SUFFIX,mikrairs.com
 DOMAIN-SUFFIX,millagesert.info
 DOMAIN-SUFFIX,milparota.com
@@ -1351,6 +1356,7 @@ DOMAIN-SUFFIX,nctionclarkingcu.fun
 DOMAIN-SUFFIX,ncylegiatede.info
 DOMAIN-SUFFIX,ndardsgreatm.fun
 DOMAIN-SUFFIX,ndersotherei.site
+DOMAIN-SUFFIX,ndlegwynetc.fun
 DOMAIN-SUFFIX,nebadu.com
 DOMAIN-SUFFIX,nedinchestw.site
 DOMAIN-SUFFIX,neitherspreta.site
@@ -1750,6 +1756,7 @@ DOMAIN-SUFFIX,roredi.com
 DOMAIN-SUFFIX,roseolsen.pro
 DOMAIN-SUFFIX,rotabanner.kulichki.net
 DOMAIN-SUFFIX,rotator.tradetracker.net
+DOMAIN-SUFFIX,roujaufu.net
 DOMAIN-SUFFIX,roustast.net
 DOMAIN-SUFFIX,routeme.one
 DOMAIN-SUFFIX,routeserve.info
@@ -1908,6 +1915,7 @@ DOMAIN-SUFFIX,sub.avgle.com
 DOMAIN-SUFFIX,substandferex.site
 DOMAIN-SUFFIX,successageq.site
 DOMAIN-SUFFIX,successarysazh.site
+DOMAIN-SUFFIX,sufferench.club
 DOMAIN-SUFFIX,suggestvideos.xyz
 DOMAIN-SUFFIX,suitarserviku.site
 DOMAIN-SUFFIX,sultiyearsena.site
@@ -2107,6 +2115,7 @@ DOMAIN-SUFFIX,vebadu.com
 DOMAIN-SUFFIX,veewakim.net
 DOMAIN-SUFFIX,venonita.com
 DOMAIN-SUFFIX,verageousarra.site
+DOMAIN-SUFFIX,veralother.fun
 DOMAIN-SUFFIX,verdriusuref.site
 DOMAIN-SUFFIX,veremund-hon.com
 DOMAIN-SUFFIX,vfl81ea28aztw7y3.pro
@@ -2188,6 +2197,7 @@ DOMAIN-SUFFIX,wizwarsum.site
 DOMAIN-SUFFIX,wlpinnaclesports.eacdn.com
 DOMAIN-SUFFIX,wodipaca.com
 DOMAIN-SUFFIX,wodizapt.com
+DOMAIN-SUFFIX,wolvedfdg.club
 DOMAIN-SUFFIX,womentunyd.site
 DOMAIN-SUFFIX,woogoust.com
 DOMAIN-SUFFIX,woovooza.net

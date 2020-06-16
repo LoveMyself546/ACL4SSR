@@ -269,9 +269,6 @@
 (^|\.)stat\.v\.baidu\.com$
 (^|\.)su\.bdimg\.com$
 (^|\.)su\.bdstatic\.com$
-(^|\.)t10\.baidu\.com$
-(^|\.)t11\.baidu\.com$
-(^|\.)t12\.baidu\.com$
 (^|\.)tkweb\.baidu\.com$
 (^|\.)tob-cms\.bj\.bcebos\.com$
 (^|\.)toolbar\.baidu\.com$
@@ -381,7 +378,7 @@
 (^|\.)stat\.m\.jd\.com$
 
 # Kugou
-(^|\.)(bssdl|bssdlbig|d|downmobile|fanxing|gad|game|gamebox|gg|install|install2|kgmobilestat|minidcsc|mo|mobilelog|mvads|p|rtmonitor|sdn|tj)\.kugou\.com$
+(^|\.)(bssdl|bssdlbig|d|downmobile|gad|game|gamebox|gg|install|install2|kgmobilestat|minidcsc|mo|mobilelog|mvads|p|rtmonitor|sdn|tj)\.kugou\.com$
 (^|\.)(msg|push|update)\.mobile\.kugou\.com$
 (^|\.)ads\.service\.kugou\.com$
 (^|\.)gcapi\.sy\.kugou\.com$

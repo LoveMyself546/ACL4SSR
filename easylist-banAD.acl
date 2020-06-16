@@ -266,9 +266,6 @@
 (^|\.)stat\.v\.baidu\.com$
 (^|\.)su\.bdimg\.com$
 (^|\.)su\.bdstatic\.com$
-(^|\.)t10\.baidu\.com$
-(^|\.)t11\.baidu\.com$
-(^|\.)t12\.baidu\.com$
 (^|\.)tkweb\.baidu\.com$
 (^|\.)tob-cms\.bj\.bcebos\.com$
 (^|\.)toolbar\.baidu\.com$
@@ -378,7 +375,7 @@
 (^|\.)stat\.m\.jd\.com$
 
 # Kugou
-(^|\.)(bssdl|bssdlbig|d|downmobile|fanxing|gad|game|gamebox|gg|install|install2|kgmobilestat|minidcsc|mo|mobilelog|mvads|p|rtmonitor|sdn|tj)\.kugou\.com$
+(^|\.)(bssdl|bssdlbig|d|downmobile|gad|game|gamebox|gg|install|install2|kgmobilestat|minidcsc|mo|mobilelog|mvads|p|rtmonitor|sdn|tj)\.kugou\.com$
 (^|\.)(msg|push|update)\.mobile\.kugou\.com$
 (^|\.)ads\.service\.kugou\.com$
 (^|\.)gcapi\.sy\.kugou\.com$
@@ -1515,7 +1512,7 @@
 
 # Adblock Rules
 # 内容：EasyList + EasyListChina + EasyPrivacy列表
-# 数量：9148条
+# 数量：9162条
 (^|\.)0024aaaa\.com$
 (^|\.)003store\.com$
 (^|\.)00880808\.com$
@@ -2198,6 +2195,7 @@
 (^|\.)ac1\.786ip\.com$
 (^|\.)ac1\.faxingchina\.com$
 (^|\.)ac1\.pingpingw\.com$
+(^|\.)ac56\.xyz$
 (^|\.)acaog\.com$
 (^|\.)acaox\.com$
 (^|\.)acaoz\.com$
@@ -4359,6 +4357,7 @@
 (^|\.)ediun\.com$
 (^|\.)edmarketts\.fun$
 (^|\.)edmi\.nextinpact\.com$
+(^|\.)edmotherew\.fun$
 (^|\.)edo5\.com$
 (^|\.)edoutoam\.net$
 (^|\.)edspicuousind\.site$
@@ -4912,6 +4911,7 @@
 (^|\.)ge95\.com$
 (^|\.)gebadu\.com$
 (^|\.)gebralefukim\.site$
+(^|\.)gedcompani\.fun$
 (^|\.)gedmhqqipuz6wfon\.pro$
 (^|\.)gedspecificano\.info$
 (^|\.)gedus\.cn$
@@ -4920,6 +4920,7 @@
 (^|\.)geiyujieda\.com$
 (^|\.)gekko\.spiceworks\.com$
 (^|\.)gen\.etherscan\.io$
+(^|\.)gencehepatie\.club$
 (^|\.)geo\.6play\.fr$
 (^|\.)geo\.battle\.net$
 (^|\.)geo\.cliphunter\.com$
@@ -5229,6 +5230,7 @@
 (^|\.)hapogzu9a19m5fhe56pb\.pro$
 (^|\.)happen\.spkt\.io$
 (^|\.)happylifebab\.com$
+(^|\.)haracticdag\.fun$
 (^|\.)harahero\.top$
 (^|\.)hariqavi\.com$
 (^|\.)harridan\.cc$
@@ -6572,6 +6574,7 @@
 (^|\.)mibsooks\.net$
 (^|\.)micreative-china\.cn$
 (^|\.)mieyisi\.com$
+(^|\.)migatesbala\.fun$
 (^|\.)mightiger\.net$
 (^|\.)mikrairs\.com$
 (^|\.)milk\.yesky\.com\.cn$
@@ -6797,6 +6800,7 @@
 (^|\.)nd59w\.cn$
 (^|\.)ndardsgreatm\.fun$
 (^|\.)ndersotherei\.site$
+(^|\.)ndlegwynetc\.fun$
 (^|\.)ndtzx\.com$
 (^|\.)nduop\.com$
 (^|\.)ndusa\.cn$
@@ -6871,6 +6875,7 @@
 (^|\.)njdijiani\.com$
 (^|\.)njfsk\.com$
 (^|\.)njguluyu\.cn$
+(^|\.)njhj\.cc$
 (^|\.)njhuashidai\.cn$
 (^|\.)njjmp\.com$
 (^|\.)njjrlf\.com$
@@ -7691,6 +7696,7 @@
 (^|\.)rbtjkx\.cn$
 (^|\.)rbywg\.com$
 (^|\.)rc\.rlcdn\.com$
+(^|\.)rc\.vtex\.com\.br$
 (^|\.)rcaiu\.com$
 (^|\.)rcgi\.video\.qq\.com$
 (^|\.)rcm\.shinobi\.jp$
@@ -7840,6 +7846,7 @@
 (^|\.)roseolsen\.pro$
 (^|\.)rotabanner\.kulichki\.net$
 (^|\.)rotator\.tradetracker\.net$
+(^|\.)roujaufu\.net$
 (^|\.)roustast\.net$
 (^|\.)routeme\.one$
 (^|\.)routeserve\.info$
@@ -8085,6 +8092,7 @@
 (^|\.)shenyunkeji\.com$
 (^|\.)shermore\.info$
 (^|\.)shffcy\.cn$
+(^|\.)shforu\.com$
 (^|\.)shibagongfang\.com$
 (^|\.)shidailw\.com$
 (^|\.)shiguangyx\.cn$
@@ -8626,6 +8634,7 @@
 (^|\.)successageq\.site$
 (^|\.)successarysazh\.site$
 (^|\.)suehy\.com$
+(^|\.)sufferench\.club$
 (^|\.)sufficient\.cn$
 (^|\.)sugajo\.cn$
 (^|\.)sugar\.gameforge\.com$
@@ -9576,6 +9585,7 @@
 (^|\.)vegent\.cn$
 (^|\.)venonita\.com$
 (^|\.)verageousarra\.site$
+(^|\.)veralother\.fun$
 (^|\.)verdriusuref\.site$
 (^|\.)veremund-hon\.com$
 (^|\.)verifier\.live$
@@ -9866,6 +9876,7 @@
 (^|\.)wodizapt\.com$
 (^|\.)wojiabaoye\.com$
 (^|\.)wokekk\.com$
+(^|\.)wolvedfdg\.club$
 (^|\.)womentunyd\.site$
 (^|\.)woogoust\.com$
 (^|\.)woovooza\.net$
