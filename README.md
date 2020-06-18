@@ -2,6 +2,8 @@
 ## 已修改内容如下：
 ### steam.list
 * 去掉下载相关域名的代理（即下载直连不走代理）
+### 新增Uplay.list
+
 
 # 目前Clash支持的规则类型如下：
 * DOMAIN-SUFFIX：域名后缀匹配
