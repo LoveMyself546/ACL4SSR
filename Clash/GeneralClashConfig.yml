@@ -146,7 +146,10 @@ cfw-latency-url: http://www.gstatic.com/generate_204
      #- 114.114.114.114 # 114DNS
   #experimental:
     #interface-name: WLAN
-    
+
+#自定义配置目录
+#cfw-profiles-path: 'C:\Users\Administrator\.config\clash\profiles'
+
 # 打断连接
 # Identify strategy of breaking connections after switching to a new proxy/profile/mode
 # Options for proxy: none, chain(proxy group in connection chains), all
@@ -157,12 +160,28 @@ cfw-conn-break-strategy:
   profile: true # true/false
   mode: false # true/false
 
-# 定义状态栏图标
+# 自定义状态栏图标
 #cfw-tray-icon:
 #default: .\resources\static\imgs\logo_64.png        # 默认图标
 #system-proxy-on: .\resources\static\imgs\custom.ico   # 开启系统代理后图标
 
-# 子进程
+# 自定义字体
+#cfw-font-family: "Noto Sans TC"   # 系统中存在的字体
+
+# 自定义请求头
+#cfw-http-headers:
+  #token: "123456"
+  #cfw-version: "0.9.11"
+
+# 自定义节点排序
+# 可选参数：
+#  default：按配置文件定义节点顺序
+#  latency：按节点延迟升序排列
+#  alphabet：按节点名称字母表排列
+# Sort proxies in Proxies module by default/latency/alphabet
+cfw-proxies-order: default
+
+# 子进程 启动其他应用
 # Run child process after CFW started
 # Refer: https://docs.cfw.lbyczf.com/contents/childprocess.html
 #cfw-child-process:
