@@ -1,11 +1,11 @@
 # 内容：Steam
 # 数量：18条
 # 取消下载相关域名代理
-# DOMAIN,cdn.mileweb.cs.steampowered.com.8686c.com
-# DOMAIN,dl.steam.ksyna.com
-# DOMAIN,st.dl.bscstorage.net
-# DOMAIN,st.dl.eccdnx.com
-# DOMAIN,st.dl.pinyuncloud.com
+;DOMAIN,cdn.mileweb.cs.steampowered.com.8686c.com
+;DOMAIN,dl.steam.ksyna.com
+;DOMAIN,st.dl.bscstorage.net
+;DOMAIN,st.dl.eccdnx.com
+;DOMAIN,st.dl.pinyuncloud.com
 DOMAIN-SUFFIX,csgo.wmsj.cn
 DOMAIN-SUFFIX,dota2.wmsj.cn
 DOMAIN-SUFFIX,fanatical.com
