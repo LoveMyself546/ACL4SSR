@@ -38,7 +38,6 @@
 (^|\.)\w*adsystem\w*\.\w*$
 (^|\.)\w*adwords\w*\.\w*$
 (^|\.)\w*analysis\w*\.\w*$
-(^|\.)\w*analytics\w*\.\w*$
 (^|\.)\w*applovin\w*\.\w*$
 (^|\.)\w*appsflyer\w*\.\w*$
 (^|\.)\w*domob\w*\.\w*$
@@ -1512,7 +1511,7 @@
 
 # Adblock Rules
 # 内容：EasyList + EasyListChina + EasyPrivacy列表
-# 数量：9217条
+# 数量：9213条
 (^|\.)0024aaaa\.com$
 (^|\.)003store\.com$
 (^|\.)00880808\.com$
@@ -2933,7 +2932,6 @@
 (^|\.)banners\.cams\.com$
 (^|\.)bannershotlink\.perfectgonzo\.com$
 (^|\.)bannneddd\.xyz$
-(^|\.)banomago\.com$
 (^|\.)banstat\.nadavi\.net$
 (^|\.)baolic\.com$
 (^|\.)baolutongwuye\.cn$
@@ -4058,6 +4056,7 @@
 (^|\.)denmarried\.club$
 (^|\.)denotatorum\.site$
 (^|\.)dersmembrac\.fun$
+(^|\.)derthundrew\.club$
 (^|\.)desa\.fkapi\.net$
 (^|\.)desb\.fkapi\.net$
 (^|\.)desigactinific\.pro$
@@ -4767,6 +4766,7 @@
 (^|\.)free-cdn\.oss-cn-shanghai\.aliyuncs\.com$
 (^|\.)freementgd\.club$
 (^|\.)freexxxvideoclip\.aebn\.net$
+(^|\.)frenchayan\.club$
 (^|\.)frequestabure\.site$
 (^|\.)fresh\.techdirt\.com$
 (^|\.)friend17\.net$
@@ -5532,7 +5532,6 @@
 (^|\.)iads\.xinmin\.cn$
 (^|\.)ialgregarderol\.fun$
 (^|\.)iangs\.com$
-(^|\.)ianhice\.pw$
 (^|\.)ianxalim\.pw$
 (^|\.)iarfina\.pw$
 (^|\.)iarvyre\.pw$
@@ -5573,7 +5572,6 @@
 (^|\.)iigushi\.com$
 (^|\.)il8r\.com$
 (^|\.)ilifecook\.com$
-(^|\.)ilinan\.xyz$
 (^|\.)ilinxi\.cc$
 (^|\.)ilovechenyuqian\.xyz$
 (^|\.)im\.aol\.de$
@@ -5614,8 +5612,6 @@
 (^|\.)imx\.comedycentral\.com$
 (^|\.)in\.zog\.link$
 (^|\.)in6ej4pbpnih\.com$
-(^|\.)inaharice\.pw$
-(^|\.)inastina\.pw$
 (^|\.)includeinthebox\.com$
 (^|\.)incommandary\.club$
 (^|\.)increased\.cn$
@@ -5940,7 +5936,6 @@
 (^|\.)ka5188\.com$
 (^|\.)kachecloud\.com$
 (^|\.)kaelpossible\.pro$
-(^|\.)kaidop\.com$
 (^|\.)kaihutai\.cn$
 (^|\.)kakam\.info$
 (^|\.)kakappp\.com$
@@ -5964,14 +5959,12 @@
 (^|\.)kddtri\.cn$
 (^|\.)kdqoehj\.top$
 (^|\.)kdzbg\.xyz$
-(^|\.)keaven\.pw$
 (^|\.)keepaira\.net$
 (^|\.)keepinfit\.net$
 (^|\.)kegpoihat\.club$
 (^|\.)keighleynews-gb\.keighleynews\.co\.uk$
 (^|\.)keilb\.xyz$
 (^|\.)kele4\.com$
-(^|\.)kelris\.pw$
 (^|\.)kenfeeask\.com$
 (^|\.)ketaoke\.com$
 (^|\.)ketstheralinver\.info$
@@ -6445,6 +6438,7 @@
 (^|\.)maicaoren\.cn$
 (^|\.)maihaimo\.com$
 (^|\.)mainbx\.com$
+(^|\.)maintawrte\.club$
 (^|\.)maipoted\.com$
 (^|\.)maisoncherry\.com$
 (^|\.)majosita\.com$
@@ -8083,6 +8077,7 @@
 (^|\.)senolati\.com$
 (^|\.)seordl\.cn$
 (^|\.)separenujilo\.club$
+(^|\.)seriencern\.club$
 (^|\.)seriodilov\.club$
 (^|\.)sersproposal\.club$
 (^|\.)serv1swork\.com$
