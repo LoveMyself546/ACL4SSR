@@ -1,6 +1,6 @@
 # 内容：国外媒体列表
-# 更新：2020-06-13 22:08:45
-# 数量：273条
+# 更新：2020-06-20 10:37:05
+# 数量：274条
 
 # ABC
 DOMAIN-SUFFIX,edgedatg.com
@@ -296,6 +296,7 @@ DOMAIN-SUFFIX,pscdn.co
 DOMAIN-SUFFIX,scdn.co
 DOMAIN-SUFFIX,spoti.fi
 DOMAIN-SUFFIX,spotify.com
+DOMAIN-SUFFIX,spotifycdn.net
 
 # TIDAL
 USER-AGENT,TIDAL*

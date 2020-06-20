@@ -2,6 +2,8 @@
 # 配置文件需要放置在 $HOME/.config/clash/config.yml
 # 或者运行目录下的config.yml
 #---------------------------------------------------#
+# 混合端口 HTTP和SOCKS5用一个端口
+mixed-port: 7890
 
 # HTTP 代理端口
 port: 7890
@@ -21,7 +23,7 @@ allow-lan: true
 # #"[aaaa::a8aa:ff:fe09:57d8]": 绑定单个IPv6地址
 # bind-address: "*"
 
-# 规则模式：Rule（规则） / Global（全局代理）/ Direct（全局直连）
+# 规则模式：Rule（规则） / Global（全局代理）/ Direct（全局直连）/ script (脚本)
 mode: Rule
 
 # 设置日志输出级别 (默认级别：silent，即不输出任何内容，以避免因日志内容过大而导致程序内存溢出）。

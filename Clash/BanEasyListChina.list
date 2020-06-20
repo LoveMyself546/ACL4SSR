@@ -1,8 +1,8 @@
 # 广告列表 adblock rules
 # 内容：EasyListChina列表，只包含ABP中的 EasyListChina 内容
 # 来源：https://easylist-downloads.adblockplus.org/easylistchina.txt
-# 更新：2020-06-18 22:53:08
-# 数量：4357条
+# 更新：2020-06-20 10:36:57
+# 数量：4366条
 
 DOMAIN-SUFFIX,0024aaaa.com
 DOMAIN-SUFFIX,003store.com
@@ -41,6 +41,7 @@ DOMAIN-SUFFIX,0571hy.com
 DOMAIN-SUFFIX,0571yy.com
 DOMAIN-SUFFIX,0592weixin.com
 DOMAIN-SUFFIX,0601chruopjsm.xyz
+DOMAIN-SUFFIX,0615nxbsho.xyz
 DOMAIN-SUFFIX,0728w.cn
 DOMAIN-SUFFIX,0755man.cn
 DOMAIN-SUFFIX,0796gou.com
@@ -253,6 +254,7 @@ DOMAIN-SUFFIX,3qmh.com
 DOMAIN-SUFFIX,3qsys.com
 DOMAIN-SUFFIX,3y0h.cn
 DOMAIN-SUFFIX,3y6c.cn
+DOMAIN-SUFFIX,3ye924.cn
 DOMAIN-SUFFIX,3ygww.com
 DOMAIN-SUFFIX,4006825178.com
 DOMAIN-SUFFIX,40ic.cn
@@ -1105,6 +1107,7 @@ DOMAIN-SUFFIX,cnhbxx.com
 DOMAIN-SUFFIX,cniuv.com
 DOMAIN-SUFFIX,cnkok.com
 DOMAIN-SUFFIX,cnlhg.cn
+DOMAIN-SUFFIX,cnliken.com
 DOMAIN-SUFFIX,cnpinzhuo.com
 DOMAIN-SUFFIX,cnscdj.com
 DOMAIN-SUFFIX,cnshef.com
@@ -2817,6 +2820,7 @@ DOMAIN-SUFFIX,p4p.sina.com.cn
 DOMAIN-SUFFIX,p74.cc
 DOMAIN-SUFFIX,p8u.hinet.net
 DOMAIN-SUFFIX,padspms.com
+DOMAIN-SUFFIX,paerst.cn
 DOMAIN-SUFFIX,panda.kdnet.net
 DOMAIN-SUFFIX,panel-cn.com
 DOMAIN-SUFFIX,panwenjun.top
@@ -3033,6 +3037,7 @@ DOMAIN-SUFFIX,rbtjkx.cn
 DOMAIN-SUFFIX,rbywg.com
 DOMAIN-SUFFIX,rcaiu.com
 DOMAIN-SUFFIX,rcynoe.cn
+DOMAIN-SUFFIX,rdance.cn
 DOMAIN-SUFFIX,rdbd.xsread.com
 DOMAIN-SUFFIX,rdiqt.cn
 DOMAIN-SUFFIX,rdtylx.cn
@@ -3162,6 +3167,7 @@ DOMAIN-SUFFIX,shanghuitianxia.cn
 DOMAIN-SUFFIX,shangyingwm.com
 DOMAIN-SUFFIX,shanxiyizhao.com
 DOMAIN-SUFFIX,shaque.vip
+DOMAIN-SUFFIX,shaquevip.oss-cn-zhangjiakou.aliyuncs.com
 DOMAIN-SUFFIX,share.gzdsw.com
 DOMAIN-SUFFIX,sharedaddomain.com
 DOMAIN-SUFFIX,sharrysweb.com
@@ -3248,6 +3254,7 @@ DOMAIN-SUFFIX,sonsang.cn
 DOMAIN-SUFFIX,soonyou123.com
 DOMAIN-SUFFIX,sosjyx.com
 DOMAIN-SUFFIX,soso.ws
+DOMAIN-SUFFIX,soueki.com
 DOMAIN-SUFFIX,sp.dnqc.com
 DOMAIN-SUFFIX,sp96878.com
 DOMAIN-SUFFIX,spahelani.com
@@ -4070,6 +4077,7 @@ DOMAIN-SUFFIX,ysnj74ed.com
 DOMAIN-SUFFIX,ysxywj.com
 DOMAIN-SUFFIX,yt-adp.nosdn.127.net
 DOMAIN-SUFFIX,ytbnm.cn
+DOMAIN-SUFFIX,ytcard.cn
 DOMAIN-SUFFIX,ytdksb.com
 DOMAIN-SUFFIX,ytmaitian.com
 DOMAIN-SUFFIX,ytmaksim.cn
@@ -4134,6 +4142,7 @@ DOMAIN-SUFFIX,z97g.cn
 DOMAIN-SUFFIX,zabxb.com
 DOMAIN-SUFFIX,zanghaihua.org
 DOMAIN-SUFFIX,zantainet.com
+DOMAIN-SUFFIX,zazkkk.com
 DOMAIN-SUFFIX,zbetter.org
 DOMAIN-SUFFIX,zbieo.com
 DOMAIN-SUFFIX,zcand.com
