@@ -1,8 +1,8 @@
 # 广告列表 adblock rules
 # 内容：EasyListChina列表，只包含ABP中的 EasyListChina 内容
 # 来源：https://easylist-downloads.adblockplus.org/easylistchina.txt
-# 更新：2020-06-20 10:36:57
-# 数量：4366条
+# 更新：2020-06-23 11:00:10
+# 数量：4367条
 
 DOMAIN-SUFFIX,0024aaaa.com
 DOMAIN-SUFFIX,003store.com
@@ -1022,6 +1022,7 @@ DOMAIN-SUFFIX,ceiyo.com
 DOMAIN-SUFFIX,cepegas.com
 DOMAIN-SUFFIX,cewbeyy.com
 DOMAIN-SUFFIX,ceyiuy.com
+DOMAIN-SUFFIX,cf89.gold
 DOMAIN-SUFFIX,cfboo.com
 DOMAIN-SUFFIX,cfdanet.com
 DOMAIN-SUFFIX,cferw.com
@@ -1988,6 +1989,7 @@ DOMAIN-SUFFIX,hzuok.com
 DOMAIN-SUFFIX,hzuvw.com
 DOMAIN-SUFFIX,hzxfmc.com
 DOMAIN-SUFFIX,hzxma.com
+DOMAIN-SUFFIX,hzyyhz.cn
 DOMAIN-SUFFIX,hzzfan.com
 DOMAIN-SUFFIX,i.syasn.com
 DOMAIN-SUFFIX,i.zhuoyaju.com
@@ -2734,6 +2736,7 @@ DOMAIN-SUFFIX,noberlmall.com
 DOMAIN-SUFFIX,nongsalei.com
 DOMAIN-SUFFIX,notice.uchome.manyou.com
 DOMAIN-SUFFIX,np176.com
+DOMAIN-SUFFIX,npvxkna.cn
 DOMAIN-SUFFIX,nqfwx.cn
 DOMAIN-SUFFIX,nr1234.com
 DOMAIN-SUFFIX,ns1.chinayms.com
@@ -2831,7 +2834,6 @@ DOMAIN-SUFFIX,partner.toutiao.com
 DOMAIN-SUFFIX,pay838.com
 DOMAIN-SUFFIX,pb.okk123.com
 DOMAIN-SUFFIX,pb.shuxigua.com
-DOMAIN-SUFFIX,pbpb.tv
 DOMAIN-SUFFIX,pbvxtgn.cn
 DOMAIN-SUFFIX,pcmzn.com
 DOMAIN-SUFFIX,pd3a.cn
@@ -2978,7 +2980,6 @@ DOMAIN-SUFFIX,qlssbq.cn
 DOMAIN-SUFFIX,qmkdy.com
 DOMAIN-SUFFIX,qmlcdlo.cn
 DOMAIN-SUFFIX,qmname.com
-DOMAIN-SUFFIX,qn.bejson.com
 DOMAIN-SUFFIX,qneit.com
 DOMAIN-SUFFIX,qo26.com
 DOMAIN-SUFFIX,qpokok.com

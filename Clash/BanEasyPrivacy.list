@@ -1,8 +1,8 @@
 # 广告列表 adblock rules
 # 内容：EasyPrivacy列表，隐私保护，屏蔽隐私追踪
 # 来源：https://easylist-downloads.adblockplus.org/easyprivacy.txt
-# 更新：2020-06-20 10:37:02
-# 数量：2529条
+# 更新：2020-06-23 11:00:15
+# 数量：2526条
 
 DOMAIN-SUFFIX,0sbm.consobaby.co.uk
 DOMAIN-SUFFIX,0x1f4b0.com
@@ -1106,7 +1106,6 @@ DOMAIN-SUFFIX,log.hiiir.com
 DOMAIN-SUFFIX,log.hypebeast.com
 DOMAIN-SUFFIX,log.idnes.cz
 DOMAIN-SUFFIX,log.invodo.com
-DOMAIN-SUFFIX,log.kcisa.kr
 DOMAIN-SUFFIX,log.kibboko.com
 DOMAIN-SUFFIX,log.kuwo.cn
 DOMAIN-SUFFIX,log.m.sm.cn
@@ -1134,7 +1133,6 @@ DOMAIN-SUFFIX,log.wilmaa.com
 DOMAIN-SUFFIX,log.worldsoft-cms.info
 DOMAIN-SUFFIX,log1.17173.com
 DOMAIN-SUFFIX,logg.kiwi.com
-DOMAIN-SUFFIX,logger.dailymotion.com
 DOMAIN-SUFFIX,logger.nerdwallet.com
 DOMAIN-SUFFIX,logger.rm.uol.com.br
 DOMAIN-SUFFIX,logger.snackly.co
@@ -1196,6 +1194,7 @@ DOMAIN-SUFFIX,mediator.mail.ru
 DOMAIN-SUFFIX,mercadolibre.com/tracks
 DOMAIN-SUFFIX,met.vgwort.de
 DOMAIN-SUFFIX,metric-agent.i10c.net
+DOMAIN-SUFFIX,metric.gstatic.com
 DOMAIN-SUFFIX,metric.inetcore.com
 DOMAIN-SUFFIX,metric.nwsource.com
 DOMAIN-SUFFIX,metrics-api.librato.com
@@ -1218,7 +1217,6 @@ DOMAIN-SUFFIX,metrics.sonymusicd2c.com
 DOMAIN-SUFFIX,metrics.ted.com
 DOMAIN-SUFFIX,metrics.toptenreviews.com
 DOMAIN-SUFFIX,metrics.uol.com.br
-DOMAIN-SUFFIX,metrics.upcload.com
 DOMAIN-SUFFIX,metrics.wikinvest.com
 DOMAIN-SUFFIX,metrigo.zalan.do
 DOMAIN-SUFFIX,metrixlablw.customers.luna.net
@@ -1261,8 +1259,6 @@ DOMAIN-SUFFIX,mms.splinternews.com
 DOMAIN-SUFFIX,mms.syracuse.com
 DOMAIN-SUFFIX,mms.theroot.com
 DOMAIN-SUFFIX,mo.moonpig.com
-DOMAIN-SUFFIX,montblanc.lenta.ru
-DOMAIN-SUFFIX,montblanc.rambler.ru
 DOMAIN-SUFFIX,mormont.gamer-network.net
 DOMAIN-SUFFIX,mqs.ioam.de
 DOMAIN-SUFFIX,ms.computerbild.de
@@ -1357,6 +1353,7 @@ DOMAIN-SUFFIX,pbox.photobox.de
 DOMAIN-SUFFIX,pclick.europe.yahoo.com
 DOMAIN-SUFFIX,pclick.internal.yahoo.com
 DOMAIN-SUFFIX,pclick.yahoo.com
+DOMAIN-SUFFIX,pdc.dmleonyc.com
 DOMAIN-SUFFIX,pebed.dm.gg
 DOMAIN-SUFFIX,perf.dugout.com
 DOMAIN-SUFFIX,performanceplay.co.kr
