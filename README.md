@@ -6,7 +6,7 @@
 ### 新增CustomDirect.list
 * 增加uplay和steam的登陆直连规则（避免因IP的切换导致每次登陆都需要验证）
 
-
+#
 # 目前Clash支持的规则类型如下：
 * DOMAIN-SUFFIX：域名后缀匹配
 * DOMAIN：域名匹配
