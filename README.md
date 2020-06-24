@@ -4,7 +4,7 @@
 * 去掉下载相关域名的代理（即下载直连不走代理）
 ### 新增Uplay.list
 ### 新增CustomDirect.list
-* 增加uplay和steam的登陆直连规则
+* 增加uplay和steam的登陆直连规则（避免因IP的切换导致每次登陆都需要验证）
 
 
 # 目前Clash支持的规则类型如下：
