@@ -1,7 +1,7 @@
 # 广告列表 adblock rules
 # 内容：EasyPrivacy列表，隐私保护，屏蔽隐私追踪
 # 来源：https://easylist-downloads.adblockplus.org/easyprivacy.txt
-# 更新：2020-06-23 11:00:15
+# 更新：2020-06-27 21:37:01
 # 数量：2526条
 
 DOMAIN-SUFFIX,0sbm.consobaby.co.uk
@@ -945,6 +945,7 @@ DOMAIN-SUFFIX,geoip.pennlive.com
 DOMAIN-SUFFIX,geoip.silive.com
 DOMAIN-SUFFIX,geoip.syracuse.com
 DOMAIN-SUFFIX,geoip.viamichelin.com
+DOMAIN-SUFFIX,geolocation.forbes.com
 DOMAIN-SUFFIX,geoservice.curse.com
 DOMAIN-SUFFIX,gets.faz.net
 DOMAIN-SUFFIX,gj.mmstat.com
@@ -1187,7 +1188,6 @@ DOMAIN-SUFFIX,mastertag.q-sis.de
 DOMAIN-SUFFIX,mc.webvisor.com
 DOMAIN-SUFFIX,mc.webvisor.org
 DOMAIN-SUFFIX,mcs.delvenetworks.com
-DOMAIN-SUFFIX,mdn.neowin.net
 DOMAIN-SUFFIX,measure.ameblo.jp
 DOMAIN-SUFFIX,mediametrics.mpsa.com
 DOMAIN-SUFFIX,mediator.mail.ru
