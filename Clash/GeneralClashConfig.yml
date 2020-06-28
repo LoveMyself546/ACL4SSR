@@ -6,7 +6,7 @@
 mixed-port: 7890
 
 # HTTP 代理端口
-port: 7890
+# port: 7890
 
 # SOCKS5 代理端口
 socks-port: 7891
@@ -23,8 +23,8 @@ allow-lan: true
 # #"[aaaa::a8aa:ff:fe09:57d8]": 绑定单个IPv6地址
 # bind-address: "*"
 
-# 规则模式：Rule（规则） / Global（全局代理）/ Direct（全局直连）/ script (脚本)
-mode: Rule
+# 规则模式：rule（规则） / global（全局代理）/ direct（全局直连）/ script (脚本)
+mode: rule
 
 # 设置日志输出级别 (默认级别：silent，即不输出任何内容，以避免因日志内容过大而导致程序内存溢出）。
 # 5 个级别：silent / error / warning / info / debug。级别越高日志输出量越大，越倾向于调试，若需要请自行开启。
@@ -114,17 +114,17 @@ experimental:
 # 代理组
 # 下面这3个不要引到订阅里去 要不会出错
 # Will be ignored after profile selection
-Proxy:
+proxies:
   - name: Shadowsocks
     type: socks5
     server: 127.0.0.1
     port: 1080
-Proxy Group:
+proxy-groups:
   - name: Proxy
     type: select
     proxies:
       - Shadowsocks
-Rule:
+rules:
   - 'MATCH,DIRECT'
 
 # Clash for Windows
