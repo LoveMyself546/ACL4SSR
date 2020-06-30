@@ -9,7 +9,7 @@ DOMAIN-SUFFIX,cdn.mileweb.cs.steampowered.com.8686c.com
 
 
 #origin游戏下载
-DOMAIN-SUFFIX,origin-a.akamaihd.net
+DOMAIN,origin-a.akamaihd.net
 DOMAIN-SUFFIX,ssl-lvlt.cdn.ea.com
 
 #epic游戏下载
