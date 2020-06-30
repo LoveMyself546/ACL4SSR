@@ -1,5 +1,6 @@
 #Steam平台
 #不包含登陆
+DOMAIN,api.steampowered.com
 DOMAIN-SUFFIX,csgo.wmsj.cn
 DOMAIN-SUFFIX,dota2.wmsj.cn
 DOMAIN-SUFFIX,fanatical.com
