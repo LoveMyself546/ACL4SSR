@@ -1,11 +1,8 @@
 # 原ACL规则https://github.com/ACL4SSR/ACL4SSR 基于此规则按个人习惯二次修改
 ## 已修改内容如下：
-### steam.list
-* 去掉下载相关域名的代理（下载直连不走代理）
-### 新增Uplay.list
-### 新增CustomDirect.list
-* 增加uplay和steam的登陆直连规则（避免因IP的切换导致每次登陆都需要验证）
-
+###20200630
+####新增GameDownload.list，整合四大平台的下载规则
+####新增GamePlatform.list，整合四大平台的规则（不包含下载）
 #
 # 目前Clash支持的规则类型如下：
 * DOMAIN-SUFFIX：域名后缀匹配
