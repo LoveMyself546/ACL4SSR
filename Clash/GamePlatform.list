@@ -1,4 +1,5 @@
 #Steam平台
+#不包含登陆
 DOMAIN-SUFFIX,csgo.wmsj.cn
 DOMAIN-SUFFIX,dota2.wmsj.cn
 DOMAIN-SUFFIX,fanatical.com
