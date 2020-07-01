@@ -1,8 +1,8 @@
 # 广告列表 adblock rules
 # 内容：EasyPrivacy列表，隐私保护，屏蔽隐私追踪
 # 来源：https://easylist-downloads.adblockplus.org/easyprivacy.txt
-# 更新：2020-06-27 21:37:01
-# 数量：2526条
+# 更新：2020-07-01 23:37:24
+# 数量：2525条
 
 DOMAIN-SUFFIX,0sbm.consobaby.co.uk
 DOMAIN-SUFFIX,0x1f4b0.com
@@ -957,7 +957,6 @@ DOMAIN-SUFFIX,glogger.inspcloud.com
 DOMAIN-SUFFIX,gmonitor.aliimg.com
 DOMAIN-SUFFIX,gnar.grammarly.com
 DOMAIN-SUFFIX,go.optifuze.com
-DOMAIN-SUFFIX,go.trouter.skype.com
 DOMAIN-SUFFIX,gobba.myeffect.net
 DOMAIN-SUFFIX,google-analytics.com/batch
 DOMAIN-SUFFIX,google-analytics.com/internal/collect

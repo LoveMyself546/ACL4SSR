@@ -1,8 +1,8 @@
 # 广告列表 adblock rules
 # 内容：EasyListChina列表，只包含ABP中的 EasyListChina 内容
 # 来源：https://easylist-downloads.adblockplus.org/easylistchina.txt
-# 更新：2020-06-27 21:36:56
-# 数量：4384条
+# 更新：2020-07-01 23:37:20
+# 数量：4397条
 
 DOMAIN-SUFFIX,0024aaaa.com
 DOMAIN-SUFFIX,003store.com
@@ -42,6 +42,7 @@ DOMAIN-SUFFIX,0571yy.com
 DOMAIN-SUFFIX,0592weixin.com
 DOMAIN-SUFFIX,0601chruopjsm.xyz
 DOMAIN-SUFFIX,0615nxbsho.xyz
+DOMAIN-SUFFIX,0629ohfsx.xyz
 DOMAIN-SUFFIX,0728w.cn
 DOMAIN-SUFFIX,0755man.cn
 DOMAIN-SUFFIX,0796gou.com
@@ -227,6 +228,7 @@ DOMAIN-SUFFIX,301848.com
 DOMAIN-SUFFIX,31365y.com
 DOMAIN-SUFFIX,32.huanqiu.com
 DOMAIN-SUFFIX,321.jintang114.org
+DOMAIN-SUFFIX,333bj.cloud
 DOMAIN-SUFFIX,333dm.com
 DOMAIN-SUFFIX,338336.com
 DOMAIN-SUFFIX,3400.org
@@ -684,6 +686,7 @@ DOMAIN-SUFFIX,akrwi.cn
 DOMAIN-SUFFIX,al.newxue.com
 DOMAIN-SUFFIX,ali2a.xyz
 DOMAIN-SUFFIX,ali2b.xyz
+DOMAIN-SUFFIX,ali2c.xyz
 DOMAIN-SUFFIX,ali2d.xyz
 DOMAIN-SUFFIX,ali2f.xyz
 DOMAIN-SUFFIX,alibdl.xyz
@@ -1081,6 +1084,7 @@ DOMAIN-SUFFIX,chuzushijian.cn
 DOMAIN-SUFFIX,ci-web.cn
 DOMAIN-SUFFIX,cike666.com
 DOMAIN-SUFFIX,city009.com
+DOMAIN-SUFFIX,cityd.xyz
 DOMAIN-SUFFIX,cj-cy.com
 DOMAIN-SUFFIX,cj1.256.cc
 DOMAIN-SUFFIX,cjh9.cn
@@ -1135,6 +1139,7 @@ DOMAIN-SUFFIX,coenr.com
 DOMAIN-SUFFIX,cojia.net
 DOMAIN-SUFFIX,comberry.cn
 DOMAIN-SUFFIX,continuedsys.cn
+DOMAIN-SUFFIX,coolfenxi.com
 DOMAIN-SUFFIX,coolpadrom.cn
 DOMAIN-SUFFIX,cooltool.cc
 DOMAIN-SUFFIX,cornplus.cn
@@ -1175,6 +1180,7 @@ DOMAIN-SUFFIX,cspb1.5w5w.com
 DOMAIN-SUFFIX,csqiulong.com
 DOMAIN-SUFFIX,css.juqingba.cn
 DOMAIN-SUFFIX,cssdiv.club
+DOMAIN-SUFFIX,cssjs.info
 DOMAIN-SUFFIX,cstoa.com
 DOMAIN-SUFFIX,csxsyp.cn
 DOMAIN-SUFFIX,ct1985.com
@@ -1718,6 +1724,7 @@ DOMAIN-SUFFIX,greenbetterkids.com
 DOMAIN-SUFFIX,greenhouseglobal.cn
 DOMAIN-SUFFIX,grjs02.com
 DOMAIN-SUFFIX,grjs06.com
+DOMAIN-SUFFIX,grjs08.com
 DOMAIN-SUFFIX,grtnahd.cn
 DOMAIN-SUFFIX,gshtrl.top
 DOMAIN-SUFFIX,gso0.com
@@ -3289,6 +3296,7 @@ DOMAIN-SUFFIX,ssknweoz.cn
 DOMAIN-SUFFIX,ssmuse1314.cn
 DOMAIN-SUFFIX,ssp.hinet.net
 DOMAIN-SUFFIX,ssp.kdnet.net
+DOMAIN-SUFFIX,ssp.njxzwh.com
 DOMAIN-SUFFIX,ssp.zf313.com
 DOMAIN-SUFFIX,sssgao999.com
 DOMAIN-SUFFIX,st123.info
@@ -3356,6 +3364,7 @@ DOMAIN-SUFFIX,synacast.com
 DOMAIN-SUFFIX,syooys.com
 DOMAIN-SUFFIX,sysadult.cn
 DOMAIN-SUFFIX,sysal.cn
+DOMAIN-SUFFIX,sysycloud.com
 DOMAIN-SUFFIX,sytcyf.com
 DOMAIN-SUFFIX,sytsr.com
 DOMAIN-SUFFIX,sytz1288.com
@@ -3574,6 +3583,7 @@ DOMAIN-SUFFIX,vadioc.cn
 DOMAIN-SUFFIX,vaedan.top
 DOMAIN-SUFFIX,vasb.cn
 DOMAIN-SUFFIX,vbanm.com
+DOMAIN-SUFFIX,vbdeos.cn
 DOMAIN-SUFFIX,vbnm888.com
 DOMAIN-SUFFIX,vbrfwaf.cn
 DOMAIN-SUFFIX,vcaif.com
@@ -3629,6 +3639,7 @@ DOMAIN-SUFFIX,wanfukang.cc
 DOMAIN-SUFFIX,wangdaizao.com
 DOMAIN-SUFFIX,wangdddy.com
 DOMAIN-SUFFIX,wangdq.com
+DOMAIN-SUFFIX,wangkeduo.cn
 DOMAIN-SUFFIX,wangketuan.com
 DOMAIN-SUFFIX,wangliqin.top
 DOMAIN-SUFFIX,wangqing7.top
@@ -3672,6 +3683,7 @@ DOMAIN-SUFFIX,weimeicar.cn
 DOMAIN-SUFFIX,weiqiqu.cn
 DOMAIN-SUFFIX,weixingshexiangji.net
 DOMAIN-SUFFIX,weiziqiang.top
+DOMAIN-SUFFIX,welted.cn
 DOMAIN-SUFFIX,wemdsm.com
 DOMAIN-SUFFIX,wenbangsh.com.cn
 DOMAIN-SUFFIX,wenzhougy.cn
@@ -3872,6 +3884,7 @@ DOMAIN-SUFFIX,xmliw.com
 DOMAIN-SUFFIX,xmljx.cn
 DOMAIN-SUFFIX,xmndrx.cn
 DOMAIN-SUFFIX,xmrepair.com
+DOMAIN-SUFFIX,xmrzw.cn
 DOMAIN-SUFFIX,xmseaside.com
 DOMAIN-SUFFIX,xmtsyg.com
 DOMAIN-SUFFIX,xmxxwl.com
