@@ -1,8 +1,8 @@
 # 广告列表 adblock rules
 # 内容：EasyPrivacy列表，隐私保护，屏蔽隐私追踪
 # 来源：https://easylist-downloads.adblockplus.org/easyprivacy.txt
-# 更新：2020-07-01 23:37:24
-# 数量：2525条
+# 更新：2020-07-03 22:24:12
+# 数量：2527条
 
 DOMAIN-SUFFIX,0sbm.consobaby.co.uk
 DOMAIN-SUFFIX,0x1f4b0.com
@@ -1407,6 +1407,7 @@ DOMAIN-SUFFIX,pixel.naij.com
 DOMAIN-SUFFIX,pixel.newscgp.com
 DOMAIN-SUFFIX,pixel.newscred.com
 DOMAIN-SUFFIX,pixel.newsdiscover.com.au
+DOMAIN-SUFFIX,pixel.parsely.com
 DOMAIN-SUFFIX,pixel.pcworld.com
 DOMAIN-SUFFIX,pixel.propublica.org
 DOMAIN-SUFFIX,pixel.prosieben.de
@@ -1541,6 +1542,7 @@ DOMAIN-SUFFIX,rta2.metro.co.uk
 DOMAIN-SUFFIX,rtn.thestar.com
 DOMAIN-SUFFIX,rtt.campanja.com
 DOMAIN-SUFFIX,rum.conde.io
+DOMAIN-SUFFIX,rum.kobo.com
 DOMAIN-SUFFIX,rum.marquardmedia.hu
 DOMAIN-SUFFIX,rum.minutemediaservices.com
 DOMAIN-SUFFIX,rum.nccgroup-webperf.com

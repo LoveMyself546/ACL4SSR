@@ -564,6 +564,9 @@ cfw-bypass:
   # YYeTs 人人影视
   - "*.got001.com"
   - "*.jstucdn.com"
+  - "*.rrys.tv"
+  - "*.rrys2020.com"
+  - "*.yyets.com"
   - "*.zimuzu.io"
   - "*.zimuzu.tv"
   - "*.zmz001.com"
