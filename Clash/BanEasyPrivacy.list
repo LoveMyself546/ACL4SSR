@@ -1,8 +1,8 @@
 # 广告列表 adblock rules
 # 内容：EasyPrivacy列表，隐私保护，屏蔽隐私追踪
 # 来源：https://easylist-downloads.adblockplus.org/easyprivacy.txt
-# 更新：2020-07-03 22:24:12
-# 数量：2527条
+# 更新：2020-07-04 22:13:12
+# 数量：2532条
 
 DOMAIN-SUFFIX,0sbm.consobaby.co.uk
 DOMAIN-SUFFIX,0x1f4b0.com
@@ -615,6 +615,7 @@ DOMAIN-SUFFIX,cpx.golem.de
 DOMAIN-SUFFIX,cpxl.golem.de
 DOMAIN-SUFFIX,creator.zmags.com
 DOMAIN-SUFFIX,crm-analytics.imweb.ru
+DOMAIN-SUFFIX,crta.metro.co.uk
 DOMAIN-SUFFIX,cse3.chausport.com
 DOMAIN-SUFFIX,csi.gstatic.com
 DOMAIN-SUFFIX,csp-collector.appspot.com
@@ -1005,6 +1006,7 @@ DOMAIN-SUFFIX,i.pokernews.com
 DOMAIN-SUFFIX,i.viafoura.co
 DOMAIN-SUFFIX,ia.51.la
 DOMAIN-SUFFIX,ia.ekstrabladet.dk
+DOMAIN-SUFFIX,iabusprivacy.pmc.com
 DOMAIN-SUFFIX,ib.adnxs.com
 DOMAIN-SUFFIX,ibeat.indiatimes.com
 DOMAIN-SUFFIX,ibs.indiatimes.com
@@ -1264,6 +1266,7 @@ DOMAIN-SUFFIX,ms.computerbild.de
 DOMAIN-SUFFIX,msg.71.am
 DOMAIN-SUFFIX,mtag.mman.kr
 DOMAIN-SUFFIX,mtc.nhk.or.jp
+DOMAIN-SUFFIX,mtrcs.samba.tv
 DOMAIN-SUFFIX,mts-ws.rueducommerce.fr
 DOMAIN-SUFFIX,mv.treehousei.com
 DOMAIN-SUFFIX,mva1.maeva.com
@@ -1357,6 +1360,7 @@ DOMAIN-SUFFIX,pebed.dm.gg
 DOMAIN-SUFFIX,perf.dugout.com
 DOMAIN-SUFFIX,performanceplay.co.kr
 DOMAIN-SUFFIX,performances.bestofmedia.com
+DOMAIN-SUFFIX,perso.aws.arc.pub
 DOMAIN-SUFFIX,petitionermaster.appspot.com
 DOMAIN-SUFFIX,pf.newegg.com
 DOMAIN-SUFFIX,pgt1.voyage-prive.es
@@ -1563,6 +1567,7 @@ DOMAIN-SUFFIX,sa.bbc.co.uk
 DOMAIN-SUFFIX,sa.sky.it
 DOMAIN-SUFFIX,sa.squareup.com
 DOMAIN-SUFFIX,sa.tf1.fr
+DOMAIN-SUFFIX,sa135.kiro7.com
 DOMAIN-SUFFIX,sa135.macworld.co.uk
 DOMAIN-SUFFIX,sa135.wsbtv.com
 DOMAIN-SUFFIX,sal.isanook.com
