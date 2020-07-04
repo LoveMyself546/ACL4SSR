@@ -1511,7 +1511,7 @@
 
 # Adblock Rules
 # 内容：EasyList + EasyListChina + EasyPrivacy列表
-# 数量：9458条
+# 数量：9466条
 (^|\.)0024aaaa\.com$
 (^|\.)003store\.com$
 (^|\.)00880808\.com$
@@ -3253,11 +3253,13 @@
 (^|\.)br\.fling\.com$
 (^|\.)br\.realitykings\.com$
 (^|\.)brain\.foresee\.com$
+(^|\.)brandnewapp\.pro$
 (^|\.)brassstacker\.com$
 (^|\.)bravo\.israelweather\.co\.il$
 (^|\.)brcache\.madthumbs\.com$
 (^|\.)breakinginfo\.pro$
 (^|\.)breatedy\.club$
+(^|\.)breatmentbr\.top$
 (^|\.)bright\.bncnt\.com$
 (^|\.)brinarynuker\.site$
 (^|\.)briticatederfd\.site$
@@ -4434,6 +4436,7 @@
 (^|\.)easternpush\.xyz$
 (^|\.)easy2cnjuh34jb\.com$
 (^|\.)easylist-to\.xyz$
+(^|\.)eatmenticha\.top$
 (^|\.)ebay\.northernhost\.com$
 (^|\.)ebetoni\.com$
 (^|\.)ebp\.renren\.com$
@@ -4728,7 +4731,6 @@
 (^|\.)fanli\.in$
 (^|\.)fanyi100\.com\.cn$
 (^|\.)fanzhuang\.net\.cn$
-(^|\.)faq\.brandnewapp\.pro$
 (^|\.)faracoon\.com$
 (^|\.)farm-cn\.plista\.com$
 (^|\.)farpeiros\.pw$
@@ -4799,6 +4801,7 @@
 (^|\.)fhbv\.cn$
 (^|\.)fibpeeode\.site$
 (^|\.)fibusedie\.site$
+(^|\.)fictimruffles\.space$
 (^|\.)filament-stats\.herokuapp\.com$
 (^|\.)filmoljupci\.com$
 (^|\.)fimg-resp\.seznam\.cz$
@@ -5036,6 +5039,7 @@
 (^|\.)gellecondcle\.top$
 (^|\.)gen\.etherscan\.io$
 (^|\.)gencehepatie\.club$
+(^|\.)genergyothe\.top$
 (^|\.)geo\.6play\.fr$
 (^|\.)geo\.battle\.net$
 (^|\.)geo\.cliphunter\.com$
@@ -6493,6 +6497,7 @@
 (^|\.)lt\.tritondigital\.com$
 (^|\.)ltcprtc\.com$
 (^|\.)ltdnc\.com$
+(^|\.)ltdome\.com$
 (^|\.)lu\.sogoucdn\.com$
 (^|\.)lucid\.mjhassoc\.com$
 (^|\.)lucktui\.com$
@@ -6986,6 +6991,7 @@
 (^|\.)nepohita\.com$
 (^|\.)nernv\.com$
 (^|\.)nesoaghu\.net$
+(^|\.)nesparklines\.info$
 (^|\.)nessendencec\.info$
 (^|\.)nesystersp\.club$
 (^|\.)net\.haier\.com$
@@ -7942,6 +7948,7 @@
 (^|\.)redewdit\.pro$
 (^|\.)redeye\.williamhill\.com$
 (^|\.)redirect2719\.ws$
+(^|\.)redolymerse\.top$
 (^|\.)ref\.dealerinspire\.com$
 (^|\.)referer\.pixplug\.in$
 (^|\.)referrer\.disqus\.com$
@@ -8248,6 +8255,7 @@
 (^|\.)sdsqyyc\.com$
 (^|\.)sdsttt\.com$
 (^|\.)sdtbhbyb\.com$
+(^|\.)sdxctr\.com$
 (^|\.)sdxkdj\.cn$
 (^|\.)sdycd\.com$
 (^|\.)sdytsh\.com$
@@ -9218,6 +9226,7 @@
 (^|\.)tifybecausingp\.info$
 (^|\.)tijorari\.com$
 (^|\.)tikrailijorj\.com$
+(^|\.)tilfb\.com$
 (^|\.)tilosman\.com$
 (^|\.)tim\.nextinpact\.com$
 (^|\.)timeslogtn\.timesnow\.tv$
@@ -10175,7 +10184,6 @@
 (^|\.)wowjogsot\.com$
 (^|\.)wowostar\.cn$
 (^|\.)wowoyy\.cc$
-(^|\.)wp\.brandnewapp\.pro$
 (^|\.)wph2\.destinia\.us$
 (^|\.)wq19w\.cn$
 (^|\.)wqsph\.net$
