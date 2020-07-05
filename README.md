@@ -3,6 +3,7 @@
 ### 20200630
 #### 新增GameDownload.list，整合四大平台的下载规则
 #### 新增GamePlatform.list，整合四大平台的规则（不包含下载）
+### 20200705更新
 #
 # 目前Clash支持的规则类型如下：
 * DOMAIN-SUFFIX：域名后缀匹配
