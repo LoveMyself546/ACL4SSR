@@ -40,7 +40,6 @@
 (^|\.)\w*adsystem\w*\.\w*$
 (^|\.)\w*adwords\w*\.\w*$
 (^|\.)\w*analysis\w*\.\w*$
-(^|\.)\w*analytics\w*\.\w*$
 (^|\.)\w*applovin\w*\.\w*$
 (^|\.)\w*appsflyer\w*\.\w*$
 (^|\.)\w*domob\w*\.\w*$
