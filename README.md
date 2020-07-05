@@ -1,4 +1,6 @@
 # 原ACL规则https://github.com/ACL4SSR/ACL4SSR 基于此规则按个人习惯二次修改
+
+
 ## 修改日志：
 >### 20200630
 >* 新增GameDownload.list，整合四大平台的下载规则
@@ -11,7 +13,8 @@
 >   * 更新ABP规则
 >   * 添加一堆clash新版rule-providers格式的, 自己可以自定义了！！！
 >   * 位置: /Clash/Providers (https://github.com/ACL4SSR/ACL4SSR/tree/master/Clash/Providers) 
-#
+
+
 # 目前Clash支持的规则类型如下：
 * DOMAIN-SUFFIX：域名后缀匹配
 * DOMAIN：域名匹配
