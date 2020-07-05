@@ -8,9 +8,9 @@
 >* ACL规则
 >   * 更新ABP规则
 >* Clash规则
->*  更新ABP规则
->*  添加一堆clash新版rule-providers格式的, 自己可以自定义了！！！
->*  位置: /Clash/Providers (https://github.com/ACL4SSR/ACL4SSR/tree/master/Clash/Providers) 
+>   * 更新ABP规则
+>   * 添加一堆clash新版rule-providers格式的, 自己可以自定义了！！！
+>   * 位置: /Clash/Providers (https://github.com/ACL4SSR/ACL4SSR/tree/master/Clash/Providers) 
 #
 # 目前Clash支持的规则类型如下：
 * DOMAIN-SUFFIX：域名后缀匹配
