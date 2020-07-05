@@ -1,7 +1,7 @@
 # 原ACL规则https://github.com/ACL4SSR/ACL4SSR 基于此规则按个人习惯二次修改
 ## 已修改内容如下：
 >20200630
-* 新增GameDownload.list，整合四大平台的下载规则
+>* 新增GameDownload.list，整合四大平台的下载规则
 #### 新增GamePlatform.list，整合四大平台的规则（不包含下载）
 ### 20200705合并原作者2020年07月04日更新
 #### ACL规则
