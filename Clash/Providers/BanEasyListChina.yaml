@@ -2,8 +2,8 @@ payload:
   # 广告列表 adblock rules
   # 内容：EasyListChina列表，只包含ABP中的 EasyListChina 内容
   # 来源：https://easylist-downloads.adblockplus.org/easylistchina.txt
-  # 更新：2020-07-04 22:13:07
-  # 数量：4414条
+  # 更新：2020-07-06 21:03:39
+  # 数量：4416条
 
   - DOMAIN-SUFFIX,0024aaaa.com
   - DOMAIN-SUFFIX,003store.com
@@ -1053,6 +1053,7 @@ payload:
   - DOMAIN-SUFFIX,chaogej.com
   - DOMAIN-SUFFIX,charlesfc.com
   - DOMAIN-SUFFIX,chaxinyong.net
+  - DOMAIN-SUFFIX,chayibu.com
   - DOMAIN-SUFFIX,chehuanjie.com
   - DOMAIN-SUFFIX,chendjiangxing.cn
   - DOMAIN-SUFFIX,chengboke.cn
@@ -3915,6 +3916,7 @@ payload:
   - DOMAIN-SUFFIX,xn--2quz8f01ak10c.shop
   - DOMAIN-SUFFIX,xn--2ssq0ktxigkq.cc
   - DOMAIN-SUFFIX,xn--2ssq0ktxigkq.com
+  - DOMAIN-SUFFIX,xn--4gqqc629gbju.com
   - DOMAIN-SUFFIX,xn--4gqvdz18f.xyz
   - DOMAIN-SUFFIX,xn--czrshy5v7kb.cc
   - DOMAIN-SUFFIX,xn--ddua45lfy1c.ink
