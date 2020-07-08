@@ -164,7 +164,7 @@
 # Baidu
 (^|\.)(a|adm|adscdn|afd|als|anquan|appc|as|c|cb|cbjs|cbjslog|cjhq|cpro|cpro2|cpu-admin|crs|drmcmm|e|eclick|eiv|entry)\.baidu\.(com|cn)$
 (^|\.)(hc|hm|hmma|hpd|imageplus|ma|mobads-logs|mobads|mtj|nsclick)\.baidu\.(com|cn)$
-(^|\.)(pups|rj|rp|spcode|tk|tuisong|ucstat|ufosdk|union|utility|utk|videopush|wangmeng|wm|znsv)\.baidu\.(com|cn)$
+(^|\.)(pups|rj|rp|spcode|tk|tuisong|ucstat|union|utility|utk|videopush|wangmeng|wm|znsv)\.baidu\.(com|cn)$
 (^|\.)ad\.duapps\.com$
 (^|\.)ad\.player\.baidu\.com$
 (^|\.)adx\.xiaodutv\.com$
@@ -1511,7 +1511,7 @@
 
 # Adblock Rules
 # 内容：EasyList + EasyListChina + EasyPrivacy列表
-# 数量：9512条
+# 数量：9514条
 (^|\.)0024aaaa\.com$
 (^|\.)003store\.com$
 (^|\.)00880808\.com$
@@ -3452,6 +3452,7 @@
 (^|\.)ceparateauab\.info$
 (^|\.)cepegas\.com$
 (^|\.)cerizoug\.net$
+(^|\.)certainedds\.club$
 (^|\.)certakesime\.site$
 (^|\.)cesikelylibrarie\.site$
 (^|\.)cespousseluniv\.info$
@@ -4778,6 +4779,7 @@
 (^|\.)fdzsmfyy\.com$
 (^|\.)febadu\.com$
 (^|\.)fecjf\.cn$
+(^|\.)federalderok\.club$
 (^|\.)fedsit\.com$
 (^|\.)feed111\.com$
 (^|\.)feed777\.me$
@@ -6144,6 +6146,7 @@
 (^|\.)kilin\.xyz$
 (^|\.)kilomansa\.com$
 (^|\.)kilorama\.com$
+(^|\.)kindsworthmp\.club$
 (^|\.)kindznnd998\.xyz$
 (^|\.)kinesisproxy\.hearstlabs\.com$
 (^|\.)kingicking\.club$
@@ -8045,6 +8048,7 @@
 (^|\.)returnessety\.site$
 (^|\.)rev\.fapdu\.com$
 (^|\.)revbigo\.com$
+(^|\.)reviourffg\.club$
 (^|\.)revolutelyplan\.info$
 (^|\.)revsci\.tvguide\.com$
 (^|\.)rewapala\.com$
@@ -8184,7 +8188,6 @@
 (^|\.)s1\.anybunny\.tv$
 (^|\.)s1\.dugoogle\.com$
 (^|\.)s1\.hualaoye\.com$
-(^|\.)s1\.lcnf\.pro$
 (^|\.)s1\.qiqutt\.cn$
 (^|\.)s1\.qiqutt\.com$
 (^|\.)s1\.tuzhaozhao\.com$
@@ -8441,7 +8444,6 @@
 (^|\.)sionsrathet\.info$
 (^|\.)sisewepod\.com$
 (^|\.)sisterncoalitical\.info$
-(^|\.)site\.img\.4tube\.com$
 (^|\.)sitegoto\.com$
 (^|\.)siteinfo\.libero\.it$
 (^|\.)sitelife\.ehow\.com$
@@ -8808,7 +8810,6 @@
 (^|\.)stats\.harpercollins\.com$
 (^|\.)stats\.heyoya\.com$
 (^|\.)stats\.highwire\.com$
-(^|\.)stats\.hosting24\.com$
 (^|\.)stats\.ibtimes\.co\.in$
 (^|\.)stats\.ibtimes\.co\.uk$
 (^|\.)stats\.inergizedigitalmedia\.com$
@@ -8952,7 +8953,6 @@
 (^|\.)supertrackingz\.com$
 (^|\.)surfacecharo\.info$
 (^|\.)surgermystem\.site$
-(^|\.)surv\.xbizmedia\.com$
 (^|\.)survey\.interquest\.com$
 (^|\.)surveys\.cnet\.com$
 (^|\.)suukcn\.com$
@@ -8960,7 +8960,6 @@
 (^|\.)svfwer\.top$
 (^|\.)svsatrerbxh\.com$
 (^|\.)svsub\.com$
-(^|\.)sweet\.game-rust\.ru$
 (^|\.)swesomepop\.com$
 (^|\.)swhgd\.com$
 (^|\.)swindonadvertiser-gb\.swindonadvertiser\.co\.uk$
@@ -9248,6 +9247,7 @@
 (^|\.)thitegnu\.net$
 (^|\.)thodsserentlya\.info$
 (^|\.)thomagejut\.site$
+(^|\.)thoutiquede\.club$
 (^|\.)thterras\.com$
 (^|\.)thuyki\.cn$
 (^|\.)thxnr\.com$
@@ -9795,6 +9795,7 @@
 (^|\.)undm\.qibulo\.com$
 (^|\.)uneede\.com$
 (^|\.)unetall\.com$
+(^|\.)unformaticy\.club$
 (^|\.)unilz588\.com$
 (^|\.)union\.china\.com\.cn$
 (^|\.)union\.yihaodian\.com$
@@ -10668,6 +10669,7 @@
 (^|\.)ys1pve\.site$
 (^|\.)ys2000\.cdn\.bcebos\.com$
 (^|\.)ysdhe\.com$
+(^|\.)ysensionlatio\.space$
 (^|\.)ysgsq\.cn$
 (^|\.)ysjweb\.com$
 (^|\.)ysjwj\.com$
