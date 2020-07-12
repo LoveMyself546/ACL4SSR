@@ -1,7 +1,7 @@
 # Unbreak 白名单 不应该被广告链接的网站
 
 # Epicgames
-# DOMAIN-SUFFIX,ol.epicgames.com
+DOMAIN-SUFFIX,ol.epicgames.com
 
 # Google
 DOMAIN,dl.google.com
