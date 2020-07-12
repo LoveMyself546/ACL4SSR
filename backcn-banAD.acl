@@ -1836,7 +1836,7 @@
 (^|\.)hockeyapp\.net$
 (^|\.)smartmailcloud\.com$
 
-# Steam
+# SteamCN
 (^|\.)cdn\.mileweb\.cs\.steampowered\.com\.8686c\.com$
 (^|\.)dl\.steam\.ksyna\.com$
 (^|\.)st\.dl\.bscstorage\.net$
@@ -14415,6 +14415,10 @@
 (^|\.)chaturbate\.com$
 (^|\.)dditscdn\.com$
 (^|\.)livejasmin\.com$
+(^|\.)phncdn\.com$
+(^|\.)phprcdn\.com$
+(^|\.)pornhub\.com$
+(^|\.)pornhubpremium\.com$
 (^|\.)rdtcdn\.com$
 (^|\.)redtube\.com$
 (^|\.)sb-cd\.com$
