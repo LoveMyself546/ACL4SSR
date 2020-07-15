@@ -1,8 +1,8 @@
 # 广告列表 adblock rules
 # 内容：EasyPrivacy列表，隐私保护，屏蔽隐私追踪
 # 来源：https://easylist-downloads.adblockplus.org/easyprivacy.txt
-# 更新：2020-07-12 20:41:35
-# 数量：2524条
+# 更新：2020-07-15 20:27:18
+# 数量：2525条
 
 DOMAIN-SUFFIX,0sbm.consobaby.co.uk
 DOMAIN-SUFFIX,0x1f4b0.com
@@ -225,6 +225,7 @@ DOMAIN-SUFFIX,analytics.tout.com
 DOMAIN-SUFFIX,analytics.tradedoubler.com
 DOMAIN-SUFFIX,analytics.traderlink.com
 DOMAIN-SUFFIX,analytics.tribeca.vidavee.com
+DOMAIN-SUFFIX,analytics.unibuddy.co
 DOMAIN-SUFFIX,analytics.upworthy.com
 DOMAIN-SUFFIX,analytics.urx.io
 DOMAIN-SUFFIX,analytics.us.archive.org
@@ -437,6 +438,7 @@ DOMAIN-SUFFIX,click.bokecc.com
 DOMAIN-SUFFIX,click.engage.xbox.com
 DOMAIN-SUFFIX,click.gamersky.com
 DOMAIN-SUFFIX,click.oneplus.com
+DOMAIN-SUFFIX,click.sinx.com
 DOMAIN-SUFFIX,click.suning.cn
 DOMAIN-SUFFIX,click.udimg.com
 DOMAIN-SUFFIX,click.uol.com.br
@@ -1116,7 +1118,6 @@ DOMAIN-SUFFIX,log.outbrain.com
 DOMAIN-SUFFIX,log.outbrainimg.com
 DOMAIN-SUFFIX,log.pinterest.com
 DOMAIN-SUFFIX,log.prezi.com
-DOMAIN-SUFFIX,log.quora.com
 DOMAIN-SUFFIX,log.ren.tv
 DOMAIN-SUFFIX,log.seekda.com
 DOMAIN-SUFFIX,log.snapdeal.com
@@ -1528,7 +1529,6 @@ DOMAIN-SUFFIX,risk.clearbit.com
 DOMAIN-SUFFIX,rl.heise.de
 DOMAIN-SUFFIX,rlinks.one.in
 DOMAIN-SUFFIX,rok.com.com
-DOMAIN-SUFFIX,roll.bankofamerica.com
 DOMAIN-SUFFIX,rps-p2.rockpapershotgun.com
 DOMAIN-SUFFIX,rps-uk.rockpapershotgun.com
 DOMAIN-SUFFIX,rs.mail.ru
@@ -2507,6 +2507,7 @@ DOMAIN-SUFFIX,x9.shinobi.jp
 DOMAIN-SUFFIX,xay5o.toscane-boutique.fr
 DOMAIN-SUFFIX,xfn6.monaco.edu
 DOMAIN-SUFFIX,xr.shinobi.jp
+DOMAIN-SUFFIX,xtrack.capetown.gov.za
 DOMAIN-SUFFIX,xy33.smallable.com
 DOMAIN-SUFFIX,yast.rutube.ru
 DOMAIN-SUFFIX,yh6u.dealeusedevoyages.com

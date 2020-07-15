@@ -2,8 +2,8 @@ payload:
   # 广告列表 adblock rules
   # 内容：EasyListChina列表，只包含ABP中的 EasyListChina 内容
   # 来源：https://easylist-downloads.adblockplus.org/easylistchina.txt
-  # 更新：2020-07-12 20:41:29
-  # 数量：4442条
+  # 更新：2020-07-15 20:27:13
+  # 数量：4451条
 
   - DOMAIN-SUFFIX,0024aaaa.com
   - DOMAIN-SUFFIX,003store.com
@@ -44,6 +44,7 @@ payload:
   - DOMAIN-SUFFIX,0601chruopjsm.xyz
   - DOMAIN-SUFFIX,0615nxbsho.xyz
   - DOMAIN-SUFFIX,0629ohfsx.xyz
+  - DOMAIN-SUFFIX,0713bzksl.xyz
   - DOMAIN-SUFFIX,0728w.cn
   - DOMAIN-SUFFIX,0755man.cn
   - DOMAIN-SUFFIX,0796gou.com
@@ -358,6 +359,7 @@ payload:
   - DOMAIN-SUFFIX,6728812.com
   - DOMAIN-SUFFIX,6789.run
   - DOMAIN-SUFFIX,68665565.com
+  - DOMAIN-SUFFIX,68710266.com
   - DOMAIN-SUFFIX,688ct.com
   - DOMAIN-SUFFIX,6945k6.cn
   - DOMAIN-SUFFIX,69lm.com.cn
@@ -557,7 +559,6 @@ payload:
   - DOMAIN-SUFFIX,aauisg64017.cn
   - DOMAIN-SUFFIX,aazcio.cn
   - DOMAIN-SUFFIX,ab.cnbanbao.com
-  - DOMAIN-SUFFIX,ab.pincai.com
   - DOMAIN-SUFFIX,abc.douguo.com
   - DOMAIN-SUFFIX,abc.hkepc.com
   - DOMAIN-SUFFIX,abc.hkepc.net
@@ -706,6 +707,7 @@ payload:
   - DOMAIN-SUFFIX,alitx963.com
   - DOMAIN-SUFFIX,aliyoo999.com
   - DOMAIN-SUFFIX,aliyuncss.com
+  - DOMAIN-SUFFIX,aliyuni.xyz
   - DOMAIN-SUFFIX,aliyunxin.com
   - DOMAIN-SUFFIX,allluck.cn
   - DOMAIN-SUFFIX,allxin.com
@@ -1096,6 +1098,7 @@ payload:
   - DOMAIN-SUFFIX,cike666.com
   - DOMAIN-SUFFIX,city009.com
   - DOMAIN-SUFFIX,cityd.xyz
+  - DOMAIN-SUFFIX,cityf.xyz
   - DOMAIN-SUFFIX,cj-cy.com
   - DOMAIN-SUFFIX,cj1.256.cc
   - DOMAIN-SUFFIX,cjh9.cn
@@ -1138,7 +1141,6 @@ payload:
   - DOMAIN-SUFFIX,cnzhqs.com
   - DOMAIN-SUFFIX,cnzz.com.so
   - DOMAIN-SUFFIX,coccccc.cc
-  - DOMAIN-SUFFIX,cocoawu.b0.upaiyun.com
   - DOMAIN-SUFFIX,cod.southmoney.com
   - DOMAIN-SUFFIX,code.ditiezu.net
   - DOMAIN-SUFFIX,code.ts166.net
@@ -1698,6 +1700,7 @@ payload:
   - DOMAIN-SUFFIX,gk277.cn
   - DOMAIN-SUFFIX,gky73.cn
   - DOMAIN-SUFFIX,glasszz.com
+  - DOMAIN-SUFFIX,glgelevator.com
   - DOMAIN-SUFFIX,globbiz.cn
   - DOMAIN-SUFFIX,glpen08.com
   - DOMAIN-SUFFIX,glrcy.cn
@@ -2245,6 +2248,7 @@ payload:
   - DOMAIN-SUFFIX,jqz9.com
   - DOMAIN-SUFFIX,js.23yy.com
   - DOMAIN-SUFFIX,js.45bubu.com
+  - DOMAIN-SUFFIX,js.9136.com
   - DOMAIN-SUFFIX,js.bju888.com
   - DOMAIN-SUFFIX,js.duotegame.com
   - DOMAIN-SUFFIX,js.hkslg520.com
@@ -2405,6 +2409,7 @@ payload:
   - DOMAIN-SUFFIX,kuwoyy.com
   - DOMAIN-SUFFIX,kvinoo.com
   - DOMAIN-SUFFIX,kwjkd.com
+  - DOMAIN-SUFFIX,kwntistyuogo.com
   - DOMAIN-SUFFIX,kxrxh.com
   - DOMAIN-SUFFIX,kyad88.com
   - DOMAIN-SUFFIX,kyouad.com
@@ -2421,6 +2426,7 @@ payload:
   - DOMAIN-SUFFIX,lamwatch.com
   - DOMAIN-SUFFIX,langchars.com
   - DOMAIN-SUFFIX,lanshi021.com
+  - DOMAIN-SUFFIX,lantata.com
   - DOMAIN-SUFFIX,laobei.top
   - DOMAIN-SUFFIX,laojiayoufang.com
   - DOMAIN-SUFFIX,laolinow.com
@@ -3272,6 +3278,7 @@ payload:
   - DOMAIN-SUFFIX,sino-seve.com
   - DOMAIN-SUFFIX,sitemobia.com
   - DOMAIN-SUFFIX,sixgen.cn
+  - DOMAIN-SUFFIX,sixpcgame.com
   - DOMAIN-SUFFIX,sjaidu.com
   - DOMAIN-SUFFIX,sjbaiduadv1.redou.com
   - DOMAIN-SUFFIX,sjczsc.com
@@ -3538,6 +3545,7 @@ payload:
   - DOMAIN-SUFFIX,twodogegg.cn
   - DOMAIN-SUFFIX,twzui6.com
   - DOMAIN-SUFFIX,txdwc.cn
+  - DOMAIN-SUFFIX,txsadql.cn
   - DOMAIN-SUFFIX,txstatic.cn
   - DOMAIN-SUFFIX,txt2017.com
   - DOMAIN-SUFFIX,txt2019.cc
@@ -4001,6 +4009,7 @@ payload:
   - DOMAIN-SUFFIX,xuro006.com
   - DOMAIN-SUFFIX,xvnfyutv.com
   - DOMAIN-SUFFIX,xvyljkr.com
+  - DOMAIN-SUFFIX,xw1001.com
   - DOMAIN-SUFFIX,xxhrd.com
   - DOMAIN-SUFFIX,xxkio.com
   - DOMAIN-SUFFIX,xxlmxsh.com
