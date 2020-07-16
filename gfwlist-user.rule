@@ -5980,31 +5980,19 @@
 .stat.pptv.com reject
 
 # QQ Live
-.aiseet.aa.atianqi.com reject
-.aiseet.atianqi.com reject
 .c.l.qq.com reject
 .dp3.qq.com reject
-.livep.l.aiseet.atianqi.com reject
 .livep.l.qq.com reject
-.lives.l.aiseet.atianqi.com reject
 .lives.l.qq.com reject
 .livew.l.qq.com reject
 .mcgi.v.qq.com reject
 .mdevstat.qqlive.qq.com reject
-.monitor-uu.play.aiseet.atianqi.com reject
-.news-l.play.aiseet.atianqi.com reject
 .news.l.qq.com reject
 .omgmta1.qq.com reject
-.otheve.play.aiseet.atianqi.com reject
-.othstr.play.aiseet.atianqi.com reject
-.p-l.play.aiseet.atianqi.com reject
 .p.l.qq.com reject
-.sdkconfig.play.aiseet.atianqi.com reject
-.t-l.play.aiseet.atianqi.com reject
 .t.l.qq.com reject
 .u.l.qq.com reject
 .vmindhls.tc.qq.com reject
-.vv.play.aiseet.atianqi.com reject
 
 # Youku & Tudou
 .actives.youku.com reject
