@@ -509,7 +509,7 @@ cfw-bypass:
   - "*.firebaseio.com"
   - "*.hockeyapp.net"
   - "*.smartmailcloud.com"
-  # Steam
+  # SteamCN
   - "cdn.mileweb.cs.steampowered.com.8686c.com"
   - "dl.steam.ksyna.com"
   - "st.dl.bscstorage.net"
