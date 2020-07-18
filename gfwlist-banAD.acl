@@ -114,7 +114,6 @@
 (^|\.)(adash-c|adashbc|adashxgc)\.ut\.taobao\.com$
 (^|\.)alipaylog\.com$
 (^|\.)amdc\.alipay\.com$
-(^|\.)click\.mz\.simba\.taobao\.com$
 (^|\.)g\.click\.taobao\.com$
 (^|\.)g\.tbcdn\.cn$
 (^|\.)hydra\.alibaba\.com$
