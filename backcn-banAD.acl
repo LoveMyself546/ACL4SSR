@@ -165,7 +165,7 @@
 (^|\.)push\.app\.autohome\.com\.cn$
 
 # Baidu
-(^|\.)(a|adm|adscdn|afd|als|anquan|appc|as|c|cb|cbjs|cbjslog|cjhq|cpro|cpro2|cpu-admin|crs|drmcmm|e|eclick|eiv|entry)\.baidu\.(com|cn)$
+(^|\.)(a|adm|adscdn|afd|als|anquan|appc|as|c|cb|cbjs|cbjslog|cjhq|cpro|cpro2|cpu-admin|crs|drmcmm|e|eclick|eiv)\.baidu\.(com|cn)$
 (^|\.)(hc|hm|hmma|hpd|imageplus|ma|mobads-logs|mobads|mtj|nsclick)\.baidu\.(com|cn)$
 (^|\.)(pups|rj|rp|spcode|tk|tuisong|ucstat|union|utility|utk|videopush|wangmeng|wm|znsv)\.baidu\.(com|cn)$
 (^|\.)ad\.duapps\.com$
@@ -236,7 +236,6 @@
 (^|\.)mg09\.zhaopin\.com$
 (^|\.)mipcache\.bdstatic\.com$
 (^|\.)mpro\.baidu\.com$
-(^|\.)msite\.baidu\.com$
 (^|\.)neirong\.baidu\.com$
 (^|\.)nsclickvideo\.baidu\.com$
 (^|\.)openrcv\.baidu\.com$
@@ -415,6 +414,8 @@
 (^|\.)(r|security)\.browser\.miui\.com$
 (^|\.)adv\.sec.\intl\.miui.com$
 (^|\.)adv\.sec\.miui\.com$
+(^|\.)cdn\.cnbj1\.fds\.api\.mi-img\.com$
+(^|\.)data\.mistat\.xiaomi\.com$
 (^|\.)tracking\.miui\.com$
 (^|\.)union\.mi\.com$
 
@@ -440,6 +441,7 @@
 (^|\.)(act|adsfile|bugly|buluo|gdt|monitor|pingma|pingtcss|report|tajs|tcss|uu)\.qq\.com$
 (^|\.)(wxsnsdy|wxsnsdythumb)\.wxs\.qq\.com$
 (^|\.)ad\.qun\.qq\.com$
+(^|\.)oth\.eve\.mdt\.qq\.com$
 
 # RenRen
 (^|\.)jebe\.renren\.com$
@@ -703,7 +705,6 @@
 (^|\.)match\.rtbidder\.net$
 (^|\.)n-st\.vip\.com$
 (^|\.)pop\.uusee\.com$
-(^|\.)static\.bshare\.cn$
 (^|\.)static\.duoshuo\.com$
 (^|\.)t\.cr-nielsen\.com$
 (^|\.)terren\.cntv\.cn$
@@ -880,7 +881,6 @@
 (^|\.)bloggerads\.net$
 (^|\.)branch\.io$
 (^|\.)bsdev\.cn$
-(^|\.)bshare\.cn$
 (^|\.)btyou\.com$
 (^|\.)bugtags\.com$
 (^|\.)buysellads\.com$
