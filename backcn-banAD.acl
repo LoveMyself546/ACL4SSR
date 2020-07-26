@@ -414,7 +414,6 @@
 (^|\.)(r|security)\.browser\.miui\.com$
 (^|\.)adv\.sec.\intl\.miui.com$
 (^|\.)adv\.sec\.miui\.com$
-(^|\.)cdn\.cnbj1\.fds\.api\.mi-img\.com$
 (^|\.)data\.mistat\.xiaomi\.com$
 (^|\.)tracking\.miui\.com$
 (^|\.)union\.mi\.com$
