@@ -2,8 +2,8 @@ payload:
   # 广告列表 adblock rules
   # 内容：EasyList列表，只包含ABP中的 EasyList 内容
   # 来源：https://easylist-downloads.adblockplus.org/easylist.txt
-  # 更新：2020-07-26 11:38:47
-  # 数量：2958条
+  # 更新：2020-07-26 20:28:38
+  # 数量：2961条
 
   - DOMAIN-SUFFIX,01dbf3a452b6.com
   - DOMAIN-SUFFIX,05xz0h2xo799.com
@@ -123,6 +123,7 @@ payload:
   - DOMAIN-SUFFIX,abroadlynijiz.site
   - DOMAIN-SUFFIX,abrsamar.com
   - DOMAIN-SUFFIX,absolubleldan.site
+  - DOMAIN-SUFFIX,abusticsevi.club
   - DOMAIN-SUFFIX,acacdn.com
   - DOMAIN-SUFFIX,accedenonre.club
   - DOMAIN-SUFFIX,acceptiongere.site
@@ -2285,6 +2286,7 @@ payload:
   - DOMAIN-SUFFIX,runmeethoomes.info
   - DOMAIN-SUFFIX,rusenov.com
   - DOMAIN-SUFFIX,russionsdeath.fun
+  - DOMAIN-SUFFIX,rviceschoolr.club
   - DOMAIN-SUFFIX,rwindomdec.fun
   - DOMAIN-SUFFIX,rybystalfracted.fun
   - DOMAIN-SUFFIX,rydresa.info
@@ -2716,6 +2718,7 @@ payload:
   - DOMAIN-SUFFIX,uthorner.info
   - DOMAIN-SUFFIX,uthworkreaseu.info
   - DOMAIN-SUFFIX,utility.rogersmedia.com
+  - DOMAIN-SUFFIX,utlawglouce.club
   - DOMAIN-SUFFIX,utorido.com
   - DOMAIN-SUFFIX,utpenedwritted.info
   - DOMAIN-SUFFIX,utq55kl9vyqv.com

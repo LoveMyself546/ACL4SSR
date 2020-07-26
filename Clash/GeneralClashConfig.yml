@@ -517,7 +517,6 @@ cfw-bypass:
   - "st.dl.pinyuncloud.com"
   - "*.csgo.wmsj.cn"
   - "*.dota2.wmsj.cn"
-  - "*.steam-chat.com"
   - "*.steamcdn-a.akamaihd.net"
   - "*.steamcontent.com"
   - "*.steamgames.com"

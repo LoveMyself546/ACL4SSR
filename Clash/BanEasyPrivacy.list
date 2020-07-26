@@ -1,8 +1,8 @@
 # 广告列表 adblock rules
 # 内容：EasyPrivacy列表，隐私保护，屏蔽隐私追踪
 # 来源：https://easylist-downloads.adblockplus.org/easyprivacy.txt
-# 更新：2020-07-26 11:38:50
-# 数量：2540条
+# 更新：2020-07-26 20:28:41
+# 数量：2542条
 
 DOMAIN-SUFFIX,0sbm.consobaby.co.uk
 DOMAIN-SUFFIX,0x1f4b0.com
@@ -262,6 +262,7 @@ DOMAIN-SUFFIX,ape-tagit.timeinc.net
 DOMAIN-SUFFIX,apester.com/event
 DOMAIN-SUFFIX,api.nobeta.com.br
 DOMAIN-SUFFIX,api.wipmania.com
+DOMAIN-SUFFIX,app.launchdarkly.com
 DOMAIN-SUFFIX,apple.www.letv.com
 DOMAIN-SUFFIX,ar.i-run.fr
 DOMAIN-SUFFIX,argos.citruserve.com
@@ -655,6 +656,7 @@ DOMAIN-SUFFIX,data.glamour.ru
 DOMAIN-SUFFIX,data.mic.com
 DOMAIN-SUFFIX,data.minute.ly
 DOMAIN-SUFFIX,data.queryly.com
+DOMAIN-SUFFIX,data.reactandshare.com
 DOMAIN-SUFFIX,data.studybreakmedia.com
 DOMAIN-SUFFIX,data.younow.com
 DOMAIN-SUFFIX,datadog-service.mvfglobal.com
@@ -930,7 +932,6 @@ DOMAIN-SUFFIX,geo.play.it
 DOMAIN-SUFFIX,geo.q5media.net
 DOMAIN-SUFFIX,geo.xcel.io
 DOMAIN-SUFFIX,geo.yahoo.com
-DOMAIN-SUFFIX,geoapi.indiatimes.com
 DOMAIN-SUFFIX,geobar.ziffdavisinternational.com
 DOMAIN-SUFFIX,geobeacon.ign.com
 DOMAIN-SUFFIX,geoip-lookup.vice.com
@@ -1072,6 +1073,7 @@ DOMAIN-SUFFIX,l.ooyala.com
 DOMAIN-SUFFIX,l.player.ooyala.com
 DOMAIN-SUFFIX,l.popin.cc
 DOMAIN-SUFFIX,l.sharethis.com
+DOMAIN-SUFFIX,la-sync.taboola.com
 DOMAIN-SUFFIX,laas.americanexpress.com
 DOMAIN-SUFFIX,laurel.macrovision.com
 DOMAIN-SUFFIX,laurel.rovicorp.com
