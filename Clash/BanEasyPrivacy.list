@@ -1,8 +1,8 @@
 # 广告列表 adblock rules
 # 内容：EasyPrivacy列表，隐私保护，屏蔽隐私追踪
 # 来源：https://easylist-downloads.adblockplus.org/easyprivacy.txt
-# 更新：2020-07-28 21:35:47
-# 数量：2543条
+# 更新：2020-07-29 23:36:47
+# 数量：2539条
 
 DOMAIN-SUFFIX,0sbm.consobaby.co.uk
 DOMAIN-SUFFIX,0x1f4b0.com
@@ -1040,7 +1040,6 @@ DOMAIN-SUFFIX,insight.fonecta.fi
 DOMAIN-SUFFIX,insights.sitesearch360.com
 DOMAIN-SUFFIX,insitez.blob.core.windows.net
 DOMAIN-SUFFIX,instore.pagomeno.it
-DOMAIN-SUFFIX,intellecthosting.net
 DOMAIN-SUFFIX,intelli.ageuk.org.uk
 DOMAIN-SUFFIX,intent.cbsi.com
 DOMAIN-SUFFIX,intg.snapchat.com
@@ -1279,7 +1278,6 @@ DOMAIN-SUFFIX,mts-ws.rueducommerce.fr
 DOMAIN-SUFFIX,mv.treehousei.com
 DOMAIN-SUFFIX,mva1.maeva.com
 DOMAIN-SUFFIX,mwor.gq
-DOMAIN-SUFFIX,myregeneaf.com
 DOMAIN-SUFFIX,n.yunshipei.com
 DOMAIN-SUFFIX,nanostats.nanopress.it
 DOMAIN-SUFFIX,nb.myspace.com
@@ -2144,7 +2142,6 @@ DOMAIN-SUFFIX,track.cbs.com
 DOMAIN-SUFFIX,track.cedsdigital.it
 DOMAIN-SUFFIX,track.cinestar.de
 DOMAIN-SUFFIX,track.contently.com
-DOMAIN-SUFFIX,track.cooster.ru
 DOMAIN-SUFFIX,track.cordial.io
 DOMAIN-SUFFIX,track.derbund.ch
 DOMAIN-SUFFIX,track.dictionary.com
@@ -2408,7 +2405,6 @@ DOMAIN-SUFFIX,tvl8.supdecreation.com
 DOMAIN-SUFFIX,tw.i.hulu.com
 DOMAIN-SUFFIX,twch.20min.ch
 DOMAIN-SUFFIX,ubt.berlingskemedia.net
-DOMAIN-SUFFIX,ucounter.ucoz.net
 DOMAIN-SUFFIX,uestat.video.qiyi.com
 DOMAIN-SUFFIX,uid.mavencoalition.io
 DOMAIN-SUFFIX,up.boston.com
