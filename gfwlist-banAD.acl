@@ -1,6 +1,7 @@
 #**********************************************************************
-# 05.31
-# 2020年5月31日19:33:55
+# 07.26
+# 2020年7月26日 20:34:56
+#
 # 转载需要注明版权和来源
 # 全部规则来自GFWList 没有白名单
 #
@@ -114,7 +115,6 @@
 (^|\.)(adash-c|adashbc|adashxgc)\.ut\.taobao\.com$
 (^|\.)alipaylog\.com$
 (^|\.)amdc\.alipay\.com$
-(^|\.)click\.mz\.simba\.taobao\.com$
 (^|\.)g\.click\.taobao\.com$
 (^|\.)g\.tbcdn\.cn$
 (^|\.)hydra\.alibaba\.com$
@@ -156,9 +156,9 @@
 (^|\.)push\.app\.autohome\.com\.cn$
 
 # Baidu
-(^|\.)(a|adm|adscdn|afd|als|anquan|appc|as|c|cb|cbjs|cbjslog|cjhq|cpro|cpro2|cpu-admin|crs|drmcmm|e|eclick|eiv|entry)\.baidu\.(com|cn)$
+(^|\.)(a|adm|adscdn|afd|als|anquan|appc|as|c|cb|cbjs|cbjslog|cjhq|cpro|cpro2|cpu-admin|crs|drmcmm|e|eclick|eiv)\.baidu\.(com|cn)$
 (^|\.)(hc|hm|hmma|hpd|imageplus|ma|mobads-logs|mobads|mtj|nsclick)\.baidu\.(com|cn)$
-(^|\.)(pups|rj|rp|spcode|tk|tuisong|ucstat|ufosdk|union|utility|utk|videopush|wangmeng|wm|znsv)\.baidu\.(com|cn)$
+(^|\.)(pups|rj|rp|spcode|tk|tuisong|ucstat|union|utility|utk|videopush|wangmeng|wm|znsv)\.baidu\.(com|cn)$
 (^|\.)ad\.duapps\.com$
 (^|\.)ad\.player\.baidu\.com$
 (^|\.)adx\.xiaodutv\.com$
@@ -209,7 +209,6 @@
 (^|\.)fc-\.cdn\.bcebos\.com$
 (^|\.)fc-feed\.cdn\.bcebos\.com$
 (^|\.)fclick\.baidu\.com$
-(^|\.)feed\.baidu\.com$
 (^|\.)fexclick\.baidu\.com$
 (^|\.)g\.baidu\.com$
 (^|\.)gimg\.baidu\.com$
@@ -228,7 +227,6 @@
 (^|\.)mg09\.zhaopin\.com$
 (^|\.)mipcache\.bdstatic\.com$
 (^|\.)mpro\.baidu\.com$
-(^|\.)msite\.baidu\.com$
 (^|\.)neirong\.baidu\.com$
 (^|\.)nsclickvideo\.baidu\.com$
 (^|\.)openrcv\.baidu\.com$
@@ -405,6 +403,9 @@
 (^|\.)(d|migc|migcreport|mis)\.g\.mi\.com$
 (^|\.)(notice|ppurifier)\.game\.xiaomi\.com$
 (^|\.)(r|security)\.browser\.miui\.com$
+(^|\.)adv\.sec.\intl\.miui.com$
+(^|\.)adv\.sec\.miui\.com$
+(^|\.)data\.mistat\.xiaomi\.com$
 (^|\.)tracking\.miui\.com$
 (^|\.)union\.mi\.com$
 
@@ -427,7 +428,9 @@
 # QQ
 (^|\.)\w*omgmta\w*\.\w*$
 (^|\.)(act|adsfile|bugly|buluo|gdt|monitor|pingma|pingtcss|report|tajs|tcss|uu)\.qq\.com$
+(^|\.)(wxsnsdy|wxsnsdythumb)\.wxs\.qq\.com$
 (^|\.)ad\.qun\.qq\.com$
+(^|\.)oth\.eve\.mdt\.qq\.com$
 
 # RenRen
 (^|\.)jebe\.renren\.com$
@@ -614,8 +617,6 @@
 (^|\.)stat\.pptv\.com$
 
 # QQ Live
-(^|\.)aiseet\.aa\.atianqi\.com$
-(^|\.)aiseet\.atianqi\.com$
 (^|\.)btrace\.video\.qq\.com$
 (^|\.)c\.l\.qq\.com$
 (^|\.)dp3\.qq\.com$
@@ -692,7 +693,6 @@
 (^|\.)match\.rtbidder\.net$
 (^|\.)n-st\.vip\.com$
 (^|\.)pop\.uusee\.com$
-(^|\.)static\.bshare\.cn$
 (^|\.)static\.duoshuo\.com$
 (^|\.)t\.cr-nielsen\.com$
 (^|\.)terren\.cntv\.cn$
@@ -869,7 +869,6 @@
 (^|\.)bloggerads\.net$
 (^|\.)branch\.io$
 (^|\.)bsdev\.cn$
-(^|\.)bshare\.cn$
 (^|\.)btyou\.com$
 (^|\.)bugtags\.com$
 (^|\.)buysellads\.com$
@@ -4956,7 +4955,6 @@
 (^|\.)msha\.gov$
 (^|\.)m\.slandr\.net$
 (^|\.)mswe1\.org$
-(^|\.)m-team\.cc$
 (^|\.)mthruf\.com$
 (^|\.)mtw\.tl$
 (^|\.)muchosucko\.com$
@@ -7648,10 +7646,12 @@
 8.41.4.0/24
 23.246.0.0/18
 37.77.184.0/21
+38.72.126.0/24
 45.57.0.0/17
 64.120.128.0/17
 66.197.128.0/17
 69.53.224.0/19
+103.87.204.0/22
 108.175.32.0/20
 185.2.220.0/22
 185.9.188.0/22
@@ -7688,6 +7688,10 @@
 (^|\.)chaturbate\.com$
 (^|\.)dditscdn\.com$
 (^|\.)livejasmin\.com$
+(^|\.)phncdn\.com$
+(^|\.)phprcdn\.com$
+(^|\.)pornhub\.com$
+(^|\.)pornhubpremium\.com$
 (^|\.)rdtcdn\.com$
 (^|\.)redtube\.com$
 (^|\.)sb-cd\.com$
@@ -7712,6 +7716,7 @@
 # Steam
 (^|\.)fanatical\.com$
 (^|\.)humblebundle\.com$
+(^|\.)steam-chat\.com$
 (^|\.)steamcommunity\.com$
 (^|\.)steampowered\.com$
 (^|\.)steamstatic\.com$

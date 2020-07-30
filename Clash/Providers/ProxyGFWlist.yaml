@@ -2949,7 +2949,6 @@ payload:
   - DOMAIN-SUFFIX,lyfhk.net
   - DOMAIN-SUFFIX,lzmtnews.org
   - DOMAIN-SUFFIX,m-sport.co.uk
-  - DOMAIN-SUFFIX,m-team.cc
   - DOMAIN-SUFFIX,m.me
   - DOMAIN-SUFFIX,macgamestore.com
   - DOMAIN-SUFFIX,macrovpn.com
@@ -5689,6 +5688,10 @@ payload:
   - DOMAIN-SUFFIX,chaturbate.com
   - DOMAIN-SUFFIX,dditscdn.com
   - DOMAIN-SUFFIX,livejasmin.com
+  - DOMAIN-SUFFIX,phncdn.com
+  - DOMAIN-SUFFIX,phprcdn.com
+  - DOMAIN-SUFFIX,pornhub.com
+  - DOMAIN-SUFFIX,pornhubpremium.com
   - DOMAIN-SUFFIX,rdtcdn.com
   - DOMAIN-SUFFIX,redtube.com
   - DOMAIN-SUFFIX,sb-cd.com
@@ -5708,6 +5711,7 @@ payload:
   # Steam
   - DOMAIN-SUFFIX,fanatical.com
   - DOMAIN-SUFFIX,humblebundle.com
+  - DOMAIN-SUFFIX,steam-chat.com
   - DOMAIN-SUFFIX,steamcommunity.com
   - DOMAIN-SUFFIX,steampowered.com
   - DOMAIN-SUFFIX,steamstatic.com
