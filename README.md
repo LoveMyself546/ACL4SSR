@@ -12,15 +12,11 @@
 >
 >* 删除用不上的Tool文件夹
 >
->>合并原作者2020年07月04日更新
->>
->>* ACL规则
->>   * 更新ABP规则
->>* Clash规则
->>   * 更新ABP规则
->>   * 添加一堆clash新版rule-providers格式的, 自己可以自定义了！！！
->>     * 位置: /Clash/Providers (<https://github.com/LoveMyself666/ACL4SSR/tree/master/Clash/Providers>)
->>
+>* 合并原作者2020年07月04日更新
+>
+>### 20200730
+>
+>* 合并原作者2020年07月28日更新
 
 ## 目前Clash支持的规则类型如下
 
