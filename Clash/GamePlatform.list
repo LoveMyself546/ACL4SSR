@@ -21,7 +21,9 @@ DOMAIN-SUFFIX,helpshift.com
 DOMAIN-SUFFIX,paragon.com
 DOMAIN-SUFFIX,unrealengine.com
 
-#uplay平台  
+#uplay平台
+# uplay登录
+DOMAIN,public-ubiservices.ubi.com
 # uplay客户端更新（非游戏下载）
 DOMAIN,static3.cdn.ubi.com
 # uplay云同步
