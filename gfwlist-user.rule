@@ -5300,7 +5300,6 @@
 .img2.126.net reject
 .mimg.126.net reject
 .ws.126.net reject
-.push.126.net reject
 .haitaoad.nosdn.127.net reject
 
 .a.youdao.com reject
