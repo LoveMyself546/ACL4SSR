@@ -1,6 +1,6 @@
 # 内容：国外媒体列表
-# 更新：2021-02-27 19:10:51
-# 数量：321条
+# 更新：2021-04-03 20:26:58
+# 数量：322条
 
 # ABC
 DOMAIN-SUFFIX,edgedatg.com
@@ -156,6 +156,7 @@ DOMAIN-SUFFIX,hbogo.com
 DOMAIN-SUFFIX,hbogoasia.com
 DOMAIN-SUFFIX,hbogoasia.hk
 DOMAIN-SUFFIX,hbomax.com
+DOMAIN-SUFFIX,hbomaxcdn.com
 DOMAIN-SUFFIX,hbonow.com
 
 # HBO_GO_HKG
@@ -259,7 +260,7 @@ DOMAIN-SUFFIX,tvb.com
 
 # Netflix
 USER-AGENT,Argo*
-DOMAIN-KEYWORD,dualstack.apiproxy-device-prod-nlb-
+DOMAIN-KEYWORD,dualstack.apiproxy-
 DOMAIN-KEYWORD,dualstack.ichnaea-web-
 DOMAIN,netflix.com.edgesuite.net
 DOMAIN-SUFFIX,fast.com
