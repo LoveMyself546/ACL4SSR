@@ -1,6 +1,6 @@
 # 内容：国外媒体列表
-# 更新：2021-04-03 20:26:58
-# 数量：322条
+# 更新：2021-04-03 20:51:23
+# 数量：323条
 
 # ABC
 DOMAIN-SUFFIX,edgedatg.com
@@ -53,6 +53,7 @@ DOMAIN,vod-thumb-uk-live.akamaized.net
 DOMAIN-SUFFIX,bbc.co
 DOMAIN-SUFFIX,bbc.co.uk
 DOMAIN-SUFFIX,bbc.com
+DOMAIN-SUFFIX,bbc.net.uk
 DOMAIN-SUFFIX,bbcfmt.hs.llnwd.net
 DOMAIN-SUFFIX,bbci.co
 DOMAIN-SUFFIX,bbci.co.uk

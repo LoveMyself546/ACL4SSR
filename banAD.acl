@@ -702,6 +702,7 @@
 (^|\.)(1|2)\.win7china\.com$
 (^|\.)(801|803|806|808|bdj|dol|click)\.(tianya|tianyaui)\.cn$
 (^|\.)(92x|its-dori)\.tumblr\.com$
+(^|\.)(ad-channel|ad-display)\.wikawika\.xyz$
 (^|\.)(adm|eq|ozone|stat|vaserviece)\.10jqka\.com\.cn$
 (^|\.)(ad|adadmin|ads)\.house365\.com$
 (^|\.)(ad|ads|counter)\.csdn\.net$
@@ -1566,6 +1567,7 @@
 (^|\.)alibabacloud\.com$
 (^|\.)alibabausercontent\.com$
 (^|\.)alicdn\.com$
+(^|\.)alicloudccp\.com$
 (^|\.)aliexpress\.com$
 (^|\.)aliimg\.com$
 (^|\.)alikunlun\.com$
@@ -1575,6 +1577,7 @@
 (^|\.)aliyun\.com$
 (^|\.)aliyuncdn\.com$
 (^|\.)aliyuncs\.com$
+(^|\.)aliyundrive\.com$
 (^|\.)amap\.com$
 (^|\.)autonavi\.com$
 (^|\.)dingtalk\.com$
@@ -2186,7 +2189,6 @@
 (^|\.)upyun\.com$
 (^|\.)uxengine\.net$
 (^|\.)videocc\.net$
-(^|\.)vmware\.com$
 (^|\.)wandoujia\.com$
 (^|\.)weather\.com$
 (^|\.)weico\.cc$
@@ -8585,7 +8587,7 @@
 (^|\.)tumbex\.com$
 (^|\.)twdvd\.com$
 (^|\.)unsplash\.com$
-(^|\.)xn--i2ru8q2qg\.com$
+(^|\.)vmware\.com$
 (^|\.)yunpanjingling\.com$
 (^|\.)ec2-54-210-142-85\.computer-1\.amazonaws\.com$
 (^|\.)ec2-54-174-24-124\.computer-1\.amazonaws\.com$
