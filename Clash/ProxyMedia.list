@@ -1,6 +1,6 @@
 # 内容：国外媒体列表
-# 更新：2021-04-03 20:51:23
-# 数量：323条
+# 更新：2021-04-11 11:59:36
+# 数量：314条
 
 # ABC
 DOMAIN-SUFFIX,edgedatg.com
@@ -124,18 +124,6 @@ DOMAIN-SUFFIX,fox.com
 DOMAIN-SUFFIX,foxdcg.com
 DOMAIN-SUFFIX,theplatform.com
 DOMAIN-SUFFIX,uplynk.com
-
-# FoxPlus
-USER-AGENT,FOXPlus*
-DOMAIN,cdn-fox-networks-group-green.akamaized.net
-DOMAIN,d3cv4a9a9wh0bt.cloudfront.net
-DOMAIN,foxsports01-i.akamaihd.net
-DOMAIN,foxsports02-i.akamaihd.net
-DOMAIN,foxsports03-i.akamaihd.net
-DOMAIN,staticasiafox.akamaized.net
-DOMAIN-SUFFIX,akamaized.net
-DOMAIN-SUFFIX,foxplus.com
-DOMAIN-SUFFIX,theplatform.com
 
 # HBO
 USER-AGENT,HBO%20GO%20PROD%20HKG*
@@ -340,6 +328,7 @@ DOMAIN-SUFFIX,pscdn.co
 DOMAIN-SUFFIX,scdn.co
 DOMAIN-SUFFIX,spoti.fi
 DOMAIN-SUFFIX,spotify.com
+DOMAIN-SUFFIX,spotifycdn.com
 DOMAIN-SUFFIX,spotifycdn.net
 
 # TIDAL
