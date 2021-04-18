@@ -1,6 +1,6 @@
 payload:
   # 内容：Apple
-  # 数量：25条
+  # 数量：27条
   - DOMAIN,apple.comscoreresearch.com
   - DOMAIN-SUFFIX,aaplimg.com
   - DOMAIN-SUFFIX,akadns.net

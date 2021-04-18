@@ -1,6 +1,6 @@
 payload:
   # 内容：Bilibili 哔哩哔哩
-  # 数量：18条
+  # 数量：19条
   # USER-AGENT,Bilibili*
   # USER-AGENT,bili*
   - DOMAIN,upos-hz-mirrorakam.akamaized.net
@@ -16,6 +16,7 @@ payload:
   - DOMAIN-SUFFIX,biligame.com
   - DOMAIN-SUFFIX,biligame.net
   - DOMAIN-SUFFIX,bilivideo.com
+  - DOMAIN-SUFFIX,bilivideo.cn
   - DOMAIN-SUFFIX,hdslb.com
   - DOMAIN-SUFFIX,im9.com
   - DOMAIN-SUFFIX,smtcdns.net
