@@ -1,8 +1,8 @@
 # 广告列表 adblock rules
 # 内容：EasyPrivacy列表，隐私保护，屏蔽隐私追踪
 # 来源：https://easylist-downloads.adblockplus.org/easyprivacy.txt
-# 更新：2021-04-11 11:59:34
-# 数量：6602条
+# 更新：2021-04-18 17:42:47
+# 数量：6613条
 
 DOMAIN-SUFFIX,0sbm.consobaby.co.uk
 DOMAIN-SUFFIX,0x1f4b0.com
@@ -549,6 +549,7 @@ DOMAIN-SUFFIX,app.updates.digicert.com
 DOMAIN-SUFFIX,app1.maatwerkonline.nl
 DOMAIN-SUFFIX,appanalysis.banggood.com
 DOMAIN-SUFFIX,apple.www.letv.com
+DOMAIN-SUFFIX,apxl.io
 DOMAIN-SUFFIX,aqdawf.ccm.net
 DOMAIN-SUFFIX,aqwvwn.cultfurniture.com
 DOMAIN-SUFFIX,ar.i-run.fr
@@ -1176,6 +1177,7 @@ DOMAIN-SUFFIX,data1.bell.ca
 DOMAIN-SUFFIX,data1.sparkasse.at
 DOMAIN-SUFFIX,data1.virginmobile.ca
 DOMAIN-SUFFIX,datadog-service.mvfglobal.com
+DOMAIN-SUFFIX,datagroup-reporting.shopeemobile.com
 DOMAIN-SUFFIX,datanoticias.prisasd.com
 DOMAIN-SUFFIX,daten.union-investment.de
 DOMAIN-SUFFIX,dawn3host.com
@@ -1699,6 +1701,7 @@ DOMAIN-SUFFIX,fr.sharpmarketing.eu
 DOMAIN-SUFFIX,frankwatching.actonservice.com
 DOMAIN-SUFFIX,fresh.techdirt.com
 DOMAIN-SUFFIX,frog9alea.com
+DOMAIN-SUFFIX,froglytics.eventfrog.ch
 DOMAIN-SUFFIX,fsbozl.dillards.com
 DOMAIN-SUFFIX,fsm.lapresse.ca
 DOMAIN-SUFFIX,fsz1.francoisesaget.com
@@ -3025,6 +3028,7 @@ DOMAIN-SUFFIX,mnxlyo.kinoteatr.ru
 DOMAIN-SUFFIX,mon-com-01.com
 DOMAIN-SUFFIX,mon.ingservices.nl
 DOMAIN-SUFFIX,mond.post.ch
+DOMAIN-SUFFIX,monitor.azure.com
 DOMAIN-SUFFIX,monitor.channel4.com
 DOMAIN-SUFFIX,monitor.ebay.com
 DOMAIN-SUFFIX,montpalatin.handicap.fr
@@ -3844,7 +3848,6 @@ DOMAIN-SUFFIX,saon6harz.com
 DOMAIN-SUFFIX,sarngq.dsklad.ru
 DOMAIN-SUFFIX,sasc.solidworks.com
 DOMAIN-SUFFIX,sat.sanoma.fi
-DOMAIN-SUFFIX,sats.manager-magazin.de
 DOMAIN-SUFFIX,sayac.hurriyettv.com
 DOMAIN-SUFFIX,sbdhdq.zeeman.com
 DOMAIN-SUFFIX,sbgsodufuosmmvsdf.info
@@ -4657,6 +4660,7 @@ DOMAIN-SUFFIX,sp.desertsun.com
 DOMAIN-SUFFIX,sp.desmoinesregister.com
 DOMAIN-SUFFIX,sp.detroitnews.com
 DOMAIN-SUFFIX,sp.dnj.com
+DOMAIN-SUFFIX,sp.dpgmedia.net
 DOMAIN-SUFFIX,sp.fanatical.com
 DOMAIN-SUFFIX,sp.fdlreporter.com
 DOMAIN-SUFFIX,sp.floridatoday.com
@@ -5432,6 +5436,7 @@ DOMAIN-SUFFIX,t.paydirekt.de
 DOMAIN-SUFFIX,t.perigold.com
 DOMAIN-SUFFIX,t.pswec.com
 DOMAIN-SUFFIX,t.quisma.com
+DOMAIN-SUFFIX,t.rainide.com
 DOMAIN-SUFFIX,t.raptorsmartadvisor.com
 DOMAIN-SUFFIX,t.regionsjob.com
 DOMAIN-SUFFIX,t.seesaa.net
@@ -5533,6 +5538,7 @@ DOMAIN-SUFFIX,telemetry.soundcloud.com
 DOMAIN-SUFFIX,telemetry.tableausoftware.com
 DOMAIN-SUFFIX,telemetry.tradingview.com
 DOMAIN-SUFFIX,tempo.inc.com
+DOMAIN-SUFFIX,temptation.ad.nl
 DOMAIN-SUFFIX,tenilstats.turner.com
 DOMAIN-SUFFIX,tent0mown.com
 DOMAIN-SUFFIX,teqeft.allegromedical.com
@@ -5797,6 +5803,7 @@ DOMAIN-SUFFIX,track.qcri.org
 DOMAIN-SUFFIX,track.qoof.com
 DOMAIN-SUFFIX,track.ra.icast.cn
 DOMAIN-SUFFIX,track.recreativ.ru
+DOMAIN-SUFFIX,track.rundschau-online.de
 DOMAIN-SUFFIX,track.searchignite.com
 DOMAIN-SUFFIX,track.searchiq.co
 DOMAIN-SUFFIX,track.securedvisit.com
@@ -5886,6 +5893,7 @@ DOMAIN-SUFFIX,tracker.timesgroup.com
 DOMAIN-SUFFIX,tracker.tiu.ru
 DOMAIN-SUFFIX,tracker.unbxdapi.com
 DOMAIN-SUFFIX,tracker.uprinting.com
+DOMAIN-SUFFIX,tracker.wigzopush.com
 DOMAIN-SUFFIX,tracker.winload.de
 DOMAIN-SUFFIX,tracker.wordstream.com
 DOMAIN-SUFFIX,tracker.wpserveur.net
@@ -5962,6 +5970,7 @@ DOMAIN-SUFFIX,tracking.hivecloud.net
 DOMAIN-SUFFIX,tracking.houzz.com
 DOMAIN-SUFFIX,tracking.hrs.de
 DOMAIN-SUFFIX,tracking.hsn.com
+DOMAIN-SUFFIX,tracking.hyros.com
 DOMAIN-SUFFIX,tracking.info.ivanti.com
 DOMAIN-SUFFIX,tracking.info.servicenow.com
 DOMAIN-SUFFIX,tracking.insperity.com
@@ -5980,6 +5989,7 @@ DOMAIN-SUFFIX,tracking.listhub.net
 DOMAIN-SUFFIX,tracking.livingsocial.com
 DOMAIN-SUFFIX,tracking.m.premier.info.shutterstock.com
 DOMAIN-SUFFIX,tracking.magnetmail.net
+DOMAIN-SUFFIX,tracking.markethero.io
 DOMAIN-SUFFIX,tracking.mathworks.com
 DOMAIN-SUFFIX,tracking.max.co.il
 DOMAIN-SUFFIX,tracking.medpagetoday.com
@@ -6143,6 +6153,7 @@ DOMAIN-SUFFIX,tshuxi.bbqguys.com
 DOMAIN-SUFFIX,tsj0.madeindesign.com
 DOMAIN-SUFFIX,ttauri.bikeperfect.com
 DOMAIN-SUFFIX,ttauri.creativebloq.com
+DOMAIN-SUFFIX,ttauri.cyclingnews.com
 DOMAIN-SUFFIX,ttauri.digitalcameraworld.com
 DOMAIN-SUFFIX,ttauri.guitarworld.com
 DOMAIN-SUFFIX,ttauri.laptopmag.com

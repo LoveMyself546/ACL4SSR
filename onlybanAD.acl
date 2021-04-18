@@ -52,14 +52,12 @@
 (^|\.)\w*pingfore\w*\.\w*$
 (^|\.)\w*socdm\w*\.\w*$
 (^|\.)\w*supersonicads\w*\.\w*$
-(^|\.)\w*tracking\w*\.\w*$
 (^|\.)\w*traffic\w*\.\w*$
 (^|\.)\w*usage\w*\.\w*$
 (^|\.)\w*wlmonitor\w*\.\w*$
 (^|\.)\w*zjtoolbar\w*\.\w*$
 (^|\.)ad\d{0,3}\..*$
 (^|\.)ads\d{0,3}\..*$
-(^|\.)tracking\..*$
 
 # 163
 (^|\.)(adgeo|bobo|fa|g|g1|gb|nex)(\.corp|)\.163\.com$
