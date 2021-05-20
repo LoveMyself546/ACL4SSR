@@ -2,8 +2,8 @@ payload:
   # 广告列表 adblock rules
   # 内容：EasyPrivacy列表，隐私保护，屏蔽隐私追踪
   # 来源：https://easylist-downloads.adblockplus.org/easyprivacy.txt
-  # 更新：2021-05-09 16:17:14
-  # 数量：9436条
+  # 更新：2021-05-20 21:10:53
+  # 数量：9450条
 
   - DOMAIN-SUFFIX,0sbm.consobaby.co.uk
   - DOMAIN-SUFFIX,0x1f4b0.com
@@ -694,12 +694,14 @@ payload:
   - DOMAIN-SUFFIX,analytic.ae.com
   - DOMAIN-SUFFIX,analytic.cibc.com
   - DOMAIN-SUFFIX,analytic.imlive.com
+  - DOMAIN-SUFFIX,analytic.rollout.io
   - DOMAIN-SUFFIX,analytic.surfline.com
   - DOMAIN-SUFFIX,analytic.underarmour.com
   - DOMAIN-SUFFIX,analyticcdn.globalmailer.com
   - DOMAIN-SUFFIX,analytics-api.samsunghealthcn.com
   - DOMAIN-SUFFIX,analytics-cms.whitebeard.me
   - DOMAIN-SUFFIX,analytics-production.hapyak.com
+  - DOMAIN-SUFFIX,analytics-proxy.springboard.com
   - DOMAIN-SUFFIX,analytics-rhwg.rhcloud.com
   - DOMAIN-SUFFIX,analytics-script.ad-shield.io
   - DOMAIN-SUFFIX,analytics-scripts.cablelabs.com
@@ -745,6 +747,7 @@ payload:
   - DOMAIN-SUFFIX,analytics.carambo.la
   - DOMAIN-SUFFIX,analytics.ceneo.pl
   - DOMAIN-SUFFIX,analytics.chase.com
+  - DOMAIN-SUFFIX,analytics.chegg.com
   - DOMAIN-SUFFIX,analytics.churchthemes.com
   - DOMAIN-SUFFIX,analytics.cibc.com
   - DOMAIN-SUFFIX,analytics.cibcrewards.com
@@ -759,15 +762,18 @@ payload:
   - DOMAIN-SUFFIX,analytics.cynapse.com
   - DOMAIN-SUFFIX,analytics.data.lloydsbankinggroup.com
   - DOMAIN-SUFFIX,analytics.datahc.com
+  - DOMAIN-SUFFIX,analytics.designspiration.com
   - DOMAIN-SUFFIX,analytics.dev.htmedia.in
   - DOMAIN-SUFFIX,analytics.dev.springboardvideo.com
   - DOMAIN-SUFFIX,analytics.developer.riotgames.com
   - DOMAIN-SUFFIX,analytics.dvidshub.net
   - DOMAIN-SUFFIX,analytics.ecosia.org
   - DOMAIN-SUFFIX,analytics.edgesuite.net
+  - DOMAIN-SUFFIX,analytics.eggoffer.com
   - DOMAIN-SUFFIX,analytics.eip.telegraph.co.uk
   - DOMAIN-SUFFIX,analytics.elx.cloud
   - DOMAIN-SUFFIX,analytics.erepublic.com
+  - DOMAIN-SUFFIX,analytics.faceitanalytics.com
   - DOMAIN-SUFFIX,analytics.favcy.com
   - DOMAIN-SUFFIX,analytics.filiotech.com
   - DOMAIN-SUFFIX,analytics.fnbfremont.com
@@ -846,6 +852,7 @@ payload:
   - DOMAIN-SUFFIX,analytics.ostr.io
   - DOMAIN-SUFFIX,analytics.ovh.com
   - DOMAIN-SUFFIX,analytics.paddle.com
+  - DOMAIN-SUFFIX,analytics.pagefly.io
   - DOMAIN-SUFFIX,analytics.performable.com
   - DOMAIN-SUFFIX,analytics.pgatour.com
   - DOMAIN-SUFFIX,analytics.photorank.me
@@ -1761,6 +1768,7 @@ payload:
   - DOMAIN-SUFFIX,counter.people.cn
   - DOMAIN-SUFFIX,counter.photopulse.ru
   - DOMAIN-SUFFIX,counter.pixplug.in
+  - DOMAIN-SUFFIX,counter.plos.org
   - DOMAIN-SUFFIX,counter.powweb.com
   - DOMAIN-SUFFIX,counter.pr-cy.ru
   - DOMAIN-SUFFIX,counter.proxycrawl.com
@@ -2669,6 +2677,7 @@ payload:
   - DOMAIN-SUFFIX,eymiwj.cancan.ro
   - DOMAIN-SUFFIX,eymiwj.prosport.ro
   - DOMAIN-SUFFIX,f-emc.ngsp.gov.vn
+  - DOMAIN-SUFFIX,f.schemeflood.com
   - DOMAIN-SUFFIX,f.staticlp.com
   - DOMAIN-SUFFIX,f0nn.oney.fr
   - DOMAIN-SUFFIX,f1tbit.com
@@ -3891,6 +3900,7 @@ payload:
   - DOMAIN-SUFFIX,logs.ggweb.nl
   - DOMAIN-SUFFIX,logs.hotstar.com
   - DOMAIN-SUFFIX,logs.naukri.com
+  - DOMAIN-SUFFIX,logs.psm.wmcdp.io
   - DOMAIN-SUFFIX,logs.ptable.com
   - DOMAIN-SUFFIX,logs.spilgames.com
   - DOMAIN-SUFFIX,logs.thebloggernetwork.com
@@ -5705,7 +5715,6 @@ payload:
   - DOMAIN-SUFFIX,pam.nextinpact.com
   - DOMAIN-SUFFIX,pampopholf.com
   - DOMAIN-SUFFIX,pan.render.com
-  - DOMAIN-SUFFIX,pap.qualityunit.com
   - DOMAIN-SUFFIX,pap.zalando.de
   - DOMAIN-SUFFIX,partner.cynapse.com
   - DOMAIN-SUFFIX,partner.haru-shop.jp
@@ -5953,6 +5962,8 @@ payload:
   - DOMAIN-SUFFIX,presentationtracking.netflix.com
   - DOMAIN-SUFFIX,prism.noordermeer.ch
   - DOMAIN-SUFFIX,prism.pandora.tv
+  - DOMAIN-SUFFIX,privacy-api.9gag.com
+  - DOMAIN-SUFFIX,privacy.outdoorsg.com
   - DOMAIN-SUFFIX,proac.nationwide.com
   - DOMAIN-SUFFIX,proactive.base.de
   - DOMAIN-SUFFIX,processor.asccommunications.com
@@ -6106,6 +6117,7 @@ payload:
   - DOMAIN-SUFFIX,rel.msn.com
   - DOMAIN-SUFFIX,rel.nextinpact.com
   - DOMAIN-SUFFIX,rel2.nextinpact.com
+  - DOMAIN-SUFFIX,relay.fiverr.com
   - DOMAIN-SUFFIX,rem-track.bild.de
   - DOMAIN-SUFFIX,remzba.maninstore.co.kr
   - DOMAIN-SUFFIX,renting.aldautomotive.es
@@ -6846,6 +6858,7 @@ payload:
   - DOMAIN-SUFFIX,smetrics.roche.de
   - DOMAIN-SUFFIX,smetrics.roger.ai
   - DOMAIN-SUFFIX,smetrics.ryanhomes.com
+  - DOMAIN-SUFFIX,smetrics.samsung.com
   - DOMAIN-SUFFIX,smetrics.scarboroughtoyota.ca
   - DOMAIN-SUFFIX,smetrics.sce.com
   - DOMAIN-SUFFIX,smetrics.seasearcher.com
@@ -7671,6 +7684,7 @@ payload:
   - DOMAIN-SUFFIX,stats.piaggio.com
   - DOMAIN-SUFFIX,stats.pixify.net
   - DOMAIN-SUFFIX,stats.planillaplus.com
+  - DOMAIN-SUFFIX,stats.podcastwebsites.com
   - DOMAIN-SUFFIX,stats.polldaddy.com
   - DOMAIN-SUFFIX,stats.portabella.io
   - DOMAIN-SUFFIX,stats.premiumsim.de
@@ -7680,6 +7694,7 @@ payload:
   - DOMAIN-SUFFIX,stats.proff.no
   - DOMAIN-SUFFIX,stats.propublica.org
   - DOMAIN-SUFFIX,stats.pselookup.vrymel.com
+  - DOMAIN-SUFFIX,stats.pstream.net
   - DOMAIN-SUFFIX,stats.qawl.app
   - DOMAIN-SUFFIX,stats.qbitstore.nl
   - DOMAIN-SUFFIX,stats.qdq.com
@@ -8001,7 +8016,6 @@ payload:
   - DOMAIN-SUFFIX,t.festo.com
   - DOMAIN-SUFFIX,t.freelancer.com
   - DOMAIN-SUFFIX,t.hypers.com.cn
-  - DOMAIN-SUFFIX,t.indeed.com
   - DOMAIN-SUFFIX,t.jossandmain.com
   - DOMAIN-SUFFIX,t.kck.st
   - DOMAIN-SUFFIX,t.leady.com

@@ -1,7 +1,7 @@
 payload:
   # 内容：国外媒体列表
-  # 更新：2021-04-24 11:42:56
-  # 数量：314条
+  # 更新：2021-05-20 21:10:54
+  # 数量：318条
 
   # ABC
   - DOMAIN-SUFFIX,edgedatg.com
@@ -123,7 +123,6 @@ payload:
   # USER-AGENT,FOX%20NOW*
   - DOMAIN-SUFFIX,fox.com
   - DOMAIN-SUFFIX,foxdcg.com
-  - DOMAIN-SUFFIX,theplatform.com
   - DOMAIN-SUFFIX,uplynk.com
 
   # HBO
@@ -150,7 +149,8 @@ payload:
   - DOMAIN-SUFFIX,hbonow.com
 
   # HBO_GO_HKG
-  # USER-AGENT,HBO%20GO%20PROD%20HKG*
+  # USER-AGENT,HBO%20GO%20PROD*
+  - DOMAIN-KEYWORD,.hbogoasia.
   - DOMAIN,44wilhpljf.execute-api.ap-southeast-1.amazonaws.com
   - DOMAIN,bcbolthboa-a.akamaihd.net
   - DOMAIN,cf-images.ap-southeast-1.prod.boltdns.net
@@ -160,6 +160,10 @@ payload:
   - DOMAIN,hboasia3-i.akamaihd.net
   - DOMAIN,hboasia4-i.akamaihd.net
   - DOMAIN,hboasia5-i.akamaihd.net
+  - DOMAIN,hboasialive.akamaized.net
+  - DOMAIN,hbogoprod-vod.akamaized.net
+  - DOMAIN,hbolb.onwardsmg.com
+  - DOMAIN,hbounify-prod.evergent.com
   - DOMAIN,players.brightcove.net
   - DOMAIN,s3-ap-southeast-1.amazonaws.com
   - DOMAIN-SUFFIX,hbogoasia.com
