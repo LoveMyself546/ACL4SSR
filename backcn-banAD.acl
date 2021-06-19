@@ -1509,12 +1509,14 @@
 # 代理列表
 
 # MyList
+(^|\.)13th\.tech$
 (^|\.)423down\.com$
 (^|\.)chaipip\.com$
 (^|\.)chinaplay\.store$
 (^|\.)hrtsea\.com$
 (^|\.)laomo\.me$
 (^|\.)mpyit\.com$
+(^|\.)qupu123\.com$
 
 # CN域名直连
 (^|\.)cn$
