@@ -1,8 +1,8 @@
 # 广告列表 adblock rules
 # 内容：EasyPrivacy列表，隐私保护，屏蔽隐私追踪
 # 来源：https://easylist-downloads.adblockplus.org/easyprivacy.txt
-# 更新：2021-06-19 20:35:11
-# 数量：9506条
+# 更新：2021-07-04 20:13:53
+# 数量：9511条
 
 DOMAIN-SUFFIX,0sbm.consobaby.co.uk
 DOMAIN-SUFFIX,0x1f4b0.com
@@ -910,7 +910,6 @@ DOMAIN-SUFFIX,analytics.strangeloopnetworks.com
 DOMAIN-SUFFIX,analytics.styria.hr
 DOMAIN-SUFFIX,analytics.supplyframe.com
 DOMAIN-SUFFIX,analytics.synedat.com
-DOMAIN-SUFFIX,analytics.tbs.com
 DOMAIN-SUFFIX,analytics.tcm.com
 DOMAIN-SUFFIX,analytics.teamcoco.com
 DOMAIN-SUFFIX,analytics.teamcovenant.com
@@ -1049,6 +1048,7 @@ DOMAIN-SUFFIX,as.myhomebook.de
 DOMAIN-SUFFIX,as.mytoys.de
 DOMAIN-SUFFIX,as.payback.it
 DOMAIN-SUFFIX,as.rollingstone.de
+DOMAIN-SUFFIX,as.saechsische.de
 DOMAIN-SUFFIX,as.stylebook.de
 DOMAIN-SUFFIX,as.techbook.de
 DOMAIN-SUFFIX,as.travelbook.de
@@ -1346,6 +1346,7 @@ DOMAIN-SUFFIX,ca.mattamyhomes.com
 DOMAIN-SUFFIX,cache2.delvenetworks.com
 DOMAIN-SUFFIX,cahf4eed.mooo.com
 DOMAIN-SUFFIX,calmradio.actonservice.com
+DOMAIN-SUFFIX,camel.headfarming.com
 DOMAIN-SUFFIX,camisado.actonservice.com
 DOMAIN-SUFFIX,campaign.amadeus.com
 DOMAIN-SUFFIX,campaign.bbmbonnier.se
@@ -2642,6 +2643,7 @@ DOMAIN-SUFFIX,events.jotform.com
 DOMAIN-SUFFIX,events.matterport.com
 DOMAIN-SUFFIX,events.medio.com
 DOMAIN-SUFFIX,events.mywd.com
+DOMAIN-SUFFIX,events.newsroom.bi
 DOMAIN-SUFFIX,events.ocdn.eu
 DOMAIN-SUFFIX,events.onet.pl
 DOMAIN-SUFFIX,events.practo.com
@@ -2649,6 +2651,7 @@ DOMAIN-SUFFIX,events.privy.com
 DOMAIN-SUFFIX,events.realgravity.com
 DOMAIN-SUFFIX,events.reddit.com
 DOMAIN-SUFFIX,events.redditmedia.com
+DOMAIN-SUFFIX,events.santander.co.uk
 DOMAIN-SUFFIX,events.shareably.net
 DOMAIN-SUFFIX,events.sk.ht
 DOMAIN-SUFFIX,events.splash-screen.net
@@ -3478,7 +3481,6 @@ DOMAIN-SUFFIX,insights.compagnon.com
 DOMAIN-SUFFIX,insights.frenchtogether.com
 DOMAIN-SUFFIX,insights.mckimcg.ca
 DOMAIN-SUFFIX,insights.radiometer.com
-DOMAIN-SUFFIX,insights.samsung.com
 DOMAIN-SUFFIX,insights.sitesearch360.com
 DOMAIN-SUFFIX,insights.sport1.de
 DOMAIN-SUFFIX,insights.thisisgrow.com
@@ -3864,6 +3866,7 @@ DOMAIN-SUFFIX,log.ecgh.dk
 DOMAIN-SUFFIX,log.etoday.co.kr
 DOMAIN-SUFFIX,log.f-tra.com
 DOMAIN-SUFFIX,log.flight.qunar.com
+DOMAIN-SUFFIX,log.genyt.net
 DOMAIN-SUFFIX,log.gs3.goo.ne.jp
 DOMAIN-SUFFIX,log.hiiir.com
 DOMAIN-SUFFIX,log.hypebeast.com
@@ -3930,6 +3933,7 @@ DOMAIN-SUFFIX,logs.psm.wmcdp.io
 DOMAIN-SUFFIX,logs.ptable.com
 DOMAIN-SUFFIX,logs.spilgames.com
 DOMAIN-SUFFIX,logs.thebloggernetwork.com
+DOMAIN-SUFFIX,logs.viadata.store
 DOMAIN-SUFFIX,logs.vmixcore.com
 DOMAIN-SUFFIX,logsbin.dantri.com.vn
 DOMAIN-SUFFIX,logservice.hicloud.com
@@ -5475,6 +5479,7 @@ DOMAIN-SUFFIX,nojnix.solairepratique.com
 DOMAIN-SUFFIX,nol.yahoo.com
 DOMAIN-SUFFIX,nom.churchofjesuschrist.org
 DOMAIN-SUFFIX,nong3bram.com
+DOMAIN-SUFFIX,noodle.backmarket.io
 DOMAIN-SUFFIX,nora7nice.com
 DOMAIN-SUFFIX,nossl.aafp.org
 DOMAIN-SUFFIX,nossl.kennametal.com
@@ -6352,7 +6357,6 @@ DOMAIN-SUFFIX,sanalytics.spark.co.nz
 DOMAIN-SUFFIX,sanalytics.sprint.com
 DOMAIN-SUFFIX,sanalytics.sydney.edu.au
 DOMAIN-SUFFIX,sanalytics.tabichan.jp
-DOMAIN-SUFFIX,sanalytics.tbs.com
 DOMAIN-SUFFIX,sanalytics.tcm.com
 DOMAIN-SUFFIX,sanalytics.theinstitutes.org
 DOMAIN-SUFFIX,sanalytics.tnt-tv.de
@@ -8599,6 +8603,7 @@ DOMAIN-SUFFIX,track.ultimate-guitar.com
 DOMAIN-SUFFIX,track.untd.com
 DOMAIN-SUFFIX,track.vdo.ai
 DOMAIN-SUFFIX,track.veedio.it
+DOMAIN-SUFFIX,track.venatusmedia.com
 DOMAIN-SUFFIX,track.vscash.com
 DOMAIN-SUFFIX,track.wattpad.com
 DOMAIN-SUFFIX,track.wayin.com
