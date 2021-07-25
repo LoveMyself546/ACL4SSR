@@ -4408,7 +4408,6 @@
 (^|\.)statueofdemocracy\.org$
 (^|\.)stc\.com\.sa$
 (^|\.)steamcommunity\.com$
-(^|\.)steampowered\.com$
 (^|\.)steel-storm\.com$
 (^|\.)steemit\.com$
 (^|\.)steganos\.com$
@@ -5971,10 +5970,7 @@
 # Steam
 (^|\.)fanatical\.com$
 (^|\.)humblebundle\.com$
-(^|\.)steam-chat\.com$
 (^|\.)steamcommunity\.com$
-(^|\.)steampowered\.com$
-(^|\.)steamstatic\.com$
 
 # Telegram
 (^|\.)t\.me$

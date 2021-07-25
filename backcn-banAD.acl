@@ -14449,10 +14449,7 @@
 # Steam
 (^|\.)fanatical\.com$
 (^|\.)humblebundle\.com$
-(^|\.)steam-chat\.com$
 (^|\.)steamcommunity\.com$
-(^|\.)steampowered\.com$
-(^|\.)steamstatic\.com$
 
 # Telegram
 (^|\.)t\.me$
