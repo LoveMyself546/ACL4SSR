@@ -1,6 +1,6 @@
 # 内容：国外媒体列表
-# 更新：2021-08-15 15:02:24
-# 数量：344条
+# 更新：2021-09-04 12:53:45
+# 数量：345条
 
 # ABC
 DOMAIN-SUFFIX,edgedatg.com
@@ -355,6 +355,7 @@ DOMAIN-SUFFIX,soundcloud.com
 USER-AGENT,Spotify*
 DOMAIN-KEYWORD,-spotify-com
 DOMAIN-KEYWORD,spotify.com
+DOMAIN-SUFFIX,audio-ak-spotify-com.akamaized.net
 DOMAIN-SUFFIX,pscdn.co
 DOMAIN-SUFFIX,scdn.co
 DOMAIN-SUFFIX,spoti.fi
