@@ -1,8 +1,8 @@
 # 广告列表 adblock rules
 # 内容：EasyPrivacy列表，隐私保护，屏蔽隐私追踪
 # 来源：https://easylist-downloads.adblockplus.org/easyprivacy.txt
-# 更新：2021-10-23 10:45:06
-# 数量：11651条
+# 更新：2021-10-23 12:34:51
+# 数量：11654条
 
 DOMAIN-SUFFIX,0ewo7r50vwkz.www.botcomics.com
 DOMAIN-SUFFIX,0sbm.consobaby.co.uk
@@ -3439,6 +3439,7 @@ DOMAIN-SUFFIX,gi-client-tracking.goodgamestudios.com
 DOMAIN-SUFFIX,gi7a.structube.com
 DOMAIN-SUFFIX,gia.jd.com
 DOMAIN-SUFFIX,gj.mmstat.com
+DOMAIN-SUFFIX,gk.sina.cn
 DOMAIN-SUFFIX,gkfdkf.jdsports.co.uk
 DOMAIN-SUFFIX,gksqfw.reverso.net
 DOMAIN-SUFFIX,gkxaay.tontarellishop.com
@@ -4429,6 +4430,7 @@ DOMAIN-SUFFIX,log.quora.com
 DOMAIN-SUFFIX,log.reformal.ru
 DOMAIN-SUFFIX,log.ren.tv
 DOMAIN-SUFFIX,log.seekda.com
+DOMAIN-SUFFIX,log.sina.cn
 DOMAIN-SUFFIX,log.snapdeal.com
 DOMAIN-SUFFIX,log.superweb.ws
 DOMAIN-SUFFIX,log.sv.pandora.tv
@@ -4440,6 +4442,7 @@ DOMAIN-SUFFIX,log.wilmaa.com
 DOMAIN-SUFFIX,log.worldsoft-cms.info
 DOMAIN-SUFFIX,log000.goo.ne.jp
 DOMAIN-SUFFIX,log1.17173.com
+DOMAIN-SUFFIX,log2.sina.cn
 DOMAIN-SUFFIX,logbak.hicloud.com
 DOMAIN-SUFFIX,logg.kiwi.com
 DOMAIN-SUFFIX,logger.nerdwallet.com

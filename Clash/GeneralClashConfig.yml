@@ -253,6 +253,8 @@ cfw-bypass:
   - "*.kaikeba.com"
   - "*.laomo.me"
   - "*.mpyit.com"
+  - "*.msftconnecttest.com"
+  - "*.msftncsi.com"
   - "*.qupu123.com"
   # CN域名直连
   - "*.cn"
@@ -820,6 +822,7 @@ cfw-bypass:
   - "*.sspai.com"
   - "*.startssl.com"
   - "*.suning.com"
+  - "*.synology.com"
   - "*.taihe.com"
   - "*.th-sjy.com"
   - "*.tianqi.com"

@@ -1500,7 +1500,7 @@
 
 # Adblock Rules
 # 内容：EasyList + EasyListChina + EasyPrivacy列表
-# 数量：32151条
+# 数量：32153条
 (^|\.)00-gov\.cn$
 (^|\.)000123456789\.online$
 (^|\.)0024aaaa\.com$
@@ -12888,6 +12888,7 @@
 (^|\.)gjrswtzjn\.com$
 (^|\.)gjslebmbiawh\.com$
 (^|\.)gjw5qbyn93b8\.com$
+(^|\.)gk\.sina\.cn$
 (^|\.)gk1\.582582\.com$
 (^|\.)gk1\.zjbiz\.net$
 (^|\.)gk8j5woqk26f\.com$
@@ -17018,6 +17019,7 @@
 (^|\.)log\.reformal\.ru$
 (^|\.)log\.ren\.tv$
 (^|\.)log\.seekda\.com$
+(^|\.)log\.sina\.cn$
 (^|\.)log\.snapdeal\.com$
 (^|\.)log\.superweb\.ws$
 (^|\.)log\.sv\.pandora\.tv$
@@ -17029,6 +17031,7 @@
 (^|\.)log\.worldsoft-cms\.info$
 (^|\.)log000\.goo\.ne\.jp$
 (^|\.)log1\.17173\.com$
+(^|\.)log2\.sina\.cn$
 (^|\.)logbak\.hicloud\.com$
 (^|\.)logg\.kiwi\.com$
 (^|\.)logger\.nerdwallet\.com$
@@ -23990,7 +23993,6 @@
 (^|\.)s\.schlachter\.tech$
 (^|\.)s\.sick\.com$
 (^|\.)s\.simcoe\.com$
-(^|\.)s\.skimresources\.com$
 (^|\.)s\.sniphub\.com$
 (^|\.)s\.sporks\.space$
 (^|\.)s\.srvsynd\.com$
