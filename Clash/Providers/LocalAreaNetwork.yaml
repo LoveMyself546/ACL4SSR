@@ -33,3 +33,5 @@ payload:
   - DOMAIN-SUFFIX,routerlogin.com
   - DOMAIN-SUFFIX,tendawifi.com
   - DOMAIN-SUFFIX,zte.home
+  - DOMAIN,instant.arubanetworks.com
+  - DOMAIN,setmeup.arubanetworks.com
