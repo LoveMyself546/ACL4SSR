@@ -256,6 +256,7 @@ cfw-bypass:
   - "*.msftconnecttest.com"
   - "*.msftncsi.com"
   - "*.qupu123.com"
+  - "*.pdfwifi.com"
   # CN域名直连
   - "*.cn"
   - "*.中国"
@@ -355,7 +356,6 @@ cfw-bypass:
   - "*.biliapi.com"
   - "*.biliapi.net"
   - "*.bilibili.com"
-  - "*.bilibili.tv"
   - "*.biligame.com"
   - "*.biligame.net"
   - "*.bilivideo.com"
@@ -755,7 +755,6 @@ cfw-bypass:
   - "*.lanzoux.com"
   - "*.lemicp.com"
   - "*.letitfly.me"
-  - "*.linkedin.com"
   - "*.lizhi.fm"
   - "*.lizhi.io"
   - "*.lizhifm.com"

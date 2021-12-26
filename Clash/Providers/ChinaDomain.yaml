@@ -14,6 +14,7 @@ payload:
   - DOMAIN-SUFFIX,msftconnecttest.com
   - DOMAIN-SUFFIX,msftncsi.com
   - DOMAIN-SUFFIX,qupu123.com
+  - DOMAIN-SUFFIX,pdfwifi.com
 
   # CN域名直连
   - DOMAIN-SUFFIX,cn
@@ -121,7 +122,6 @@ payload:
   - DOMAIN-SUFFIX,biliapi.com
   - DOMAIN-SUFFIX,biliapi.net
   - DOMAIN-SUFFIX,bilibili.com
-  - DOMAIN-SUFFIX,bilibili.tv
   - DOMAIN-SUFFIX,biligame.com
   - DOMAIN-SUFFIX,biligame.net
   - DOMAIN-SUFFIX,bilivideo.com
@@ -567,7 +567,6 @@ payload:
   - DOMAIN-SUFFIX,lanzoux.com
   - DOMAIN-SUFFIX,lemicp.com
   - DOMAIN-SUFFIX,letitfly.me
-  - DOMAIN-SUFFIX,linkedin.com
   - DOMAIN-SUFFIX,lizhi.fm
   - DOMAIN-SUFFIX,lizhi.io
   - DOMAIN-SUFFIX,lizhifm.com
