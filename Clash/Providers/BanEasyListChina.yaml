@@ -2,8 +2,8 @@ payload:
   # 广告列表 adblock rules
   # 内容：EasyListChina列表，只包含ABP中的 EasyListChina 内容
   # 来源：https://easylist-downloads.adblockplus.org/easylistchina.txt
-  # 更新：2021-12-26 11:16:36
-  # 数量：6516条
+  # 更新：2021-12-26 15:16:39
+  # 数量：6523条
 
   - DOMAIN-SUFFIX,00-gov.cn
   - DOMAIN-SUFFIX,000123456789.online
@@ -1346,6 +1346,7 @@ payload:
   - DOMAIN-SUFFIX,bsfishing.cn
   - DOMAIN-SUFFIX,bsjgc.com
   - DOMAIN-SUFFIX,bskeye.com
+  - DOMAIN-SUFFIX,bslnb.cn
   - DOMAIN-SUFFIX,bt-xd.com
   - DOMAIN-SUFFIX,bt1.patexplorer.com
   - DOMAIN-SUFFIX,btbalex.cn
@@ -2337,6 +2338,7 @@ payload:
   - DOMAIN-SUFFIX,gf108.com
   - DOMAIN-SUFFIX,gfd80.com
   - DOMAIN-SUFFIX,gflcsiot.com
+  - DOMAIN-SUFFIX,gfncg.cn
   - DOMAIN-SUFFIX,gfshfg.com
   - DOMAIN-SUFFIX,gg.0598yu.com
   - DOMAIN-SUFFIX,gg.4kdy.net
@@ -2930,6 +2932,7 @@ payload:
   - DOMAIN-SUFFIX,ikxcep.xyz
   - DOMAIN-SUFFIX,il133.cn
   - DOMAIN-SUFFIX,il8r.com
+  - DOMAIN-SUFFIX,ilaohuyou.xyz
   - DOMAIN-SUFFIX,ilczz.cn
   - DOMAIN-SUFFIX,ilgze.cn
   - DOMAIN-SUFFIX,ilinxi.cc
@@ -4753,6 +4756,7 @@ payload:
   - DOMAIN-SUFFIX,show.kc.taotaosou.com
   - DOMAIN-SUFFIX,shproud.com
   - DOMAIN-SUFFIX,shrtswkj.com
+  - DOMAIN-SUFFIX,shsdw.cn
   - DOMAIN-SUFFIX,shsnjj.top
   - DOMAIN-SUFFIX,shtiesen.cn
   - DOMAIN-SUFFIX,shua66.vip
@@ -5387,6 +5391,7 @@ payload:
   - DOMAIN-SUFFIX,vvsbt.cn
   - DOMAIN-SUFFIX,vvv.ieduw.com
   - DOMAIN-SUFFIX,vwb4p.cn
+  - DOMAIN-SUFFIX,vxjvcwc.cn
   - DOMAIN-SUFFIX,vxsnk.com
   - DOMAIN-SUFFIX,vytxocb.cn
   - DOMAIN-SUFFIX,vyule.com
@@ -5876,6 +5881,7 @@ payload:
   - DOMAIN-SUFFIX,xuyangwl.cn
   - DOMAIN-SUFFIX,xvqdfwy.cn
   - DOMAIN-SUFFIX,xvyljkr.com
+  - DOMAIN-SUFFIX,xvyvknl.cn
   - DOMAIN-SUFFIX,xw1001.com
   - DOMAIN-SUFFIX,xwdsp.com
   - DOMAIN-SUFFIX,xwintop.top
@@ -6103,6 +6109,7 @@ payload:
   - DOMAIN-SUFFIX,yrehdfer.com
   - DOMAIN-SUFFIX,yrqwyn.cn
   - DOMAIN-SUFFIX,yrrsckr.cn
+  - DOMAIN-SUFFIX,yrzdbzq.cn
   - DOMAIN-SUFFIX,ys.muhoujiemi.com
   - DOMAIN-SUFFIX,ysclub.top
   - DOMAIN-SUFFIX,ysfc360.cn

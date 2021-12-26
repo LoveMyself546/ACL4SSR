@@ -22,7 +22,6 @@
 .s3.amazonaws.com remoteproxy
 .tumbex.com remoteproxy
 .twdvd.com remoteproxy
-.xn--i2ru8q2qg.com remoteproxy
 .eu-west-1.compute.amazonaws.com remoteproxy
 
 # GFWList
@@ -5071,7 +5070,6 @@
 .xmovies.com remoteproxy
 .xn--4gq171p.com remoteproxy
 .xn--czq75pvv1aj5c.org remoteproxy
-.xn--i2ru8q2qg.com remoteproxy
 .xn--ngstr-lra8j.com remoteproxy
 .xn--p8j9a0d9c9a.xn--q9jyb4c remoteproxy
 .xnxx.com remoteproxy

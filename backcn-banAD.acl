@@ -1517,6 +1517,7 @@
 (^|\.)laomo\.me$
 (^|\.)mpyit\.com$
 (^|\.)qupu123\.com$
+(^|\.)pdfwifi\.com$
 
 # CN域名直连
 (^|\.)cn$
@@ -2076,7 +2077,6 @@
 (^|\.)lanzou\.com$
 (^|\.)lemicp\.com$
 (^|\.)letitfly\.me$
-(^|\.)linkedin\.com$
 (^|\.)lizhi\.fm$
 (^|\.)lizhi\.io$
 (^|\.)lizhifm\.com$
@@ -8292,7 +8292,6 @@
 (^|\.)twdvd\.com$
 (^|\.)unsplash\.com$
 (^|\.)vmware\.com$
-(^|\.)yunpanjingling\.com$
 (^|\.)ec2-54-210-142-85\.computer-1\.amazonaws\.com$
 (^|\.)ec2-54-174-24-124\.computer-1\.amazonaws\.com$
 (^|\.)ec2-54-174-178-70\.computer-1\.amazonaws\.com$
