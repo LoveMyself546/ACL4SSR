@@ -1500,7 +1500,7 @@
 
 # Adblock Rules
 # 内容：EasyList + EasyListChina + EasyPrivacy列表
-# 数量：35023条
+# 数量：35026条
 (^|\.)00-gov\.cn$
 (^|\.)000123456789\.online$
 (^|\.)000123456789\.site$
@@ -2536,6 +2536,7 @@
 (^|\.)8wey4x0c\.com$
 (^|\.)8wtkfxiss1o2\.com$
 (^|\.)8yauhcv\.cn$
+(^|\.)90158js\.com$
 (^|\.)9053fe03868ab\.com$
 (^|\.)910weixin\.com$
 (^|\.)91cy\.top$
@@ -30468,6 +30469,7 @@
 (^|\.)szxhxp\.gehalt\.de$
 (^|\.)szxhybj\.com$
 (^|\.)szyuke\.cn$
+(^|\.)szzd\.ltd$
 (^|\.)t-pan\.triodos\.com$
 (^|\.)t-s\.activase\.com$
 (^|\.)t-s\.avastin-hcp\.com$
@@ -35631,6 +35633,7 @@
 (^|\.)ykxipfcg\.com$
 (^|\.)ykxwn\.com$
 (^|\.)yl-zipper\.com$
+(^|\.)ylbb-vipjs\.com$
 (^|\.)yldbt\.com$
 (^|\.)yldmgrimg\.net$
 (^|\.)ylfgybn\.cn$
@@ -37016,7 +37019,6 @@
 (^|\.)baomitu\.com$
 (^|\.)bootcss\.com$
 (^|\.)jiasule\.com$
-(^|\.)jsdelivr\.net$
 (^|\.)staticfile\.org$
 (^|\.)upaiyun\.com$
 
