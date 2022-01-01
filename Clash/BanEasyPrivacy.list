@@ -1,8 +1,8 @@
 # 广告列表 adblock rules
 # 内容：EasyPrivacy列表，隐私保护，屏蔽隐私追踪
 # 来源：https://easylist-downloads.adblockplus.org/easyprivacy.txt
-# 更新：2021-12-26 11:16:39
-# 数量：12607条
+# 更新：2022-01-01 16:17:52
+# 数量：12618条
 
 DOMAIN-SUFFIX,0sbm.consobaby.co.uk
 DOMAIN-SUFFIX,0x1f4b0.com
@@ -1433,6 +1433,7 @@ DOMAIN-SUFFIX,audit.shaa.it
 DOMAIN-SUFFIX,auforex.americanexpress.com
 DOMAIN-SUFFIX,auntants.com
 DOMAIN-SUFFIX,auriro.net
+DOMAIN-SUFFIX,auspiciousyard.com
 DOMAIN-SUFFIX,authcaptcha.com
 DOMAIN-SUFFIX,authentic3d.actonservice.com
 DOMAIN-SUFFIX,autoimmunity.thermofisher.com
@@ -3030,6 +3031,7 @@ DOMAIN-SUFFIX,education.bendigotafe.edu.au
 DOMAIN-SUFFIX,education.moodybible.org
 DOMAIN-SUFFIX,education.seek.intel.com
 DOMAIN-SUFFIX,edvaor.estro.ua
+DOMAIN-SUFFIX,eec.crunchyroll.com
 DOMAIN-SUFFIX,eel.transistor.fm
 DOMAIN-SUFFIX,eezdvg.beyyoglu.com
 DOMAIN-SUFFIX,ef.futuroscope.com
@@ -3490,6 +3492,7 @@ DOMAIN-SUFFIX,f-log-at.grammarly.io
 DOMAIN-SUFFIX,f-log-test.grammarly.io
 DOMAIN-SUFFIX,f0nn.oney.fr
 DOMAIN-SUFFIX,f1tbit.com
+DOMAIN-SUFFIX,f362.nola.com
 DOMAIN-SUFFIX,f5q72e2o8r5f.www.word.com.au
 DOMAIN-SUFFIX,f7ds.liberation.fr
 DOMAIN-SUFFIX,f8phvntohv.tpetry.me
@@ -3543,6 +3546,7 @@ DOMAIN-SUFFIX,fec1.optimhome.com
 DOMAIN-SUFFIX,fedcbaii.carte-gr.total.fr
 DOMAIN-SUFFIX,feebleshock.com
 DOMAIN-SUFFIX,feedback.vegasgoldenknights.com
+DOMAIN-SUFFIX,felix.data.tm-awx.com
 DOMAIN-SUFFIX,feqbqn.rent.com
 DOMAIN-SUFFIX,ffrmwn.musinsa.com
 DOMAIN-SUFFIX,fgbgtt.cian.ru
@@ -3706,6 +3710,7 @@ DOMAIN-SUFFIX,g12083144435.co
 DOMAIN-SUFFIX,g12281228770.co
 DOMAIN-SUFFIX,g12479313105.co
 DOMAIN-SUFFIX,g1584674682.co
+DOMAIN-SUFFIX,g1782759015.co
 DOMAIN-SUFFIX,g1782759016.co
 DOMAIN-SUFFIX,g1980843350.co
 DOMAIN-SUFFIX,g1be.swisslife-direct.fr
@@ -3721,6 +3726,7 @@ DOMAIN-SUFFIX,g792337343.co
 DOMAIN-SUFFIX,g8715710740.co
 DOMAIN-SUFFIX,g8913795075.co
 DOMAIN-SUFFIX,g9111879410.co
+DOMAIN-SUFFIX,g990421675.co
 DOMAIN-SUFFIX,g990421676.co
 DOMAIN-SUFFIX,ga-beacon.appspot.com
 DOMAIN-SUFFIX,ga.giuem.com
@@ -3929,6 +3935,7 @@ DOMAIN-SUFFIX,happen.spkt.io
 DOMAIN-SUFFIX,happenhistory.com
 DOMAIN-SUFFIX,harborcub.com
 DOMAIN-SUFFIX,hardtofindmilk.com
+DOMAIN-SUFFIX,harpocrates.ethyca.com
 DOMAIN-SUFFIX,hatefulrequest.com
 DOMAIN-SUFFIX,hauhws.asgoodasnew.de
 DOMAIN-SUFFIX,hauntlist.com
@@ -4625,7 +4632,6 @@ DOMAIN-SUFFIX,l.support.canva.com
 DOMAIN-SUFFIX,l.thumbtack.com
 DOMAIN-SUFFIX,l.typesquare.com
 DOMAIN-SUFFIX,l2k30jsa.theochu.com
-DOMAIN-SUFFIX,l9bjkkhaycw6f8f4.soundcloud.com
 DOMAIN-SUFFIX,la.secure.sonosite.com
 DOMAIN-SUFFIX,lacinfo.motorolasolutions.com
 DOMAIN-SUFFIX,lackadaisicalkite.com
@@ -6587,6 +6593,7 @@ DOMAIN-SUFFIX,nmlkjid.carte-gr.total.fr
 DOMAIN-SUFFIX,nmo1.orpi.com
 DOMAIN-SUFFIX,nnkkxb.nuts.com
 DOMAIN-SUFFIX,nnvtvx.chegg.com
+DOMAIN-SUFFIX,no9pldds1lmn3.soundcloud.com
 DOMAIN-SUFFIX,noa0.compteczam.fr
 DOMAIN-SUFFIX,noffreh.carte-gr.total.fr
 DOMAIN-SUFFIX,noflake-aggregator-http.narvar.com
@@ -6871,6 +6878,7 @@ DOMAIN-SUFFIX,owss.ihs.com
 DOMAIN-SUFFIX,oxifwsabgd.nzz.ch
 DOMAIN-SUFFIX,oyaswl.manor.ch
 DOMAIN-SUFFIX,oylyaz.mrkoll.se
+DOMAIN-SUFFIX,p-analytics.life
 DOMAIN-SUFFIX,p-log.ykimg.com
 DOMAIN-SUFFIX,p.adbrn.com
 DOMAIN-SUFFIX,p.aty.sohu.com
@@ -9845,6 +9853,7 @@ DOMAIN-SUFFIX,st.linkfire.com
 DOMAIN-SUFFIX,st.mazdausa.com
 DOMAIN-SUFFIX,st.newyorklife.com
 DOMAIN-SUFFIX,st.newyorklifeinvestments.com
+DOMAIN-SUFFIX,st.sawlive.tv
 DOMAIN-SUFFIX,st.tmgrup.com.tr
 DOMAIN-SUFFIX,st1.lg.avendrealouer.fr
 DOMAIN-SUFFIX,st2.jamesdaniel.dev
@@ -10372,6 +10381,7 @@ DOMAIN-SUFFIX,stats.yinyuetai.com
 DOMAIN-SUFFIX,stats.yourdallashandyman.com
 DOMAIN-SUFFIX,stats.yourfone.de
 DOMAIN-SUFFIX,stats.zander.wtf
+DOMAIN-SUFFIX,stats.zone-annuaire.one
 DOMAIN-SUFFIX,stats.zotabox.com
 DOMAIN-SUFFIX,stats1.tune.pk
 DOMAIN-SUFFIX,stats2.architecturaldigest.com
@@ -11431,6 +11441,7 @@ DOMAIN-SUFFIX,tracker.thinkermail.com
 DOMAIN-SUFFIX,tracker.thinkindot.com
 DOMAIN-SUFFIX,tracker.timesgroup.com
 DOMAIN-SUFFIX,tracker.tiu.ru
+DOMAIN-SUFFIX,tracker.tubecj.com
 DOMAIN-SUFFIX,tracker.tv.sohu.com
 DOMAIN-SUFFIX,tracker.unbxdapi.com
 DOMAIN-SUFFIX,tracker.uprinting.com
