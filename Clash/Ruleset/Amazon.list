@@ -1,5 +1,5 @@
 # 内容：Amazon
-# 数量：35条
+# 数量：37条
 DOMAIN-KEYWORD,avoddashs
 DOMAIN,atv-ps.amazon.com
 DOMAIN,avodmp4s3ww-a.akamaihd.net
@@ -18,6 +18,8 @@ DOMAIN-SUFFIX,amazon.com
 DOMAIN-SUFFIX,amazonaws.com
 DOMAIN-SUFFIX,amazonvideo.com
 DOMAIN-SUFFIX,media-amazon.com
+DOMAIN-SUFFIX,amazon.jobs
+DOMAIN-SUFFIX,aboutamazon.com
 DOMAIN-SUFFIX,pv-cdn.net
 IP-CIDR,13.32.0.0/15,no-resolve
 IP-CIDR,13.35.0.0/17,no-resolve
