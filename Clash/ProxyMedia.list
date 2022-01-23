@@ -1,6 +1,6 @@
 # 内容：国外媒体列表
-# 更新：2021-12-26 22:03:43
-# 数量：314条
+# 更新：2022-01-23 19:23:37
+# 数量：317条
 
 # ABC
 DOMAIN-SUFFIX,edgedatg.com
@@ -132,6 +132,7 @@ DOMAIN-SUFFIX,uplynk.com
 # HBO
 USER-AGENT,HBO%20NOW*
 USER-AGENT,HBOMAX*
+DOMAIN,execute-api.ap-southeast-1.amazonaws.com
 DOMAIN-SUFFIX,hbo.com
 DOMAIN-SUFFIX,hbogo.com
 DOMAIN-SUFFIX,hbomax.com
@@ -356,8 +357,10 @@ DOMAIN-SUFFIX,tiktokv.com
 
 # Twitch
 DOMAIN-KEYWORD,ttvnw
+DOMAIN-SUFFIX,ext-twitch.tv
 DOMAIN-SUFFIX,jtvnw.net
 DOMAIN-SUFFIX,ttvnw.net
+DOMAIN-SUFFIX,twitch-ext.rootonline.de
 DOMAIN-SUFFIX,twitch.tv
 DOMAIN-SUFFIX,twitchcdn.net
 
