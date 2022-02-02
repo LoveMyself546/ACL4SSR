@@ -416,7 +416,11 @@ payload:
   - DOMAIN-SUFFIX,ic.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
   - DOMAIN-SUFFIX,nativeapp.toutiao.com
+  - DOMAIN-SUFFIX,pangolin-sdk-toutiao-b.com
+  - DOMAIN-SUFFIX,pangolin-sdk-toutiao.com
+  - DOMAIN-SUFFIX,pangolin.snssdk.com
   - DOMAIN-SUFFIX,partner.toutiao.com
+  - DOMAIN-SUFFIX,pglstatp-toutiao.com
   - DOMAIN-SUFFIX,sm.toutiao.com
 
   # Dangdang
@@ -1023,7 +1027,6 @@ payload:
   - DOMAIN-SUFFIX,couchcoaster.jp
   - DOMAIN-SUFFIX,delivery.dmkt-sp.jp
   - DOMAIN-SUFFIX,ehg-youtube.hitbox.com
-  - DOMAIN-SUFFIX,m-78.jp
   - DOMAIN-SUFFIX,nichibenren.or.jp
   - DOMAIN-SUFFIX,nicorette.co.kr
   - DOMAIN-SUFFIX,ssl-youtube.2cnt.net

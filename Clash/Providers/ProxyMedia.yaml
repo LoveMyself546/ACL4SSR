@@ -1,7 +1,7 @@
 payload:
   # 内容：国外媒体列表
-  # 更新：2022-01-23 19:23:37
-  # 数量：317条
+  # 更新：2022-02-02 20:08:23
+  # 数量：324条
 
   # ABC
   - DOMAIN-SUFFIX,edgedatg.com
@@ -32,8 +32,10 @@ payload:
   - DOMAIN,d3196yreox78o9.cloudfront.net
   - DOMAIN,dmqdd6hw24ucf.cloudfront.net
   - DOMAIN,ktpx.amazon.com
+  - DOMAIN-SUFFIX,aboutamazon.com
   - DOMAIN-SUFFIX,aiv-cdn.net
   - DOMAIN-SUFFIX,aiv-delivery.net
+  - DOMAIN-SUFFIX,amazon.jobs
   - DOMAIN-SUFFIX,amazonvideo.com
   - DOMAIN-SUFFIX,media-amazon.com
   - DOMAIN-SUFFIX,pv-cdn.net
@@ -133,7 +135,6 @@ payload:
   # HBO
   # USER-AGENT,HBO%20NOW*
   # USER-AGENT,HBOMAX*
-  - DOMAIN,execute-api.ap-southeast-1.amazonaws.com
   - DOMAIN-SUFFIX,hbo.com
   - DOMAIN-SUFFIX,hbogo.com
   - DOMAIN-SUFFIX,hbomax.com
@@ -393,8 +394,14 @@ payload:
   - DOMAIN,yt3.ggpht.com
   - DOMAIN-SUFFIX,googlevideo.com
   - DOMAIN-SUFFIX,gvt2.com
+  - DOMAIN-SUFFIX,withyoutube.com
   - DOMAIN-SUFFIX,youtu.be
+  - DOMAIN-SUFFIX,youtube-nocookie.com
   - DOMAIN-SUFFIX,youtube.com
+  - DOMAIN-SUFFIX,youtubeeducation.com
+  - DOMAIN-SUFFIX,youtubegaming.com
+  - DOMAIN-SUFFIX,youtubekids.com
+  - DOMAIN-SUFFIX,yt.be
   - DOMAIN-SUFFIX,ytimg.com
 
   # YouTubeMusic

@@ -11,15 +11,15 @@ DOMAIN,d27xxe7juh1us6.cloudfront.net
 DOMAIN,d3196yreox78o9.cloudfront.net
 DOMAIN,dmqdd6hw24ucf.cloudfront.net
 DOMAIN,ktpx.amazon.com
+DOMAIN-SUFFIX,aboutamazon.com
 DOMAIN-SUFFIX,aiv-cdn.net
 DOMAIN-SUFFIX,aiv-delivery.net
 DOMAIN-SUFFIX,amazon.co.jp
 DOMAIN-SUFFIX,amazon.com
+DOMAIN-SUFFIX,amazon.jobs
 DOMAIN-SUFFIX,amazonaws.com
 DOMAIN-SUFFIX,amazonvideo.com
 DOMAIN-SUFFIX,media-amazon.com
-DOMAIN-SUFFIX,amazon.jobs
-DOMAIN-SUFFIX,aboutamazon.com
 DOMAIN-SUFFIX,pv-cdn.net
 IP-CIDR,13.32.0.0/15,no-resolve
 IP-CIDR,13.35.0.0/17,no-resolve
