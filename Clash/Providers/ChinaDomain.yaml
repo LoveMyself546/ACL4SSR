@@ -150,6 +150,7 @@ payload:
   - DOMAIN-SUFFIX,snssdk.com
   - DOMAIN-SUFFIX,toutiao.com
   - DOMAIN-SUFFIX,toutiao13.com
+  - DOMAIN-SUFFIX,toutiaoapi.com
   - DOMAIN-SUFFIX,toutiaocdn.com
   - DOMAIN-SUFFIX,toutiaocdn.net
   - DOMAIN-SUFFIX,toutiaocloud.com

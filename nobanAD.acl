@@ -188,6 +188,7 @@
 (^|\.)snssdk\.com$
 (^|\.)toutiao\.com$
 (^|\.)toutiao13\.com$
+(^|\.)toutiaoapi\.com$
 (^|\.)toutiaocdn\.com$
 (^|\.)toutiaocdn\.net$
 (^|\.)toutiaocloud\.com$

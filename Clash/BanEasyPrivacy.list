@@ -1,8 +1,8 @@
 # 广告列表 adblock rules
 # 内容：EasyPrivacy列表，隐私保护，屏蔽隐私追踪
 # 来源：https://easylist-downloads.adblockplus.org/easyprivacy.txt
-# 更新：2022-02-02 20:08:16
-# 数量：12614条
+# 更新：2022-02-05 10:49:16
+# 数量：12615条
 
 DOMAIN-SUFFIX,0sbm.consobaby.co.uk
 DOMAIN-SUFFIX,0x1f4b0.com
@@ -12590,6 +12590,7 @@ DOMAIN-SUFFIX,zm5d.lexpress.fr
 DOMAIN-SUFFIX,zminer.zaloapp.com
 DOMAIN-SUFFIX,znq9.destinia.mx
 DOMAIN-SUFFIX,zoiajw.yves-rocher.cz
+DOMAIN-SUFFIX,zononi.com
 DOMAIN-SUFFIX,zoomhead.xyz
 DOMAIN-SUFFIX,zopqks.kavehome.com
 DOMAIN-SUFFIX,zpnrnr.ab-in-den-urlaub.de
