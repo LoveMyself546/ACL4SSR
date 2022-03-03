@@ -126,12 +126,10 @@ payload:
   - DOMAIN-SUFFIX,activate-sea.adobe.com
   - DOMAIN-SUFFIX,activate-sjc0.adobe.com
   - DOMAIN-SUFFIX,activate.adobe.com
-  - DOMAIN-SUFFIX,activate.wip3.adobe.com
   - DOMAIN-SUFFIX,adobe-dns-2.adobe.com
   - DOMAIN-SUFFIX,adobe-dns-3.adobe.com
   - DOMAIN-SUFFIX,adobe-dns.adobe.com
   - DOMAIN-SUFFIX,ereg.adobe.com
-  - DOMAIN-SUFFIX,ereg.wip3.adobe.com
   - DOMAIN-SUFFIX,geo2.adobe.com
   - DOMAIN-SUFFIX,hl2rcv.adobe.com
   - DOMAIN-SUFFIX,hlrcv.stage.adobe.com
@@ -192,7 +190,6 @@ payload:
   - DOMAIN-SUFFIX,baikebcs.bdimg.com
   - DOMAIN-SUFFIX,banlv.baidu.com
   - DOMAIN-SUFFIX,bar.baidu.com
-  - DOMAIN-SUFFIX,bdimg.share.baidu.com
   - DOMAIN-SUFFIX,bdplus.baidu.com
   - DOMAIN-SUFFIX,btlaunch.baidu.com
   - DOMAIN-SUFFIX,c.baidu.cn
@@ -210,7 +207,6 @@ payload:
   - DOMAIN-SUFFIX,click.hm.baidu.com
   - DOMAIN-SUFFIX,click.qianqian.com
   - DOMAIN-SUFFIX,cm.baidu.com
-  - DOMAIN-SUFFIX,cm.pos.baidu.com
   - DOMAIN-SUFFIX,cpro.baidu.cn
   - DOMAIN-SUFFIX,cpro.baidu.com
   - DOMAIN-SUFFIX,cpro.baidustatic.com
@@ -313,13 +309,10 @@ payload:
   - DOMAIN-SUFFIX,rp.baidu.com
   - DOMAIN-SUFFIX,rplog.baidu.com
   - DOMAIN-SUFFIX,s.baidu.com
-  - DOMAIN-SUFFIX,s.cpro.baidu.com
-  - DOMAIN-SUFFIX,sa.tuisong.baidu.com
   - DOMAIN-SUFFIX,sclick.baidu.com
   - DOMAIN-SUFFIX,sestat.baidu.com
   - DOMAIN-SUFFIX,shadu.baidu.com
   - DOMAIN-SUFFIX,share.baidu.com
-  - DOMAIN-SUFFIX,snippet.pos.baidu.com
   - DOMAIN-SUFFIX,sobar.baidu.com
   - DOMAIN-SUFFIX,sobartop.baidu.com
   - DOMAIN-SUFFIX,spcode.baidu.cn
@@ -336,7 +329,6 @@ payload:
   - DOMAIN-SUFFIX,tuijian.baidu.com
   - DOMAIN-SUFFIX,tuisong.baidu.cn
   - DOMAIN-SUFFIX,tuisong.baidu.com
-  - DOMAIN-SUFFIX,uat1.bfsspadserver.8le8le.com
   - DOMAIN-SUFFIX,ubmcmm.baidustatic.com
   - DOMAIN-SUFFIX,ucstat.baidu.cn
   - DOMAIN-SUFFIX,ucstat.baidu.com
@@ -361,7 +353,6 @@ payload:
   - DOMAIN-SUFFIX,wisepush.video.baidu.com
   - DOMAIN-SUFFIX,wm.baidu.cn
   - DOMAIN-SUFFIX,wm.baidu.com
-  - DOMAIN-SUFFIX,wn.pos.baidu.com
   - DOMAIN-SUFFIX,znsv.baidu.cn
   - DOMAIN-SUFFIX,znsv.baidu.com
   - DOMAIN-SUFFIX,zz.bdstatic.com
@@ -416,7 +407,11 @@ payload:
   - DOMAIN-SUFFIX,ic.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
   - DOMAIN-SUFFIX,nativeapp.toutiao.com
+  - DOMAIN-SUFFIX,pangolin-sdk-toutiao-b.com
+  - DOMAIN-SUFFIX,pangolin-sdk-toutiao.com
+  - DOMAIN-SUFFIX,pangolin.snssdk.com
   - DOMAIN-SUFFIX,partner.toutiao.com
+  - DOMAIN-SUFFIX,pglstatp-toutiao.com
   - DOMAIN-SUFFIX,sm.toutiao.com
 
   # Dangdang
@@ -1023,7 +1018,6 @@ payload:
   - DOMAIN-SUFFIX,couchcoaster.jp
   - DOMAIN-SUFFIX,delivery.dmkt-sp.jp
   - DOMAIN-SUFFIX,ehg-youtube.hitbox.com
-  - DOMAIN-SUFFIX,m-78.jp
   - DOMAIN-SUFFIX,nichibenren.or.jp
   - DOMAIN-SUFFIX,nicorette.co.kr
   - DOMAIN-SUFFIX,ssl-youtube.2cnt.net
@@ -1036,8 +1030,6 @@ payload:
   - DOMAIN-SUFFIX,ads.wasu.tv
   - DOMAIN-SUFFIX,afp.wasu.tv
   - DOMAIN-SUFFIX,c.algovid.com
-  - DOMAIN-SUFFIX,cc.xtgreat.com
-  - DOMAIN-SUFFIX,d.dsp.imageter.com
   - DOMAIN-SUFFIX,gg.jtertp.com
   - DOMAIN-SUFFIX,gridsum-vd.cntv.cn
   - DOMAIN-SUFFIX,kwflvcdn.000dn.com

@@ -14,6 +14,7 @@ payload:
   - DOMAIN-SUFFIX,hoyolab.com
   - DOMAIN-SUFFIX,inoreader.com
   - DOMAIN-SUFFIX,ip138.com
+  - DOMAIN-SUFFIX,linkedin.com
   - DOMAIN-SUFFIX,myteamspeak.com
   - DOMAIN-SUFFIX,notion.so
   - DOMAIN-SUFFIX,ping.pe
@@ -22,8 +23,6 @@ payload:
   - DOMAIN-SUFFIX,tumbex.com
   - DOMAIN-SUFFIX,twdvd.com
   - DOMAIN-SUFFIX,unsplash.com
-  - DOMAIN-SUFFIX,xn--i2ru8q2qg.com
-  - DOMAIN-SUFFIX,yunpanjingling.com
 
   # 国外域名
   - DOMAIN-SUFFIX,eu
@@ -382,7 +381,22 @@ payload:
   # Steam
   - DOMAIN-SUFFIX,fanatical.com
   - DOMAIN-SUFFIX,humblebundle.com
+  - DOMAIN-SUFFIX,underlords.com
+  - DOMAIN-SUFFIX,valvesoftware.com
+  - DOMAIN-SUFFIX,playartifact.com
+  - DOMAIN-SUFFIX,steam-chat.com
   - DOMAIN-SUFFIX,steamcommunity.com
+  - DOMAIN-SUFFIX,steamgames.com
+  - DOMAIN-SUFFIX,steampowered.com
+  - DOMAIN-SUFFIX,steamstatic.com
+  - DOMAIN-SUFFIX,steamstat.us
+  - DOMAIN,steambroadcast.akamaized.net
+  - DOMAIN,steamcdn-a.akamaihd.net
+  - DOMAIN,steamcommunity-a.akamaihd.net
+  - DOMAIN,steamstore-a.akamaihd.net
+  - DOMAIN,steamusercontent-a.akamaihd.net
+  - DOMAIN,steamuserimages-a.akamaihd.net
+  - DOMAIN,steampipe.akamaized.net
 
   # TapTap
   - DOMAIN-SUFFIX,tap.io
