@@ -159,6 +159,7 @@ payload:
   - DOMAIN-SUFFIX,toutiaoimg.com
   - DOMAIN-SUFFIX,toutiaopage.com
   - DOMAIN-SUFFIX,wukong.com
+  - DOMAIN-SUFFIX,zijieapi.com
   - DOMAIN-SUFFIX,zijieimg.com
   - DOMAIN-SUFFIX,zjbyte.com
   - DOMAIN-SUFFIX,zjcdn.com
