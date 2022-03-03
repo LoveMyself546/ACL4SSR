@@ -15,11 +15,11 @@ DOMAIN-SUFFIX,msftncsi.com
 DOMAIN-SUFFIX,qupu123.com
 DOMAIN-SUFFIX,pdfwifi.com
 
-# CN域名直连
+# CN域名直连(cn|中国|公司|网络)
 DOMAIN-SUFFIX,cn
-DOMAIN-SUFFIX,中国
-DOMAIN-SUFFIX,公司
-DOMAIN-SUFFIX,网络
+DOMAIN-SUFFIX,xn--fiqs8s
+DOMAIN-SUFFIX,xn--55qx5d
+DOMAIN-SUFFIX,xn--io0a7i
 
 # 中国国内常见域名关键词直连
 DOMAIN-KEYWORD,-cn
