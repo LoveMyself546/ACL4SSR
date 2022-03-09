@@ -312,6 +312,7 @@ payload:
   - DOMAIN-SUFFIX,sonyentertainmentnetwork.com
 
   # SteamCN
+  - DOMAIN-SUFFIX,cm.steampowered.com
   - DOMAIN-SUFFIX,steamcontent.com
   - DOMAIN-SUFFIX,steamusercontent.com
   - DOMAIN-SUFFIX,steamchina.com
