@@ -15,7 +15,7 @@ DOMAIN-SUFFIX,msftncsi.com
 DOMAIN-SUFFIX,qupu123.com
 DOMAIN-SUFFIX,pdfwifi.com
 
-# CN域名直连(cn|中国|公司|网络)
+# CN域名直连(中国|公司|网络)
 DOMAIN-SUFFIX,cn
 DOMAIN-SUFFIX,xn--fiqs8s
 DOMAIN-SUFFIX,xn--55qx5d
