@@ -2,7 +2,7 @@ payload:
   # 广告列表 adblock rules
   # 内容：EasyPrivacy列表，隐私保护，屏蔽隐私追踪
   # 来源：https://easylist-downloads.adblockplus.org/easyprivacy.txt
-  # 更新：2022-03-03 22:44:43
+  # 更新：2022-03-09 22:32:48
   # 数量：12403条
 
   - DOMAIN-SUFFIX,0sbm.consobaby.co.uk
@@ -58,6 +58,7 @@ payload:
   - DOMAIN-SUFFIX,8147563.thekingdom.bk.com
   - DOMAIN-SUFFIX,8147563.your-way.bk.com
   - DOMAIN-SUFFIX,82o9v830.com
+  - DOMAIN-SUFFIX,8672.site
   - DOMAIN-SUFFIX,8ehhtsv9bo7i.monkeylearn.com
   - DOMAIN-SUFFIX,8ezc.sfr.fr
   - DOMAIN-SUFFIX,8p0kiyq5mq1d.flex.team
@@ -1159,6 +1160,7 @@ payload:
   - DOMAIN-SUFFIX,analytics.contents.by-fw.jp
   - DOMAIN-SUFFIX,analytics.convertlanguage.com
   - DOMAIN-SUFFIX,analytics.cynapse.com
+  - DOMAIN-SUFFIX,analytics.daasrv.net
   - DOMAIN-SUFFIX,analytics.data.lloydsbankinggroup.com
   - DOMAIN-SUFFIX,analytics.datahc.com
   - DOMAIN-SUFFIX,analytics.designspiration.com
@@ -3345,7 +3347,6 @@ payload:
   - DOMAIN-SUFFIX,engageru2.3mrussia.ru
   - DOMAIN-SUFFIX,enlightenment.secureshoppingbasket.com
   - DOMAIN-SUFFIX,ens.luzernerzeitung.ch
-  - DOMAIN-SUFFIX,ens.nzz.ch
   - DOMAIN-SUFFIX,ens.tagblatt.ch
   - DOMAIN-SUFFIX,enterprise2.secureforms.mcafee.com
   - DOMAIN-SUFFIX,entertainingeyes.com
@@ -3905,7 +3906,6 @@ payload:
   - DOMAIN-SUFFIX,go.federalbank.co.in
   - DOMAIN-SUFFIX,go.foremostmedia.com
   - DOMAIN-SUFFIX,go.fuze.com
-  - DOMAIN-SUFFIX,go.fvtc.edu
   - DOMAIN-SUFFIX,go.getherculestires.com
   - DOMAIN-SUFFIX,go.gpcom.com
   - DOMAIN-SUFFIX,go.hager.com
@@ -4011,7 +4011,6 @@ payload:
   - DOMAIN-SUFFIX,gw5worvzkb4j.stoic.ai
   - DOMAIN-SUFFIX,gwtc.sfr.fr
   - DOMAIN-SUFFIX,gx.idg.se
-  - DOMAIN-SUFFIX,gyvcwd.cdiscount.com
   - DOMAIN-SUFFIX,gzimdi.soloautos.mx
   - DOMAIN-SUFFIX,gzlxvg.papy.co.jp
   - DOMAIN-SUFFIX,h.imedia.cz
@@ -4476,6 +4475,7 @@ payload:
   - DOMAIN-SUFFIX,infos.yellow.com.au
   - DOMAIN-SUFFIX,infospot.roanokegroup.com
   - DOMAIN-SUFFIX,ingest.make.rvapps.io
+  - DOMAIN-SUFFIX,ingress.linktr.ee
   - DOMAIN-SUFFIX,inkubate.actonservice.com
   - DOMAIN-SUFFIX,innerskinresearch.com
   - DOMAIN-SUFFIX,innocentwax.com
@@ -8566,6 +8566,7 @@ payload:
   - DOMAIN-SUFFIX,smetrics.rejuvenation.com
   - DOMAIN-SUFFIX,smetrics.remserv.com.au
   - DOMAIN-SUFFIX,smetrics.renesas.com
+  - DOMAIN-SUFFIX,smetrics.repco.co.nz
   - DOMAIN-SUFFIX,smetrics.repco.com.au
   - DOMAIN-SUFFIX,smetrics.restaurant.com
   - DOMAIN-SUFFIX,smetrics.rexulti.com
@@ -10317,6 +10318,7 @@ payload:
   - DOMAIN-SUFFIX,telemetry.adobe.io
   - DOMAIN-SUFFIX,telemetry.api.playstation.com
   - DOMAIN-SUFFIX,telemetry.jivosite.com
+  - DOMAIN-SUFFIX,telemetry.phenixrts.com
   - DOMAIN-SUFFIX,telemetry.reembed.com
   - DOMAIN-SUFFIX,telemetry.soundcloud.com
   - DOMAIN-SUFFIX,telemetry.tableausoftware.com
@@ -10725,7 +10727,6 @@ payload:
   - DOMAIN-SUFFIX,tr.news.casino.fr
   - DOMAIN-SUFFIX,tr.news.casinodrive.fr
   - DOMAIN-SUFFIX,tr.news.casinomax.fr
-  - DOMAIN-SUFFIX,tr.news.cdiscount.com
   - DOMAIN-SUFFIX,tr.news.companeo.es
   - DOMAIN-SUFFIX,tr.news.cotemaison.fr
   - DOMAIN-SUFFIX,tr.news.deneuville-chocolat.fr
@@ -10771,7 +10772,6 @@ payload:
   - DOMAIN-SUFFIX,tr.news.younited-coach.com
   - DOMAIN-SUFFIX,tr.news.younited-credit.com
   - DOMAIN-SUFFIX,tr.news2pjms.fr
-  - DOMAIN-SUFFIX,tr.news6.cdiscount.com
   - DOMAIN-SUFFIX,tr.newsletter.afpa.fr
   - DOMAIN-SUFFIX,tr.newsletter.assuragency.net
   - DOMAIN-SUFFIX,tr.newsletter.bouygues-construction.com
@@ -10792,7 +10792,6 @@ payload:
   - DOMAIN-SUFFIX,tr.notification-gdpr.sygmabybnpparibas-pf.com
   - DOMAIN-SUFFIX,tr.notification.banque-revillon.fr
   - DOMAIN-SUFFIX,tr.notification.cafineo.fr
-  - DOMAIN-SUFFIX,tr.notification.cdiscount.com
   - DOMAIN-SUFFIX,tr.notification.cetelem.fr
   - DOMAIN-SUFFIX,tr.notification.credit-moderne.fr
   - DOMAIN-SUFFIX,tr.notification.norrsken.fr
@@ -11461,6 +11460,7 @@ payload:
   - DOMAIN-SUFFIX,ubmitt.heine.ch
   - DOMAIN-SUFFIX,ubmups.houseofindya.com
   - DOMAIN-SUFFIX,ubt.berlingskemedia.net
+  - DOMAIN-SUFFIX,ubuyanalytics.ubuy.com
   - DOMAIN-SUFFIX,ubvsjh.pointtown.com
   - DOMAIN-SUFFIX,ubxvdx.accuweather.com
   - DOMAIN-SUFFIX,udgrbq.malwarebytes.com
