@@ -2,8 +2,8 @@ payload:
   # 广告列表 adblock rules
   # 内容：EasyPrivacy列表，隐私保护，屏蔽隐私追踪
   # 来源：https://easylist-downloads.adblockplus.org/easyprivacy.txt
-  # 更新：2022-03-10 21:42:30
-  # 数量：12405条
+  # 更新：2022-03-12 13:36:35
+  # 数量：12408条
 
   - DOMAIN-SUFFIX,0sbm.consobaby.co.uk
   - DOMAIN-SUFFIX,0x1f4b0.com
@@ -2820,6 +2820,7 @@ payload:
   - DOMAIN-SUFFIX,dragzebra.com
   - DOMAIN-SUFFIX,dramaticcondition.com
   - DOMAIN-SUFFIX,dramaticdirection.com
+  - DOMAIN-SUFFIX,dratingmaject.com
   - DOMAIN-SUFFIX,drawermice.com
   - DOMAIN-SUFFIX,drawservant.com
   - DOMAIN-SUFFIX,dressexpansion.com
@@ -4091,6 +4092,7 @@ payload:
   - DOMAIN-SUFFIX,hits.dealer.com
   - DOMAIN-SUFFIX,hits.eluniversal.com.mx
   - DOMAIN-SUFFIX,hits.informer.com
+  - DOMAIN-SUFFIX,hits.porn.fr
   - DOMAIN-SUFFIX,hits.zdnet.co.kr
   - DOMAIN-SUFFIX,hitserver.ibope.com.br
   - DOMAIN-SUFFIX,hiuplq.diretta.it
@@ -11239,6 +11241,7 @@ payload:
   - DOMAIN-SUFFIX,tracking.seakeeper.com
   - DOMAIN-SUFFIX,tracking.searchmarketing.com
   - DOMAIN-SUFFIX,tracking.selective.com
+  - DOMAIN-SUFFIX,tracking.sexcash.com
   - DOMAIN-SUFFIX,tracking.sezzle.com
   - DOMAIN-SUFFIX,tracking.sfitrucks.com
   - DOMAIN-SUFFIX,tracking.sharplink.us

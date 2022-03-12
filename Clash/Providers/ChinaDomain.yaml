@@ -15,8 +15,10 @@ payload:
   - DOMAIN-SUFFIX,msftncsi.com
   - DOMAIN-SUFFIX,qupu123.com
   - DOMAIN-SUFFIX,pdfwifi.com
+  - DOMAIN-SUFFIX,zhenguanyu.biz
+  - DOMAIN-SUFFIX,zhenguanyu.com
 
-  # CN域名直连
+  # CN域名直连(中国|公司|网络)
   - DOMAIN-SUFFIX,cn
   - DOMAIN-SUFFIX,xn--fiqs8s
   - DOMAIN-SUFFIX,xn--55qx5d
@@ -598,7 +600,6 @@ payload:
   - DOMAIN-SUFFIX,oracle.com
   - DOMAIN-SUFFIX,oschina.net
   - DOMAIN-SUFFIX,ourdvs.com
-  - DOMAIN-SUFFIX,paypal.com
   - DOMAIN-SUFFIX,polyv.net
   - DOMAIN-SUFFIX,qbox.me
   - DOMAIN-SUFFIX,qcloud.com
