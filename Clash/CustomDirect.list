@@ -1,5 +1,7 @@
 # 自定义直连规则
 
+DOMAIN-SUFFIX,freenom.com
+
 # uplay登陆
 # DOMAIN,public-ubiservices.ubi.com
 
