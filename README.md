@@ -1,6 +1,6 @@
 # 基于ACL4SSR规则二次修改
 
-## 修改日志
+## 主要修改日志
 
 >### 20220415
 >* 新增 [Myself_Mini.ini](https://github.com/LoveMyself546/ACL4SSR/blob/master/Clash/config/Myself_Mini.ini) 配置文件，整合了规则看着简洁一点

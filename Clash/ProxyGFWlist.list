@@ -1,6 +1,8 @@
 # 代理列表
 
 # MyList && Other
+DOMAIN-SUFFIX,servarr.com
+DOMAIN-SUFFIX,cloudflare.com
 DOMAIN-SUFFIX,1password.com
 DOMAIN-SUFFIX,bit.no.com
 DOMAIN-SUFFIX,btlibrary.me
