@@ -3,7 +3,7 @@
 DOMAIN-SUFFIX,freenom.com
 
 # uplay登陆
-# DOMAIN,public-ubiservices.ubi.com
+#DOMAIN,public-ubiservices.ubi.com
 
 # steam登陆
-DOMAIN-SUFFIX,steampowered.com
+#DOMAIN-SUFFIX,steampowered.com
